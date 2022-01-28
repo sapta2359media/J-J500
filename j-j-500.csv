@@ -1,0 +1,1305 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1643302723369,758,Login-page,502,Bad Gateway,CDI-J&J 1-268,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,758,0,684
+1643302723345,762,Login-page,502,Bad Gateway,CDI-J&J 1-192,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,761,0,621
+1643302723911,214,Login-page,502,Bad Gateway,CDI-J&J 1-340,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,214,0,150
+1643302722210,1920,Login-page,502,Bad Gateway,CDI-J&J 1-170,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1920,0,1812
+1643302723525,605,Login-page,502,Bad Gateway,CDI-J&J 1-300,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,605,0,537
+1643302723355,770,Login-page,502,Bad Gateway,CDI-J&J 1-258,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,770,0,699
+1643302721741,2390,Login-page,502,Bad Gateway,CDI-J&J 1-123,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2390,0,2282
+1643302723657,467,Login-page,502,Bad Gateway,CDI-J&J 1-305,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,467,0,396
+1643302723613,514,Login-page,502,Bad Gateway,CDI-J&J 1-299,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,514,0,409
+1643302722260,1865,Login-page,502,Bad Gateway,CDI-J&J 1-175,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,1865,0,1761
+1643302722820,1304,Login-page,502,Bad Gateway,CDI-J&J 1-220,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,1304,0,1234
+1643302721240,2885,Login-page,502,Bad Gateway,CDI-J&J 1-73,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2885,0,2813
+1643302721119,3011,Login-page,502,Bad Gateway,CDI-J&J 1-61,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3011,0,2918
+1643302720900,3230,Login-page,502,Bad Gateway,CDI-J&J 1-39,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3230,0,3121
+1643302723412,711,Login-page,502,Bad Gateway,CDI-J&J 1-288,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,711,0,640
+1643302721980,2145,Login-page,502,Bad Gateway,CDI-J&J 1-147,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2145,0,2041
+1643302722351,1778,Login-page,502,Bad Gateway,CDI-J&J 1-184,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1778,0,1711
+1643302721893,2230,Login-page,502,Bad Gateway,CDI-J&J 1-138,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2230,0,2128
+1643302722833,1297,Login-page,502,Bad Gateway,CDI-J&J 1-224,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1297,0,1229
+1643302721949,2176,Login-page,502,Bad Gateway,CDI-J&J 1-144,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2176,0,2072
+1643302723408,714,Login-page,502,Bad Gateway,CDI-J&J 1-279,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,714,0,642
+1643302720919,3208,Login-page,502,Bad Gateway,CDI-J&J 1-41,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3208,0,3133
+1643302723345,782,Login-page,502,Bad Gateway,CDI-J&J 1-203,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,782,0,709
+1643302720690,3427,Login-page,502,Bad Gateway,CDI-J&J 1-18,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3427,0,3343
+1643302721400,2722,Login-page,502,Bad Gateway,CDI-J&J 1-89,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2722,0,2637
+1643302721760,2370,Login-page,502,Bad Gateway,CDI-J&J 1-125,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2370,0,2263
+1643302721649,2481,Login-page,502,Bad Gateway,CDI-J&J 1-114,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2481,0,2413
+1643302723717,390,Login-page,502,Bad Gateway,CDI-J&J 1-320,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,389,0,250
+1643302721730,2399,Login-page,502,Bad Gateway,CDI-J&J 1-122,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2399,0,2292
+1643302723080,1027,Login-page,502,Bad Gateway,CDI-J&J 1-237,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,1026,0,887
+1643302722242,1887,Login-page,502,Bad Gateway,CDI-J&J 1-173,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1887,0,1780
+1643302720780,3350,Login-page,502,Bad Gateway,CDI-J&J 1-27,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3350,0,3282
+1643302723371,756,Login-page,502,Bad Gateway,CDI-J&J 1-269,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,756,0,682
+1643302722857,1270,Login-page,502,Bad Gateway,CDI-J&J 1-229,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1270,0,1197
+1643302722574,1556,Login-page,502,Bad Gateway,CDI-J&J 1-193,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1556,0,1486
+1643302723359,770,Login-page,502,Bad Gateway,CDI-J&J 1-248,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,770,0,663
+1643302723647,473,Login-page,502,Bad Gateway,CDI-J&J 1-313,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,473,0,399
+1643302721580,2542,Login-page,502,Bad Gateway,CDI-J&J 1-107,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2542,0,2473
+1643302722858,1249,Login-page,502,Bad Gateway,CDI-J&J 1-219,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,1247,0,1115
+1643302721200,2922,Login-page,502,Bad Gateway,CDI-J&J 1-69,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2922,0,2852
+1643302723810,297,Login-page,502,Bad Gateway,CDI-J&J 1-329,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,290,0,156
+1643302720681,3449,Login-page,502,Bad Gateway,CDI-J&J 1-8,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3449,0,3380
+1643302723691,436,Login-page,502,Bad Gateway,CDI-J&J 1-317,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,435,0,332
+1643302721379,2743,Login-page,502,Bad Gateway,CDI-J&J 1-87,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2743,0,2659
+1643302721959,2171,Login-page,502,Bad Gateway,CDI-J&J 1-145,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2171,0,2070
+1643302723192,928,Login-page,502,Bad Gateway,CDI-J&J 1-239,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,928,0,854
+1643302720842,3266,Login-page,502,Bad Gateway,CDI-J&J 1-33,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,3265,0,3125
+1643302723424,693,Login-page,502,Bad Gateway,CDI-J&J 1-271,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,693,0,621
+1643302723910,335,Login-page,502,Bad Gateway,CDI-J&J 1-336,text,false,,300,132,373,373,https://staging.jnjonc2022.com/login,335,0,273
+1643302723077,1030,Login-page,502,Bad Gateway,CDI-J&J 1-236,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,1030,0,890
+1643302721510,2597,Login-page,502,Bad Gateway,CDI-J&J 1-100,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,2597,0,2501
+1643302721159,2968,Login-page,502,Bad Gateway,CDI-J&J 1-65,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2967,0,2862
+1643302723143,988,Login-page,502,Bad Gateway,CDI-J&J 1-226,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,988,0,919
+1643302723496,611,Login-page,502,Bad Gateway,CDI-J&J 1-294,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,609,0,527
+1643302723663,444,Login-page,502,Bad Gateway,CDI-J&J 1-304,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,439,0,310
+1643302721481,2627,Login-page,502,Bad Gateway,CDI-J&J 1-97,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,2626,0,2528
+1643302723522,595,Login-page,502,Bad Gateway,CDI-J&J 1-297,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,595,0,512
+1643302721129,2988,Login-page,502,Bad Gateway,CDI-J&J 1-62,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2988,0,2905
+1643302720800,3324,Login-page,502,Bad Gateway,CDI-J&J 1-29,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3324,0,3215
+1643302723361,746,Login-page,502,Bad Gateway,CDI-J&J 1-196,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,746,0,605
+1643302723407,700,Login-page,502,Bad Gateway,CDI-J&J 1-278,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,695,0,614
+1643302722170,1962,Login-page,502,Bad Gateway,CDI-J&J 1-166,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1962,0,1891
+1643302720682,3425,Login-page,502,Bad Gateway,CDI-J&J 1-12,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,3423,0,3341
+1643302723741,399,Login-page,502,Bad Gateway,CDI-J&J 1-322,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,399,0,340
+1643302723375,732,Login-page,502,Bad Gateway,CDI-J&J 1-281,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,725,0,647
+1643302723254,869,Login-page,502,Bad Gateway,CDI-J&J 1-209,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,869,0,792
+1643302721942,2198,Login-page,502,Bad Gateway,CDI-J&J 1-143,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,2198,0,2140
+1643302722864,1243,Login-page,502,Bad Gateway,CDI-J&J 1-190,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,1236,0,1103
+1643302722850,1257,Login-page,502,Bad Gateway,CDI-J&J 1-188,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,1255,0,1118
+1643302722219,1913,Login-page,502,Bad Gateway,CDI-J&J 1-171,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1913,0,1804
+1643302723343,784,Login-page,502,Bad Gateway,CDI-J&J 1-202,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,784,0,710
+1643302723623,501,Login-page,502,Bad Gateway,CDI-J&J 1-311,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,501,0,430
+1643302720681,3444,Login-page,502,Bad Gateway,CDI-J&J 1-1,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3444,0,3339
+1643302723690,436,Login-page,502,Bad Gateway,CDI-J&J 1-316,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,436,0,332
+1643302721930,2210,Login-page,502,Bad Gateway,CDI-J&J 1-142,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,2210,0,2151
+1643302721791,2329,Login-page,502,Bad Gateway,CDI-J&J 1-128,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2329,0,2255
+1643302720760,3358,Login-page,502,Bad Gateway,CDI-J&J 1-25,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3358,0,3274
+1643302723381,747,Login-page,502,Bad Gateway,CDI-J&J 1-262,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,747,0,672
+1643302721880,2250,Login-page,502,Bad Gateway,CDI-J&J 1-137,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2250,0,2154
+1643302721913,2233,Login-page,502,Bad Gateway,CDI-J&J 1-140,text,false,,300,132,363,363,https://staging.jnjonc2022.com/login,2233,0,2172
+1643302723405,715,Login-page,502,Bad Gateway,CDI-J&J 1-275,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,715,0,629
+1643302723409,698,Login-page,502,Bad Gateway,CDI-J&J 1-286,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,691,0,558
+1643302723371,736,Login-page,502,Bad Gateway,CDI-J&J 1-272,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,736,0,597
+1643302721551,2572,Login-page,502,Bad Gateway,CDI-J&J 1-104,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2572,0,2502
+1643302722070,2050,Login-page,502,Bad Gateway,CDI-J&J 1-156,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2049,0,1975
+1643302723368,740,Login-page,502,Bad Gateway,CDI-J&J 1-257,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,739,0,626
+1643302720681,3435,Login-page,502,Bad Gateway,CDI-J&J 1-9,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3435,0,3356
+1643302723611,528,Login-page,502,Bad Gateway,CDI-J&J 1-302,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,528,0,445
+1643302721970,2156,Login-page,502,Bad Gateway,CDI-J&J 1-146,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2156,0,2051
+1643302723632,487,Login-page,502,Bad Gateway,CDI-J&J 1-306,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,487,0,402
+1643302723378,748,Login-page,502,Bad Gateway,CDI-J&J 1-259,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,748,0,676
+1643302721141,2999,Login-page,502,Bad Gateway,CDI-J&J 1-63,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,2999,0,2941
+1643302723614,493,Login-page,502,Bad Gateway,CDI-J&J 1-308,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,488,0,353
+1643302720969,3162,Login-page,502,Bad Gateway,CDI-J&J 1-46,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3162,0,3092
+1643302723856,298,Login-page,502,Bad Gateway,CDI-J&J 1-333,text,false,,300,132,364,364,https://staging.jnjonc2022.com/login,298,0,227
+1643302720682,3442,Login-page,502,Bad Gateway,CDI-J&J 1-11,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3442,0,3372
+1643302722191,1949,Login-page,502,Bad Gateway,CDI-J&J 1-168,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,1949,0,1892
+1643302720810,3316,Login-page,502,Bad Gateway,CDI-J&J 1-30,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3316,0,3243
+1643302720949,3175,Login-page,502,Bad Gateway,CDI-J&J 1-44,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3175,0,3105
+1643302721210,2909,Login-page,502,Bad Gateway,CDI-J&J 1-70,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2909,0,2828
+1643302722041,2085,Login-page,502,Bad Gateway,CDI-J&J 1-153,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2085,0,2013
+1643302723374,733,Login-page,502,Bad Gateway,CDI-J&J 1-277,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,733,0,593
+1643302721049,3068,Login-page,502,Bad Gateway,CDI-J&J 1-54,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3068,0,2995
+1643302720999,3127,Login-page,502,Bad Gateway,CDI-J&J 1-49,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3127,0,3053
+1643302723618,506,Login-page,502,Bad Gateway,CDI-J&J 1-309,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,506,0,403
+1643302723912,243,Login-page,502,Bad Gateway,CDI-J&J 1-337,text,false,,300,132,364,364,https://staging.jnjonc2022.com/login,243,0,173
+1643302722290,1842,Login-page,502,Bad Gateway,CDI-J&J 1-178,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1842,0,1771
+1643302721300,2839,Login-page,502,Bad Gateway,CDI-J&J 1-79,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,2839,0,2783
+1643302721991,2149,Login-page,502,Bad Gateway,CDI-J&J 1-148,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,2149,0,2093
+1643302723353,754,Login-page,502,Bad Gateway,CDI-J&J 1-201,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,754,0,614
+1643302722250,1873,Login-page,502,Bad Gateway,CDI-J&J 1-174,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,1873,0,1771
+1643302720682,3425,Login-page,502,Bad Gateway,CDI-J&J 1-17,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,3423,0,3284
+1643302721850,2257,Login-page,502,Bad Gateway,CDI-J&J 1-134,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,2255,0,2118
+1643302721659,2472,Login-page,502,Bad Gateway,CDI-J&J 1-115,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2472,0,2403
+1643302722160,1947,Login-page,502,Bad Gateway,CDI-J&J 1-165,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,1940,0,1808
+1643302722426,1706,Login-page,502,Bad Gateway,CDI-J&J 1-186,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1706,0,1634
+1643302723203,904,Login-page,502,Bad Gateway,CDI-J&J 1-211,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,904,0,808
+1643302723206,933,Login-page,502,Bad Gateway,CDI-J&J 1-250,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,933,0,850
+1643302723409,709,Login-page,502,Bad Gateway,CDI-J&J 1-287,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,709,0,619
+1643302723369,738,Login-page,502,Bad Gateway,CDI-J&J 1-264,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,731,0,642
+1643302723623,484,Login-page,502,Bad Gateway,CDI-J&J 1-310,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,477,0,345
+1643302722903,1228,Login-page,502,Bad Gateway,CDI-J&J 1-223,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1228,0,1159
+1643302721460,2672,Login-page,502,Bad Gateway,CDI-J&J 1-95,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2672,0,2602
+1643302720681,3426,Login-page,502,Bad Gateway,CDI-J&J 1-7,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,3425,0,3351
+1643302720821,3310,Login-page,502,Bad Gateway,CDI-J&J 1-31,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3310,0,3213
+1643302722300,1832,Login-page,502,Bad Gateway,CDI-J&J 1-179,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1832,0,1760
+1643302723373,745,Login-page,502,Bad Gateway,CDI-J&J 1-280,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,745,0,672
+1643302721531,2592,Login-page,502,Bad Gateway,CDI-J&J 1-102,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2592,0,2521
+1643302722149,1991,Login-page,502,Bad Gateway,CDI-J&J 1-164,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,1991,0,1935
+1643302722845,1295,Login-page,502,Bad Gateway,CDI-J&J 1-206,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,1295,0,1238
+1643302721220,2912,Login-page,502,Bad Gateway,CDI-J&J 1-71,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2912,0,2814
+1643302721349,2791,Login-page,502,Bad Gateway,CDI-J&J 1-84,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,2791,0,2734
+1643302721820,2287,Login-page,502,Bad Gateway,CDI-J&J 1-131,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,2287,0,2218
+1643302723368,750,Login-page,502,Bad Gateway,CDI-J&J 1-260,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,750,0,677
+1643302721270,2850,Login-page,502,Bad Gateway,CDI-J&J 1-76,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2850,0,2777
+1643302723323,784,Login-page,502,Bad Gateway,CDI-J&J 1-194,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,784,0,644
+1643302721100,3040,Login-page,502,Bad Gateway,CDI-J&J 1-59,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,3040,0,2982
+1643302723407,710,Login-page,502,Bad Gateway,CDI-J&J 1-282,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,710,0,615
+1643302720711,3406,Login-page,502,Bad Gateway,CDI-J&J 1-20,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3406,0,3323
+1643302723357,750,Login-page,502,Bad Gateway,CDI-J&J 1-197,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,743,0,616
+1643302723164,968,Login-page,502,Bad Gateway,CDI-J&J 1-230,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,968,0,897
+1643302720851,3267,Login-page,502,Bad Gateway,CDI-J&J 1-34,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3267,0,3194
+1643302720960,3147,Login-page,502,Bad Gateway,CDI-J&J 1-45,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,3145,0,3008
+1643302721860,2279,Login-page,502,Bad Gateway,CDI-J&J 1-135,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,2279,0,2222
+1643302721810,2314,Login-page,502,Bad Gateway,CDI-J&J 1-130,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,2314,0,2242
+1643302721060,3047,Login-page,502,Bad Gateway,CDI-J&J 1-55,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,3047,0,2973
+1643302721542,2565,Login-page,502,Bad Gateway,CDI-J&J 1-103,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,2560,0,2431
+1643302723631,486,Login-page,502,Bad Gateway,CDI-J&J 1-303,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,486,0,414
+1643302723355,763,Login-page,502,Bad Gateway,CDI-J&J 1-200,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,763,0,689
+1643302722229,1878,Login-page,502,Bad Gateway,CDI-J&J 1-172,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,1871,0,1738
+1643302720792,3315,Login-page,502,Bad Gateway,CDI-J&J 1-28,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,3313,0,3242
+1643302721710,2421,Login-page,502,Bad Gateway,CDI-J&J 1-120,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2421,0,2318
+1643302722280,1827,Login-page,502,Bad Gateway,CDI-J&J 1-177,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,1820,0,1688
+1643302720861,3257,Login-page,502,Bad Gateway,CDI-J&J 1-35,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3257,0,3185
+1643302721070,3070,Login-page,502,Bad Gateway,CDI-J&J 1-56,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,3070,0,3013
+1643302723178,930,Login-page,502,Bad Gateway,CDI-J&J 1-234,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,924,0,795
+1643302723087,1021,Login-page,502,Bad Gateway,CDI-J&J 1-240,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,1020,0,922
+1643302723617,502,Login-page,502,Bad Gateway,CDI-J&J 1-307,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,502,0,429
+1643302723369,738,Login-page,502,Bad Gateway,CDI-J&J 1-265,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,733,0,599
+1643302720980,3138,Login-page,502,Bad Gateway,CDI-J&J 1-47,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,3138,0,3066
+1643302722009,2124,Login-page,502,Bad Gateway,CDI-J&J 1-150,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,2124,0,2052
+1643302723702,437,Login-page,502,Bad Gateway,CDI-J&J 1-319,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,437,0,379
+1643302722859,1259,Login-page,502,Bad Gateway,CDI-J&J 1-228,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,1259,0,1187
+1643302723178,961,Login-page,502,Bad Gateway,CDI-J&J 1-235,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,961,0,904
+1643302723076,1048,Login-page,502,Bad Gateway,CDI-J&J 1-233,text,false,,300,132,360,360,https://staging.jnjonc2022.com/login,1048,0,977
+1643302721020,3111,Login-page,502,Bad Gateway,CDI-J&J 1-51,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,3111,0,3042
+1643302722846,1285,Login-page,502,Bad Gateway,CDI-J&J 1-191,text,false,,300,132,361,361,https://staging.jnjonc2022.com/login,1285,0,1216
+1643302723433,707,Login-page,502,Bad Gateway,CDI-J&J 1-292,text,false,,300,132,362,362,https://staging.jnjonc2022.com/login,707,0,651
+1643302721191,2916,Login-page,502,Bad Gateway,CDI-J&J 1-68,text,false,,300,132,359,359,https://staging.jnjonc2022.com/login,2914,0,2777
+1643302720681,3540,Login-page,200,OK,CDI-J&J 1-4,text,true,,38937,132,375,375,https://staging.jnjonc2022.com/login,3447,0,3221
+1643302723406,910,Login-page,200,OK,CDI-J&J 1-274,text,true,,38946,132,380,380,https://staging.jnjonc2022.com/login,735,0,495
+1643302720871,3460,Login-page,200,OK,CDI-J&J 1-36,text,true,,38958,132,382,382,https://staging.jnjonc2022.com/login,3292,0,3031
+1643302723424,908,Login-page,200,OK,CDI-J&J 1-270,text,true,,38937,132,382,382,https://staging.jnjonc2022.com/login,758,0,502
+1643302724084,283,Login-page,502,Bad Gateway,CDI-J&J 1-357,text,false,,300,132,385,385,https://staging.jnjonc2022.com/login,283,0,139
+1643302723981,388,Login-page,502,Bad Gateway,CDI-J&J 1-347,text,false,,300,132,385,385,https://staging.jnjonc2022.com/login,388,0,227
+1643302723990,380,Login-page,502,Bad Gateway,CDI-J&J 1-348,text,false,,300,132,386,386,https://staging.jnjonc2022.com/login,380,0,233
+1643302724060,315,Login-page,502,Bad Gateway,CDI-J&J 1-355,text,false,,300,132,386,386,https://staging.jnjonc2022.com/login,315,0,163
+1643302724030,350,Login-page,502,Bad Gateway,CDI-J&J 1-352,text,false,,300,132,387,387,https://staging.jnjonc2022.com/login,350,0,178
+1643302724247,136,Home,502,Bad Gateway,CDI-J&J 1-196,text,false,,300,265,387,387,https://staging.jnjonc2022.com/login,136,0,0
+1643302724247,136,Home,502,Bad Gateway,CDI-J&J 1-29,text,false,,300,265,387,387,https://staging.jnjonc2022.com/login,136,0,0
+1643302724251,132,Home,502,Bad Gateway,CDI-J&J 1-257,text,false,,300,265,387,387,https://staging.jnjonc2022.com/login,132,0,0
+1643302724249,134,Home,502,Bad Gateway,CDI-J&J 1-316,text,false,,300,265,387,387,https://staging.jnjonc2022.com/login,134,0,0
+1643302724243,140,Home,502,Bad Gateway,CDI-J&J 1-173,text,false,,300,265,387,387,https://staging.jnjonc2022.com/login,140,0,0
+1643302724246,137,Home,502,Bad Gateway,CDI-J&J 1-294,text,false,,300,265,387,387,https://staging.jnjonc2022.com/login,137,0,0
+1643302724248,137,Home,502,Bad Gateway,CDI-J&J 1-311,text,false,,300,265,381,381,https://staging.jnjonc2022.com/login,137,0,0
+1643302724249,138,Home,502,Bad Gateway,CDI-J&J 1-128,text,false,,300,265,381,381,https://staging.jnjonc2022.com/login,138,0,0
+1643302724248,140,Home,502,Bad Gateway,CDI-J&J 1-188,text,false,,300,265,380,380,https://staging.jnjonc2022.com/login,140,0,0
+1643302724248,139,Home,502,Bad Gateway,CDI-J&J 1-190,text,false,,300,265,381,381,https://staging.jnjonc2022.com/login,139,0,0
+1643302724246,142,Home,502,Bad Gateway,CDI-J&J 1-304,text,false,,300,265,380,380,https://staging.jnjonc2022.com/login,142,0,0
+1643302724250,138,Home,502,Bad Gateway,CDI-J&J 1-272,text,false,,300,265,380,380,https://staging.jnjonc2022.com/login,138,0,0
+1643302724248,141,Home,502,Bad Gateway,CDI-J&J 1-143,text,false,,300,265,376,376,https://staging.jnjonc2022.com/login,141,0,0
+1643302724249,140,Home,502,Bad Gateway,CDI-J&J 1-140,text,false,,300,265,376,376,https://staging.jnjonc2022.com/login,140,0,0
+1643302724252,137,Home,502,Bad Gateway,CDI-J&J 1-333,text,false,,300,265,376,376,https://staging.jnjonc2022.com/login,137,0,0
+1643302724248,142,Home,502,Bad Gateway,CDI-J&J 1-12,text,false,,300,265,376,376,https://staging.jnjonc2022.com/login,142,0,0
+1643302724250,140,Home,502,Bad Gateway,CDI-J&J 1-286,text,false,,300,265,373,373,https://staging.jnjonc2022.com/login,140,0,0
+1643302724251,145,Home,502,Bad Gateway,CDI-J&J 1-9,text,false,,300,265,371,371,https://staging.jnjonc2022.com/login,145,0,0
+1643302724254,142,Home,502,Bad Gateway,CDI-J&J 1-309,text,false,,300,265,371,371,https://staging.jnjonc2022.com/login,142,0,0
+1643302724249,147,Home,502,Bad Gateway,CDI-J&J 1-1,text,false,,300,265,371,371,https://staging.jnjonc2022.com/login,147,0,0
+1643302724252,144,Home,502,Bad Gateway,CDI-J&J 1-308,text,false,,300,265,371,371,https://staging.jnjonc2022.com/login,144,0,0
+1643302724251,145,Home,502,Bad Gateway,CDI-J&J 1-146,text,false,,300,265,371,371,https://staging.jnjonc2022.com/login,145,0,0
+1643302724255,141,Home,502,Bad Gateway,CDI-J&J 1-148,text,false,,300,265,371,371,https://staging.jnjonc2022.com/login,141,0,0
+1643302724251,145,Home,502,Bad Gateway,CDI-J&J 1-259,text,false,,300,265,371,371,https://staging.jnjonc2022.com/login,145,0,0
+1643302724257,140,Home,502,Bad Gateway,CDI-J&J 1-211,text,false,,300,265,367,367,https://staging.jnjonc2022.com/login,140,0,0
+1643302724255,142,Home,502,Bad Gateway,CDI-J&J 1-178,text,false,,300,265,367,367,https://staging.jnjonc2022.com/login,142,0,0
+1643302724258,139,Home,502,Bad Gateway,CDI-J&J 1-95,text,false,,300,265,367,367,https://staging.jnjonc2022.com/login,139,0,0
+1643302724256,142,Home,502,Bad Gateway,CDI-J&J 1-79,text,false,,300,265,366,366,https://staging.jnjonc2022.com/login,142,0,0
+1643302724254,145,Home,502,Bad Gateway,CDI-J&J 1-337,text,false,,300,265,366,366,https://staging.jnjonc2022.com/login,145,0,0
+1643302721310,3087,Login-page,200,OK,CDI-J&J 1-80,text,true,,38938,132,367,367,https://staging.jnjonc2022.com/login,2937,0,2590
+1643302724259,140,Home,502,Bad Gateway,CDI-J&J 1-164,text,false,,300,265,366,366,https://staging.jnjonc2022.com/login,140,0,0
+1643302724258,142,Home,502,Bad Gateway,CDI-J&J 1-31,text,false,,300,265,363,363,https://staging.jnjonc2022.com/login,142,0,0
+1643302724260,141,Home,502,Bad Gateway,CDI-J&J 1-59,text,false,,300,265,362,362,https://staging.jnjonc2022.com/login,141,0,0
+1643302724246,155,Home,502,Bad Gateway,CDI-J&J 1-65,text,false,,300,265,362,362,https://staging.jnjonc2022.com/login,155,0,0
+1643302724245,156,Home,502,Bad Gateway,CDI-J&J 1-317,text,false,,300,265,361,361,https://staging.jnjonc2022.com/login,156,0,0
+1643302724261,141,Home,502,Bad Gateway,CDI-J&J 1-135,text,false,,300,265,360,360,https://staging.jnjonc2022.com/login,141,0,0
+1643302724260,142,Home,502,Bad Gateway,CDI-J&J 1-71,text,false,,300,265,360,360,https://staging.jnjonc2022.com/login,142,0,0
+1643302723407,993,Login-page,200,OK,CDI-J&J 1-284,text,true,,38954,132,362,362,https://staging.jnjonc2022.com/login,853,0,503
+1643302724261,142,Home,502,Bad Gateway,CDI-J&J 1-120,text,false,,300,265,359,359,https://staging.jnjonc2022.com/login,142,0,0
+1643302724244,160,Home,502,Bad Gateway,CDI-J&J 1-248,text,false,,300,265,358,358,https://staging.jnjonc2022.com/login,158,0,0
+1643302724256,148,Home,502,Bad Gateway,CDI-J&J 1-174,text,false,,300,265,358,358,https://staging.jnjonc2022.com/login,148,0,0
+1643302724263,142,Home,502,Bad Gateway,CDI-J&J 1-235,text,false,,300,265,355,355,https://staging.jnjonc2022.com/login,142,0,0
+1643302724262,143,Home,502,Bad Gateway,CDI-J&J 1-56,text,false,,300,265,355,355,https://staging.jnjonc2022.com/login,143,0,0
+1643302724263,143,Home,502,Bad Gateway,CDI-J&J 1-319,text,false,,300,265,355,355,https://staging.jnjonc2022.com/login,143,0,0
+1643302724242,164,Home,502,Bad Gateway,CDI-J&J 1-138,text,false,,300,265,355,355,https://staging.jnjonc2022.com/login,164,0,0
+1643302724243,175,Home,502,Bad Gateway,CDI-J&J 1-122,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,174,0,0
+1643302724256,162,Home,502,Bad Gateway,CDI-J&J 1-115,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,161,0,0
+1643302724242,176,Home,502,Bad Gateway,CDI-J&J 1-184,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,176,0,0
+1643302724261,157,Home,502,Bad Gateway,CDI-J&J 1-55,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,157,0,0
+1643302724258,160,Home,502,Bad Gateway,CDI-J&J 1-7,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,160,0,0
+1643302724245,173,Home,502,Bad Gateway,CDI-J&J 1-145,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,173,0,0
+1643302724255,164,Home,502,Bad Gateway,CDI-J&J 1-201,text,false,,300,265,346,346,https://staging.jnjonc2022.com/login,164,0,0
+1643302724260,159,Home,502,Bad Gateway,CDI-J&J 1-20,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,159,0,0
+1643302724245,174,Home,502,Bad Gateway,CDI-J&J 1-8,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,174,0,0
+1643302724263,157,Home,502,Bad Gateway,CDI-J&J 1-191,text,false,,300,265,346,346,https://staging.jnjonc2022.com/login,157,0,0
+1643302724258,160,Home,502,Bad Gateway,CDI-J&J 1-223,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,159,0,0
+1643302724263,158,Home,502,Bad Gateway,CDI-J&J 1-51,text,false,,300,265,344,344,https://staging.jnjonc2022.com/login,158,0,0
+1643302724242,179,Home,502,Bad Gateway,CDI-J&J 1-144,text,false,,300,265,344,344,https://staging.jnjonc2022.com/login,179,0,0
+1643302724242,176,Home,502,Bad Gateway,CDI-J&J 1-170,text,false,,300,265,347,347,https://staging.jnjonc2022.com/login,176,0,0
+1643302722822,1596,Login-page,200,OK,CDI-J&J 1-221,text,true,,38956,132,346,346,https://staging.jnjonc2022.com/login,1448,0,1104
+1643302724244,177,Home,502,Bad Gateway,CDI-J&J 1-329,text,false,,300,265,344,344,https://staging.jnjonc2022.com/login,177,0,0
+1643302724243,177,Home,502,Bad Gateway,CDI-J&J 1-27,text,false,,300,265,346,346,https://staging.jnjonc2022.com/login,177,0,0
+1643302724242,180,Home,502,Bad Gateway,CDI-J&J 1-300,text,false,,300,265,341,341,https://staging.jnjonc2022.com/login,180,0,0
+1643302724244,178,Home,502,Bad Gateway,CDI-J&J 1-219,text,false,,300,265,339,339,https://staging.jnjonc2022.com/login,178,0,0
+1643302724242,181,Home,502,Bad Gateway,CDI-J&J 1-224,text,false,,300,265,339,339,https://staging.jnjonc2022.com/login,181,0,0
+1643302724259,164,Home,502,Bad Gateway,CDI-J&J 1-206,text,false,,300,265,339,339,https://staging.jnjonc2022.com/login,164,0,0
+1643302724259,164,Home,502,Bad Gateway,CDI-J&J 1-84,text,false,,300,265,339,339,https://staging.jnjonc2022.com/login,164,0,0
+1643302724242,182,Home,502,Bad Gateway,CDI-J&J 1-114,text,false,,300,265,334,334,https://staging.jnjonc2022.com/login,182,0,0
+1643302724242,182,Home,502,Bad Gateway,CDI-J&J 1-18,text,false,,300,265,334,334,https://staging.jnjonc2022.com/login,182,0,0
+1643302724257,167,Home,502,Bad Gateway,CDI-J&J 1-186,text,false,,300,265,332,332,https://staging.jnjonc2022.com/login,167,0,0
+1643302724262,162,Home,502,Bad Gateway,CDI-J&J 1-240,text,false,,300,265,332,332,https://staging.jnjonc2022.com/login,162,0,0
+1643302724244,180,Home,502,Bad Gateway,CDI-J&J 1-69,text,false,,300,265,332,332,https://staging.jnjonc2022.com/login,180,0,0
+1643302724260,164,Home,502,Bad Gateway,CDI-J&J 1-230,text,false,,300,265,332,332,https://staging.jnjonc2022.com/login,164,0,0
+1643302724263,161,Home,502,Bad Gateway,CDI-J&J 1-228,text,false,,300,265,332,332,https://staging.jnjonc2022.com/login,161,0,0
+1643302724101,323,Login-page,502,Bad Gateway,CDI-J&J 1-359,text,false,,300,132,332,332,https://staging.jnjonc2022.com/login,323,0,155
+1643302724242,183,Home,502,Bad Gateway,CDI-J&J 1-125,text,false,,300,265,329,329,https://staging.jnjonc2022.com/login,183,0,0
+1643302724243,182,Home,502,Bad Gateway,CDI-J&J 1-269,text,false,,300,265,328,328,https://staging.jnjonc2022.com/login,182,0,0
+1643302724258,167,Home,502,Bad Gateway,CDI-J&J 1-179,text,false,,300,265,329,329,https://staging.jnjonc2022.com/login,167,0,0
+1643302724241,184,Home,502,Bad Gateway,CDI-J&J 1-61,text,false,,300,265,328,328,https://staging.jnjonc2022.com/login,184,0,0
+1643302724259,166,Home,502,Bad Gateway,CDI-J&J 1-131,text,false,,300,265,328,328,https://staging.jnjonc2022.com/login,166,0,0
+1643302724241,184,Home,502,Bad Gateway,CDI-J&J 1-268,text,false,,300,265,328,328,https://staging.jnjonc2022.com/login,184,0,0
+1643302724262,163,Home,502,Bad Gateway,CDI-J&J 1-307,text,false,,300,265,328,328,https://staging.jnjonc2022.com/login,163,0,0
+1643302724241,184,Home,502,Bad Gateway,CDI-J&J 1-41,text,false,,300,265,328,328,https://staging.jnjonc2022.com/login,184,0,0
+1643302724262,163,Home,502,Bad Gateway,CDI-J&J 1-47,text,false,,300,265,328,328,https://staging.jnjonc2022.com/login,163,0,0
+1643302724242,184,Home,502,Bad Gateway,CDI-J&J 1-39,text,false,,300,265,326,326,https://staging.jnjonc2022.com/login,184,0,0
+1643302724241,185,Home,502,Bad Gateway,CDI-J&J 1-279,text,false,,300,265,327,327,https://staging.jnjonc2022.com/login,185,0,0
+1643302724243,183,Home,502,Bad Gateway,CDI-J&J 1-193,text,false,,300,265,325,325,https://staging.jnjonc2022.com/login,183,0,0
+1643302724245,180,Home,502,Bad Gateway,CDI-J&J 1-271,text,false,,300,265,328,328,https://staging.jnjonc2022.com/login,180,0,0
+1643302724258,168,Home,502,Bad Gateway,CDI-J&J 1-102,text,false,,300,265,325,325,https://staging.jnjonc2022.com/login,168,0,0
+1643302724263,163,Home,502,Bad Gateway,CDI-J&J 1-233,text,false,,300,265,325,325,https://staging.jnjonc2022.com/login,163,0,0
+1643302724264,162,Home,502,Bad Gateway,CDI-J&J 1-68,text,false,,300,265,325,325,https://staging.jnjonc2022.com/login,162,0,0
+1643302721641,2816,Login-page,200,OK,CDI-J&J 1-113,text,true,,38965,132,307,307,https://staging.jnjonc2022.com/login,2680,0,2253
+1643302723189,1277,Login-page,200,OK,CDI-J&J 1-238,text,true,,38949,132,308,308,https://staging.jnjonc2022.com/login,973,0,712
+1643302724375,114,Home,502,Bad Gateway,CDI-J&J 1-355,text,false,,300,265,310,310,https://staging.jnjonc2022.com/login,114,0,0
+1643302721009,3499,Login-page,200,OK,CDI-J&J 1-50,text,true,,38952,132,311,311,https://staging.jnjonc2022.com/login,3202,0,2917
+1643302721830,2682,Login-page,200,OK,CDI-J&J 1-132,text,true,,38925,132,312,312,https://staging.jnjonc2022.com/login,2492,0,2071
+1643302724425,99,Home,502,Bad Gateway,CDI-J&J 1-359,text,false,,300,265,313,313,https://staging.jnjonc2022.com/login,99,0,0
+1643302723361,1179,Login-page,200,OK,CDI-J&J 1-252,text,true,,38945,132,314,314,https://staging.jnjonc2022.com/login,909,0,549
+1643302724400,145,Home,502,Bad Gateway,CDI-J&J 1-80,text,false,,300,839,314,314,https://staging.jnjonc2022.com/login,145,0,0
+1643302724250,357,Home,502,Bad Gateway,CDI-J&J 1-156,text,false,,300,265,319,319,https://staging.jnjonc2022.com/login,357,0,0
+1643302724249,360,Home,502,Bad Gateway,CDI-J&J 1-137,text,false,,300,265,319,319,https://staging.jnjonc2022.com/login,360,0,0
+1643302724249,362,Home,502,Bad Gateway,CDI-J&J 1-142,text,false,,300,265,318,318,https://staging.jnjonc2022.com/login,362,0,0
+1643302724253,364,Home,502,Bad Gateway,CDI-J&J 1-168,text,false,,300,265,317,317,https://staging.jnjonc2022.com/login,364,0,0
+1643302724253,364,Home,502,Bad Gateway,CDI-J&J 1-153,text,false,,300,265,317,317,https://staging.jnjonc2022.com/login,364,0,0
+1643302724247,374,Home,502,Bad Gateway,CDI-J&J 1-166,text,false,,300,265,316,316,https://staging.jnjonc2022.com/login,374,0,0
+1643302724251,370,Home,502,Bad Gateway,CDI-J&J 1-302,text,false,,300,265,316,316,https://staging.jnjonc2022.com/login,370,0,0
+1643302722350,2272,Login-page,200,OK,CDI-J&J 1-182,text,true,,38953,132,314,314,https://staging.jnjonc2022.com/login,2139,0,1576
+1643302724249,389,Home,502,Bad Gateway,CDI-J&J 1-171,text,false,,300,265,315,315,https://staging.jnjonc2022.com/login,389,0,0
+1643302724250,388,Home,502,Bad Gateway,CDI-J&J 1-104,text,false,,300,265,315,315,https://staging.jnjonc2022.com/login,388,0,0
+1643302724246,393,Home,502,Bad Gateway,CDI-J&J 1-297,text,false,,300,265,314,314,https://staging.jnjonc2022.com/login,393,0,0
+1643302724252,387,Home,502,Bad Gateway,CDI-J&J 1-11,text,false,,300,265,314,314,https://staging.jnjonc2022.com/login,387,0,0
+1643302724256,384,Home,502,Bad Gateway,CDI-J&J 1-134,text,false,,300,265,312,312,https://staging.jnjonc2022.com/login,384,0,0
+1643302724262,379,Home,502,Bad Gateway,CDI-J&J 1-177,text,false,,300,265,312,312,https://staging.jnjonc2022.com/login,379,0,0
+1643302724246,399,Home,502,Bad Gateway,CDI-J&J 1-236,text,false,,300,265,310,310,https://staging.jnjonc2022.com/login,399,0,0
+1643302724247,398,Home,502,Bad Gateway,CDI-J&J 1-62,text,false,,300,265,310,310,https://staging.jnjonc2022.com/login,398,0,0
+1643302724242,403,Home,502,Bad Gateway,CDI-J&J 1-175,text,false,,300,265,310,310,https://staging.jnjonc2022.com/login,403,0,0
+1643302724243,402,Home,502,Bad Gateway,CDI-J&J 1-237,text,false,,300,265,310,310,https://staging.jnjonc2022.com/login,402,0,0
+1643302724260,386,Home,502,Bad Gateway,CDI-J&J 1-194,text,false,,300,265,310,310,https://staging.jnjonc2022.com/login,385,0,0
+1643302724262,384,Home,502,Bad Gateway,CDI-J&J 1-234,text,false,,300,265,310,310,https://staging.jnjonc2022.com/login,384,0,0
+1643302724252,397,Home,502,Bad Gateway,CDI-J&J 1-30,text,false,,300,265,305,305,https://staging.jnjonc2022.com/login,397,0,0
+1643302724263,386,Home,502,Bad Gateway,CDI-J&J 1-150,text,false,,300,265,305,305,https://staging.jnjonc2022.com/login,386,0,0
+1643302724253,396,Home,502,Bad Gateway,CDI-J&J 1-44,text,false,,300,265,305,305,https://staging.jnjonc2022.com/login,396,0,0
+1643302724261,388,Home,502,Bad Gateway,CDI-J&J 1-303,text,false,,300,265,305,305,https://staging.jnjonc2022.com/login,388,0,0
+1643302724260,390,Home,502,Bad Gateway,CDI-J&J 1-45,text,false,,300,265,305,305,https://staging.jnjonc2022.com/login,390,0,0
+1643302724242,410,Home,502,Bad Gateway,CDI-J&J 1-220,text,false,,300,265,300,300,https://staging.jnjonc2022.com/login,410,0,0
+1643302724242,410,Home,502,Bad Gateway,CDI-J&J 1-123,text,false,,300,265,300,300,https://staging.jnjonc2022.com/login,410,0,0
+1643302724243,409,Home,502,Bad Gateway,CDI-J&J 1-229,text,false,,300,265,300,300,https://staging.jnjonc2022.com/login,409,0,0
+1643302724244,409,Home,502,Bad Gateway,CDI-J&J 1-107,text,false,,300,265,298,298,https://staging.jnjonc2022.com/login,409,0,0
+1643302724261,394,Home,502,Bad Gateway,CDI-J&J 1-130,text,false,,300,265,296,296,https://staging.jnjonc2022.com/login,394,0,0
+1643302724261,396,Home,502,Bad Gateway,CDI-J&J 1-172,text,false,,300,265,295,295,https://staging.jnjonc2022.com/login,396,0,0
+1643302724242,415,Home,502,Bad Gateway,CDI-J&J 1-192,text,false,,300,265,295,295,https://staging.jnjonc2022.com/login,415,0,0
+1643302724261,396,Home,502,Bad Gateway,CDI-J&J 1-103,text,false,,300,265,295,295,https://staging.jnjonc2022.com/login,396,0,0
+1643302724257,400,Home,502,Bad Gateway,CDI-J&J 1-165,text,false,,300,265,295,295,https://staging.jnjonc2022.com/login,400,0,0
+1643302724258,400,Home,502,Bad Gateway,CDI-J&J 1-310,text,false,,300,265,295,295,https://staging.jnjonc2022.com/login,400,0,0
+1643302724259,399,Home,502,Bad Gateway,CDI-J&J 1-76,text,false,,300,265,292,292,https://staging.jnjonc2022.com/login,399,0,0
+1643302721609,3049,Login-page,200,OK,CDI-J&J 1-110,text,true,,38945,132,292,292,https://staging.jnjonc2022.com/login,2901,0,2332
+1643302724242,425,Home,502,Bad Gateway,CDI-J&J 1-147,text,false,,300,265,290,290,https://staging.jnjonc2022.com/login,425,0,0
+1643302724260,407,Home,502,Bad Gateway,CDI-J&J 1-34,text,false,,300,265,290,290,https://staging.jnjonc2022.com/login,407,0,0
+1643302724242,425,Home,502,Bad Gateway,CDI-J&J 1-305,text,false,,300,265,290,290,https://staging.jnjonc2022.com/login,425,0,0
+1643302724264,410,Home,502,Bad Gateway,CDI-J&J 1-292,text,false,,300,265,288,288,https://staging.jnjonc2022.com/login,410,0,0
+1643302724251,423,Home,502,Bad Gateway,CDI-J&J 1-63,text,false,,300,265,288,288,https://staging.jnjonc2022.com/login,423,0,0
+1643302724248,426,Home,502,Bad Gateway,CDI-J&J 1-278,text,false,,300,265,288,288,https://staging.jnjonc2022.com/login,426,0,0
+1643302724246,428,Home,502,Bad Gateway,CDI-J&J 1-100,text,false,,300,265,288,288,https://staging.jnjonc2022.com/login,428,0,0
+1643302724250,429,Home,502,Bad Gateway,CDI-J&J 1-275,text,false,,300,265,285,285,https://staging.jnjonc2022.com/login,429,0,0
+1643302724252,427,Home,502,Bad Gateway,CDI-J&J 1-46,text,false,,300,265,285,285,https://staging.jnjonc2022.com/login,427,0,0
+1643302724245,451,Home,502,Bad Gateway,CDI-J&J 1-33,text,false,,300,265,284,284,https://staging.jnjonc2022.com/login,451,0,0
+1643302724262,439,Home,502,Bad Gateway,CDI-J&J 1-35,text,false,,300,265,283,283,https://staging.jnjonc2022.com/login,439,0,0
+1643302724242,459,Home,502,Bad Gateway,CDI-J&J 1-288,text,false,,300,265,283,283,https://staging.jnjonc2022.com/login,459,0,0
+1643302724257,447,Home,502,Bad Gateway,CDI-J&J 1-287,text,false,,300,265,282,282,https://staging.jnjonc2022.com/login,447,0,0
+1643302724261,443,Home,502,Bad Gateway,CDI-J&J 1-28,text,false,,300,265,282,282,https://staging.jnjonc2022.com/login,443,0,0
+1643302724255,465,Home,502,Bad Gateway,CDI-J&J 1-49,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,465,0,0
+1643302724245,477,Home,502,Bad Gateway,CDI-J&J 1-87,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,477,0,0
+1643302724258,479,Home,502,Bad Gateway,CDI-J&J 1-280,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,479,0,0
+1643302724242,495,Home,502,Bad Gateway,CDI-J&J 1-89,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,495,0,0
+1643302724248,489,Home,502,Bad Gateway,CDI-J&J 1-202,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,489,0,0
+1643302724260,478,Home,502,Bad Gateway,CDI-J&J 1-260,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,478,0,0
+1643302724246,491,Home,502,Bad Gateway,CDI-J&J 1-226,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,491,0,0
+1643302724258,479,Home,502,Bad Gateway,CDI-J&J 1-264,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,479,0,0
+1643302724248,490,Home,502,Bad Gateway,CDI-J&J 1-209,text,false,,300,265,279,279,https://staging.jnjonc2022.com/login,490,0,0
+1643302724245,492,Home,502,Bad Gateway,CDI-J&J 1-239,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,492,0,0
+1643302724245,493,Home,502,Bad Gateway,CDI-J&J 1-336,text,false,,300,265,277,277,https://staging.jnjonc2022.com/login,493,0,0
+1643302724247,495,Home,502,Bad Gateway,CDI-J&J 1-322,text,false,,300,265,273,273,https://staging.jnjonc2022.com/login,495,0,0
+1643302724242,500,Home,502,Bad Gateway,CDI-J&J 1-258,text,false,,300,265,273,273,https://staging.jnjonc2022.com/login,500,0,0
+1643302724261,481,Home,502,Bad Gateway,CDI-J&J 1-200,text,false,,300,265,273,273,https://staging.jnjonc2022.com/login,481,0,0
+1643302724241,513,Home,502,Bad Gateway,CDI-J&J 1-203,text,false,,300,265,271,271,https://staging.jnjonc2022.com/login,513,0,0
+1643302724257,498,Home,502,Bad Gateway,CDI-J&J 1-250,text,false,,300,265,270,270,https://staging.jnjonc2022.com/login,498,0,0
+1643302722110,2648,Login-page,200,OK,CDI-J&J 1-160,text,true,,38946,132,269,269,https://staging.jnjonc2022.com/login,2101,0,1790
+1643302721360,3467,Login-page,200,OK,CDI-J&J 1-85,text,true,,38932,132,276,276,https://staging.jnjonc2022.com/login,3319,0,2585
+1643302723042,1810,Login-page,200,OK,CDI-J&J 1-232,text,true,,38955,132,279,279,https://staging.jnjonc2022.com/login,1805,0,903
+1643302721180,3691,Login-page,200,OK,CDI-J&J 1-67,text,true,,38945,132,281,281,https://staging.jnjonc2022.com/login,2962,0,2720
+1643302724262,615,Home,502,Bad Gateway,CDI-J&J 1-265,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,615,0,0
+1643302724260,623,Home,502,Bad Gateway,CDI-J&J 1-197,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,623,0,0
+1643302724256,627,Home,502,Bad Gateway,CDI-J&J 1-17,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,627,0,0
+1643302724242,641,Home,502,Bad Gateway,CDI-J&J 1-320,text,false,,300,265,281,281,https://staging.jnjonc2022.com/login,641,0,0
+1643302721450,3502,Login-page,200,OK,CDI-J&J 1-94,text,true,,38929,132,285,285,https://staging.jnjonc2022.com/login,3466,0,2559
+1643302721320,3671,Login-page,200,OK,CDI-J&J 1-81,text,true,,38947,132,289,289,https://staging.jnjonc2022.com/login,3362,0,2606
+1643302723413,1581,Login-page,200,OK,CDI-J&J 1-290,text,true,,38946,132,289,289,https://staging.jnjonc2022.com/login,886,0,488
+1643302721430,3564,Login-page,200,OK,CDI-J&J 1-92,text,true,,38978,132,289,289,https://staging.jnjonc2022.com/login,3532,0,2579
+1643302723824,1176,Login-page,502,Bad Gateway,CDI-J&J 1-326,text,false,,300,132,290,290,https://staging.jnjonc2022.com/login,1176,0,1135
+1643302723396,1606,Login-page,200,OK,CDI-J&J 1-267,text,true,,38934,132,290,290,https://staging.jnjonc2022.com/login,1193,0,555
+1643302724871,147,Login-page,502,Bad Gateway,CDI-J&J 1-436,text,false,,300,132,291,291,https://staging.jnjonc2022.com/login,146,0,103
+1643302722868,2151,Login-page,200,OK,CDI-J&J 1-213,text,true,,38941,132,291,291,https://staging.jnjonc2022.com/login,2110,0,1154
+1643302724890,146,Login-page,502,Bad Gateway,CDI-J&J 1-438,text,false,,300,132,293,293,https://staging.jnjonc2022.com/login,146,0,108
+1643302724329,707,Login-page,502,Bad Gateway,CDI-J&J 1-382,text,false,,300,132,293,293,https://staging.jnjonc2022.com/login,707,0,663
+1643302725001,35,Home,502,Bad Gateway,CDI-J&J 1-326,text,false,,300,265,293,293,https://staging.jnjonc2022.com/login,35,0,0
+1643302724995,41,Home,502,Bad Gateway,CDI-J&J 1-92,text,false,,300,853,293,293,https://staging.jnjonc2022.com/login,41,0,0
+1643302725037,52,Home,502,Bad Gateway,CDI-J&J 1-438,text,false,,300,265,296,296,https://staging.jnjonc2022.com/login,51,0,0
+1643302720741,4364,Login-page,200,OK,CDI-J&J 1-23,text,true,,38935,132,297,297,https://staging.jnjonc2022.com/login,4308,0,3280
+1643302721679,3428,Login-page,200,OK,CDI-J&J 1-117,text,true,,38962,132,297,297,https://staging.jnjonc2022.com/login,3371,0,2343
+1643302721079,4035,Login-page,200,OK,CDI-J&J 1-57,text,true,,38934,132,298,298,https://staging.jnjonc2022.com/login,3762,0,2871
+1643302724549,584,Login-page,502,Bad Gateway,CDI-J&J 1-404,text,false,,300,132,300,300,https://staging.jnjonc2022.com/login,584,0,441
+1643302724995,138,Home,502,Bad Gateway,CDI-J&J 1-290,text,false,,300,843,300,300,https://staging.jnjonc2022.com/login,138,0,0
+1643302724242,891,Home,502,Bad Gateway,CDI-J&J 1-299,text,false,,300,265,300,300,https://staging.jnjonc2022.com/login,891,0,0
+1643302723362,1771,Login-page,200,OK,CDI-J&J 1-253,text,true,,38945,132,300,300,https://staging.jnjonc2022.com/login,1687,0,649
+1643302724242,898,Home,502,Bad Gateway,CDI-J&J 1-340,text,false,,300,265,299,299,https://staging.jnjonc2022.com/login,898,0,0
+1643302722863,2277,Login-page,200,OK,CDI-J&J 1-214,text,true,,38967,132,298,298,https://staging.jnjonc2022.com/login,2200,0,1159
+1643302720682,4465,Login-page,200,OK,CDI-J&J 1-13,text,true,,38935,132,298,298,https://staging.jnjonc2022.com/login,4384,0,3340
+1643302722869,2289,Login-page,200,OK,CDI-J&J 1-216,text,true,,38939,132,299,299,https://staging.jnjonc2022.com/login,1318,0,1031
+1643302721720,3446,Login-page,200,OK,CDI-J&J 1-121,text,true,,38955,132,300,300,https://staging.jnjonc2022.com/login,3186,0,2206
+1643302722270,2900,Login-page,200,OK,CDI-J&J 1-176,text,true,,38964,132,301,301,https://staging.jnjonc2022.com/login,2804,0,1752
+1643302721599,3603,Login-page,200,OK,CDI-J&J 1-109,text,true,,38936,132,304,304,https://staging.jnjonc2022.com/login,3516,0,2429
+1643302720830,4410,Login-page,200,OK,CDI-J&J 1-32,text,true,,38942,132,308,308,https://staging.jnjonc2022.com/login,3392,0,3073
+1643302724253,1006,Home,502,Bad Gateway,CDI-J&J 1-70,text,false,,300,265,310,310,https://staging.jnjonc2022.com/login,1006,0,0
+1643302723108,2154,Login-page,200,OK,CDI-J&J 1-207,text,true,,38948,132,309,309,https://staging.jnjonc2022.com/login,1763,0,872
+1643302724249,1015,Home,502,Bad Gateway,CDI-J&J 1-25,text,false,,300,265,309,309,https://staging.jnjonc2022.com/login,1015,0,0
+1643302724999,267,Login-page,502,Bad Gateway,CDI-J&J 1-449,text,false,,300,132,308,308,https://staging.jnjonc2022.com/login,267,0,167
+1643302720682,4586,Login-page,200,OK,CDI-J&J 1-16,text,true,,38945,132,308,308,https://staging.jnjonc2022.com/login,4467,0,3341
+1643302725160,130,Home,502,Bad Gateway,CDI-J&J 1-216,text,false,,300,839,311,311,https://staging.jnjonc2022.com/login,130,0,0
+1643302725167,137,Home,502,Bad Gateway,CDI-J&J 1-121,text,false,,300,847,311,311,https://staging.jnjonc2022.com/login,137,0,0
+1643302721029,4274,Login-page,200,OK,CDI-J&J 1-52,text,true,,38962,132,311,311,https://staging.jnjonc2022.com/login,4151,0,2999
+1643302724249,1063,Home,502,Bad Gateway,CDI-J&J 1-262,text,false,,300,265,311,311,https://staging.jnjonc2022.com/login,1063,0,0
+1643302723470,1853,Login-page,200,OK,CDI-J&J 1-296,text,true,,38978,132,311,311,https://staging.jnjonc2022.com/login,1736,0,552
+1643302722320,3046,Login-page,200,OK,CDI-J&J 1-181,text,true,,38963,132,315,315,https://staging.jnjonc2022.com/login,2934,0,1691
+1643302723469,1908,Login-page,200,OK,CDI-J&J 1-293,text,true,,38963,132,316,316,https://staging.jnjonc2022.com/login,1784,0,511
+1643302723148,2230,Login-page,200,OK,CDI-J&J 1-215,text,true,,38968,132,316,316,https://staging.jnjonc2022.com/login,2123,0,874
+1643302723393,1989,Login-page,200,OK,CDI-J&J 1-266,text,true,,38934,132,317,317,https://staging.jnjonc2022.com/login,1859,0,586
+1643302721250,4133,Login-page,200,OK,CDI-J&J 1-74,text,true,,38937,132,317,317,https://staging.jnjonc2022.com/login,4032,0,2779
+1643302721870,3518,Login-page,200,OK,CDI-J&J 1-136,text,true,,38970,132,317,317,https://staging.jnjonc2022.com/login,3245,0,2036
+1643302723095,2301,Login-page,200,OK,CDI-J&J 1-245,text,true,,38938,132,318,318,https://staging.jnjonc2022.com/login,2216,0,939
+1643302720941,4469,Login-page,200,OK,CDI-J&J 1-43,text,true,,38946,132,320,320,https://staging.jnjonc2022.com/login,4386,0,3071
+1643302722020,3411,Login-page,200,OK,CDI-J&J 1-151,text,true,,38935,132,322,322,https://staging.jnjonc2022.com/login,3326,0,2014
+1643302722099,3340,Login-page,200,OK,CDI-J&J 1-159,text,true,,38937,132,323,323,https://staging.jnjonc2022.com/login,3257,0,1923
+1643302722091,3362,Login-page,200,OK,CDI-J&J 1-158,text,true,,38947,132,324,324,https://staging.jnjonc2022.com/login,3293,0,1946
+1643302721908,3549,Login-page,200,OK,CDI-J&J 1-139,text,true,,38930,132,324,324,https://staging.jnjonc2022.com/login,3419,0,1998
+1643302722120,3341,Login-page,200,OK,CDI-J&J 1-161,text,true,,38942,132,325,325,https://staging.jnjonc2022.com/login,3286,0,1914
+1643302723107,2356,Login-page,200,OK,CDI-J&J 1-222,text,true,,38941,132,325,325,https://staging.jnjonc2022.com/login,2232,0,904
+1643302724242,1234,Home,502,Bad Gateway,CDI-J&J 1-73,text,false,,300,265,326,326,https://staging.jnjonc2022.com/login,1234,0,0
+1643302725200,298,Login-page,502,Bad Gateway,CDI-J&J 1-469,text,false,,300,132,327,327,https://staging.jnjonc2022.com/login,298,0,256
+1643302725455,43,Home,502,Bad Gateway,CDI-J&J 1-158,text,false,,300,843,327,327,https://staging.jnjonc2022.com/login,43,0,0
+1643302725171,327,Login-page,502,Bad Gateway,CDI-J&J 1-466,text,false,,300,132,327,327,https://staging.jnjonc2022.com/login,327,0,278
+1643302721371,4128,Login-page,200,OK,CDI-J&J 1-86,text,true,,38940,132,326,326,https://staging.jnjonc2022.com/login,4070,0,2663
+1643302724260,1241,Home,502,Bad Gateway,CDI-J&J 1-282,text,false,,300,265,326,326,https://staging.jnjonc2022.com/login,1241,0,0
+1643302725463,38,Home,502,Bad Gateway,CDI-J&J 1-161,text,false,,300,841,326,326,https://staging.jnjonc2022.com/login,38,0,0
+1643302725465,36,Home,502,Bad Gateway,CDI-J&J 1-222,text,false,,300,841,326,326,https://staging.jnjonc2022.com/login,36,0,0
+1643302725180,323,Login-page,502,Bad Gateway,CDI-J&J 1-467,text,false,,300,132,324,324,https://staging.jnjonc2022.com/login,323,0,272
+1643302725230,282,Login-page,502,Bad Gateway,CDI-J&J 1-472,text,false,,300,132,325,325,https://staging.jnjonc2022.com/login,282,0,246
+1643302725250,262,Login-page,502,Bad Gateway,CDI-J&J 1-474,text,false,,300,132,325,325,https://staging.jnjonc2022.com/login,262,0,226
+1643302720731,4792,Login-page,200,OK,CDI-J&J 1-22,text,true,,38953,132,325,325,https://staging.jnjonc2022.com/login,3992,0,3214
+1643302725311,248,Login-page,502,Bad Gateway,CDI-J&J 1-480,text,false,,300,132,325,325,https://staging.jnjonc2022.com/login,248,0,190
+1643302725259,300,Login-page,502,Bad Gateway,CDI-J&J 1-475,text,false,,300,132,325,325,https://staging.jnjonc2022.com/login,300,0,238
+1643302725282,277,Login-page,502,Bad Gateway,CDI-J&J 1-477,text,false,,300,132,325,325,https://staging.jnjonc2022.com/login,277,0,221
+1643302725504,55,Home,502,Bad Gateway,CDI-J&J 1-467,text,false,,300,265,325,325,https://staging.jnjonc2022.com/login,55,0,0
+1643302721569,3993,Login-page,200,OK,CDI-J&J 1-106,text,true,,38956,132,324,324,https://staging.jnjonc2022.com/login,3563,0,2459
+1643302722344,3221,Login-page,200,OK,CDI-J&J 1-183,text,true,,38938,132,324,324,https://staging.jnjonc2022.com/login,3083,0,1648
+1643302723352,2224,Login-page,200,OK,CDI-J&J 1-254,text,true,,38960,132,324,324,https://staging.jnjonc2022.com/login,2162,0,704
+1643302725340,240,Login-page,502,Bad Gateway,CDI-J&J 1-483,text,false,,300,132,324,324,https://staging.jnjonc2022.com/login,240,0,187
+1643302725330,250,Login-page,502,Bad Gateway,CDI-J&J 1-482,text,false,,300,132,324,324,https://staging.jnjonc2022.com/login,250,0,197
+1643302722059,3527,Login-page,200,OK,CDI-J&J 1-155,text,true,,38956,132,324,324,https://staging.jnjonc2022.com/login,3107,0,1867
+1643302725560,54,Home,502,Bad Gateway,CDI-J&J 1-480,text,false,,300,265,324,324,https://staging.jnjonc2022.com/login,54,0,0
+1643302725560,54,Home,502,Bad Gateway,CDI-J&J 1-475,text,false,,300,265,324,324,https://staging.jnjonc2022.com/login,54,0,0
+1643302723094,2523,Login-page,200,OK,CDI-J&J 1-244,text,true,,38951,132,322,322,https://staging.jnjonc2022.com/login,2417,0,915
+1643302721331,4286,Login-page,200,OK,CDI-J&J 1-82,text,true,,38937,132,322,322,https://staging.jnjonc2022.com/login,4017,0,2614
+1643302725400,230,Login-page,502,Bad Gateway,CDI-J&J 1-489,text,false,,300,132,322,322,https://staging.jnjonc2022.com/login,230,0,169
+1643302725380,251,Login-page,502,Bad Gateway,CDI-J&J 1-487,text,false,,300,132,322,322,https://staging.jnjonc2022.com/login,251,0,189
+1643302725360,271,Login-page,502,Bad Gateway,CDI-J&J 1-485,text,false,,300,132,322,322,https://staging.jnjonc2022.com/login,271,0,209
+1643302721280,4351,Login-page,200,OK,CDI-J&J 1-77,text,true,,38962,132,322,322,https://staging.jnjonc2022.com/login,4299,0,2803
+1643302725581,52,Home,502,Bad Gateway,CDI-J&J 1-482,text,false,,300,265,322,322,https://staging.jnjonc2022.com/login,52,0,0
+1643302725578,55,Home,502,Bad Gateway,CDI-J&J 1-254,text,false,,300,849,322,322,https://staging.jnjonc2022.com/login,55,0,0
+1643302725564,69,Home,502,Bad Gateway,CDI-J&J 1-106,text,false,,300,845,322,322,https://staging.jnjonc2022.com/login,69,0,0
+1643302723409,2228,Login-page,200,OK,CDI-J&J 1-289,text,true,,38936,132,319,319,https://staging.jnjonc2022.com/login,2176,0,647
+1643302725431,222,Login-page,502,Bad Gateway,CDI-J&J 1-492,text,false,,300,132,319,319,https://staging.jnjonc2022.com/login,222,0,156
+1643302725525,131,Home,502,Bad Gateway,CDI-J&J 1-22,text,false,,300,845,319,319,https://staging.jnjonc2022.com/login,131,0,0
+1643302724571,1087,Login-page,502,Bad Gateway,CDI-J&J 1-406,text,false,,300,132,318,318,https://staging.jnjonc2022.com/login,1087,0,957
+1643302721841,3817,Login-page,200,OK,CDI-J&J 1-133,text,true,,38941,132,318,318,https://staging.jnjonc2022.com/login,3753,0,2215
+1643302723200,2474,Login-page,200,OK,CDI-J&J 1-243,text,true,,38962,132,318,318,https://staging.jnjonc2022.com/login,2362,0,881
+1643302724850,831,Login-page,502,Bad Gateway,CDI-J&J 1-434,text,false,,300,132,318,318,https://staging.jnjonc2022.com/login,831,0,700
+1643302725620,76,Home,502,Bad Gateway,CDI-J&J 1-244,text,false,,300,843,318,318,https://staging.jnjonc2022.com/login,76,0,0
+1643302725459,241,Login-page,502,Bad Gateway,CDI-J&J 1-495,text,false,,300,132,317,317,https://staging.jnjonc2022.com/login,241,0,171
+1643302725632,82,Home,502,Bad Gateway,CDI-J&J 1-485,text,false,,300,265,317,317,https://staging.jnjonc2022.com/login,82,0,0
+1643302725639,75,Home,502,Bad Gateway,CDI-J&J 1-289,text,false,,300,841,317,317,https://staging.jnjonc2022.com/login,75,0,0
+1643302725632,82,Home,502,Bad Gateway,CDI-J&J 1-487,text,false,,300,265,317,317,https://staging.jnjonc2022.com/login,82,0,0
+1643302725633,81,Home,502,Bad Gateway,CDI-J&J 1-77,text,false,,300,847,317,317,https://staging.jnjonc2022.com/login,81,0,0
+1643302722829,2906,Login-page,200,OK,CDI-J&J 1-187,text,true,,38935,132,313,313,https://staging.jnjonc2022.com/login,2231,0,1163
+1643302723342,2401,Login-page,200,OK,CDI-J&J 1-199,text,true,,38951,132,313,313,https://staging.jnjonc2022.com/login,2317,0,712
+1643302721110,4637,Login-page,200,OK,CDI-J&J 1-60,text,true,,38943,132,313,313,https://staging.jnjonc2022.com/login,3913,0,2831
+1643302725511,247,Login-page,502,Bad Gateway,CDI-J&J 1-500,text,false,,300,132,313,313,https://staging.jnjonc2022.com/login,247,0,183
+1643302723144,2618,Login-page,200,OK,CDI-J&J 1-227,text,true,,38930,132,313,313,https://staging.jnjonc2022.com/login,1900,0,836
+1643302723382,2390,Login-page,200,OK,CDI-J&J 1-263,text,true,,38940,132,313,313,https://staging.jnjonc2022.com/login,2252,0,560
+1643302725703,88,Home,502,Bad Gateway,CDI-J&J 1-495,text,false,,300,265,313,313,https://staging.jnjonc2022.com/login,88,0,0
+1643302723368,2422,Login-page,200,OK,CDI-J&J 1-261,text,true,,38956,132,313,313,https://staging.jnjonc2022.com/login,2288,0,624
+1643302723210,2589,Login-page,200,OK,CDI-J&J 1-251,text,true,,38945,132,312,312,https://staging.jnjonc2022.com/login,2437,0,922
+1643302725682,148,Home,502,Bad Gateway,CDI-J&J 1-434,text,false,,300,265,312,312,https://staging.jnjonc2022.com/login,148,0,0
+1643302723088,2743,Login-page,200,OK,CDI-J&J 1-241,text,true,,38938,132,311,311,https://staging.jnjonc2022.com/login,1844,0,857
+1643302721470,4363,Login-page,200,OK,CDI-J&J 1-96,text,true,,38937,132,311,311,https://staging.jnjonc2022.com/login,3953,0,2510
+1643302723809,2026,Login-page,200,OK,CDI-J&J 1-328,text,true,,38932,132,311,311,https://staging.jnjonc2022.com/login,1909,0,339
+1643302725744,93,Home,502,Bad Gateway,CDI-J&J 1-199,text,false,,300,845,311,311,https://staging.jnjonc2022.com/login,93,0,0
+1643302723911,1925,Login-page,200,OK,CDI-J&J 1-335,text,true,,38945,132,311,311,https://staging.jnjonc2022.com/login,1837,0,268
+1643302720720,5120,Login-page,200,OK,CDI-J&J 1-21,text,true,,38938,132,310,310,https://staging.jnjonc2022.com/login,4502,0,3272
+1643302723857,1983,Login-page,200,OK,CDI-J&J 1-331,text,true,,38982,132,310,310,https://staging.jnjonc2022.com/login,1888,0,289
+1643302725758,87,Home,502,Bad Gateway,CDI-J&J 1-500,text,false,,300,265,310,310,https://staging.jnjonc2022.com/login,87,0,0
+1643302723972,1873,Login-page,200,OK,CDI-J&J 1-346,text,true,,38948,132,309,309,https://staging.jnjonc2022.com/login,1782,0,233
+1643302725022,830,Login-page,502,Bad Gateway,CDI-J&J 1-451,text,false,,300,132,309,309,https://staging.jnjonc2022.com/login,830,0,695
+1643302723351,2501,Login-page,200,OK,CDI-J&J 1-255,text,true,,38961,132,309,309,https://staging.jnjonc2022.com/login,882,0,549
+1643302723751,2111,Login-page,200,OK,CDI-J&J 1-324,text,true,,38943,132,309,309,https://staging.jnjonc2022.com/login,2018,0,366
+1643302723165,2698,Login-page,200,OK,CDI-J&J 1-231,text,true,,38926,132,309,309,https://staging.jnjonc2022.com/login,1823,0,815
+1643302720929,4942,Login-page,200,OK,CDI-J&J 1-42,text,true,,38946,132,309,309,https://staging.jnjonc2022.com/login,4430,0,3012
+1643302723205,2666,Login-page,200,OK,CDI-J&J 1-247,text,true,,38962,132,309,309,https://staging.jnjonc2022.com/login,2543,0,736
+1643302723919,1955,Login-page,200,OK,CDI-J&J 1-341,text,true,,38941,132,309,309,https://staging.jnjonc2022.com/login,1866,0,264
+1643302724940,939,Login-page,502,Bad Gateway,CDI-J&J 1-443,text,false,,300,132,309,309,https://staging.jnjonc2022.com/login,939,0,806
+1643302725763,123,Home,502,Bad Gateway,CDI-J&J 1-227,text,false,,300,841,309,309,https://staging.jnjonc2022.com/login,123,0,0
+1643302722079,3806,Login-page,200,OK,CDI-J&J 1-157,text,true,,38951,132,309,309,https://staging.jnjonc2022.com/login,3542,0,1862
+1643302724248,1655,Home,419,unknown status,CDI-J&J 1-281,text,false,,52229,265,308,308,https://staging.jnjonc2022.com/login,1484,0,0
+1643302725838,83,Home,502,Bad Gateway,CDI-J&J 1-335,text,false,,300,843,307,307,https://staging.jnjonc2022.com/login,83,0,0
+1643302721390,4530,Login-page,200,OK,CDI-J&J 1-88,text,true,,38950,132,307,307,https://staging.jnjonc2022.com/login,4289,0,2551
+1643302725847,94,Home,502,Bad Gateway,CDI-J&J 1-346,text,false,,300,843,306,306,https://staging.jnjonc2022.com/login,94,0,0
+1643302725841,100,Home,502,Bad Gateway,CDI-J&J 1-331,text,false,,300,853,306,306,https://staging.jnjonc2022.com/login,100,0,0
+1643302723908,2038,Login-page,200,OK,CDI-J&J 1-339,text,true,,38930,132,304,304,https://staging.jnjonc2022.com/login,1939,0,239
+1643302723949,2012,Login-page,200,OK,CDI-J&J 1-344,text,true,,38937,132,304,304,https://staging.jnjonc2022.com/login,1915,0,256
+1643302724830,1135,Login-page,502,Bad Gateway,CDI-J&J 1-432,text,false,,300,132,304,304,https://staging.jnjonc2022.com/login,1135,0,1001
+1643302725838,127,Home,502,Bad Gateway,CDI-J&J 1-96,text,false,,300,839,304,304,https://staging.jnjonc2022.com/login,127,0,0
+1643302725875,90,Home,502,Bad Gateway,CDI-J&J 1-341,text,false,,300,841,304,304,https://staging.jnjonc2022.com/login,90,0,0
+1643302720881,5093,Login-page,200,OK,CDI-J&J 1-37,text,true,,38931,132,302,302,https://staging.jnjonc2022.com/login,4541,0,3111
+1643302724909,1070,Login-page,502,Bad Gateway,CDI-J&J 1-440,text,false,,300,132,302,302,https://staging.jnjonc2022.com/login,1070,0,942
+1643302725854,136,Home,502,Bad Gateway,CDI-J&J 1-255,text,false,,300,849,302,302,https://staging.jnjonc2022.com/login,136,0,0
+1643302725853,137,Home,502,Bad Gateway,CDI-J&J 1-451,text,false,,300,265,302,302,https://staging.jnjonc2022.com/login,137,0,0
+1643302720769,5222,Login-page,200,OK,CDI-J&J 1-26,text,true,,38937,132,300,300,https://staging.jnjonc2022.com/login,4702,0,3161
+1643302725471,555,Login-page,502,Bad Gateway,CDI-J&J 1-496,text,false,,300,132,300,300,https://staging.jnjonc2022.com/login,555,0,408
+1643302724500,1526,Login-page,502,Bad Gateway,CDI-J&J 1-399,text,false,,300,132,300,300,https://staging.jnjonc2022.com/login,1526,0,1383
+1643302725210,816,Login-page,502,Bad Gateway,CDI-J&J 1-470,text,false,,300,132,300,300,https://staging.jnjonc2022.com/login,816,0,669
+1643302725489,543,Login-page,502,Bad Gateway,CDI-J&J 1-498,text,false,,300,132,300,300,https://staging.jnjonc2022.com/login,543,0,397
+1643302723372,2661,Login-page,200,OK,CDI-J&J 1-273,text,true,,38935,132,300,300,https://staging.jnjonc2022.com/login,2401,0,620
+1643302721521,4533,Login-page,200,OK,CDI-J&J 1-101,text,true,,38965,132,300,300,https://staging.jnjonc2022.com/login,4400,0,2445
+1643302722049,4005,Login-page,200,OK,CDI-J&J 1-154,text,true,,38946,132,300,300,https://staging.jnjonc2022.com/login,3873,0,1918
+1643302724050,2006,Login-page,200,OK,CDI-J&J 1-354,text,true,,38942,132,300,300,https://staging.jnjonc2022.com/login,1894,0,159
+1643302725922,136,Home,502,Bad Gateway,CDI-J&J 1-88,text,false,,300,843,300,300,https://staging.jnjonc2022.com/login,136,0,0
+1643302723834,2225,Login-page,200,OK,CDI-J&J 1-332,text,true,,38962,132,299,299,https://staging.jnjonc2022.com/login,2128,0,314
+1643302722835,3229,Login-page,200,OK,CDI-J&J 1-225,text,true,,38952,132,299,299,https://staging.jnjonc2022.com/login,2675,0,1157
+1643302720682,5396,Login-page,200,OK,CDI-J&J 1-10,text,true,,38946,132,299,299,https://staging.jnjonc2022.com/login,5154,0,3297
+1643302724001,2088,Login-page,200,OK,CDI-J&J 1-349,text,true,,38949,132,299,299,https://staging.jnjonc2022.com/login,1988,0,204
+1643302723939,2155,Login-page,200,OK,CDI-J&J 1-343,text,true,,38934,132,299,299,https://staging.jnjonc2022.com/login,2019,0,188
+1643302723486,2608,Login-page,200,OK,CDI-J&J 1-295,text,true,,38941,132,299,299,https://staging.jnjonc2022.com/login,1890,0,507
+1643302720909,5191,Login-page,200,OK,CDI-J&J 1-40,text,true,,38933,132,299,299,https://staging.jnjonc2022.com/login,4946,0,3032
+1643302720682,5418,Login-page,200,OK,CDI-J&J 1-15,text,true,,38942,132,299,299,https://staging.jnjonc2022.com/login,5152,0,3259
+1643302724254,1847,Home,419,unknown status,CDI-J&J 1-54,text,false,,52228,265,299,299,https://staging.jnjonc2022.com/login,1656,0,0
+1643302724251,1855,Home,419,unknown status,CDI-J&J 1-306,text,false,,52220,265,298,298,https://staging.jnjonc2022.com/login,1647,0,0
+1643302725588,527,Home,502,Bad Gateway,CDI-J&J 1-155,text,false,,300,845,297,297,https://staging.jnjonc2022.com/login,527,0,0
+1643302723525,2599,Login-page,200,OK,CDI-J&J 1-301,text,true,,38958,132,296,296,https://staging.jnjonc2022.com/login,1823,0,417
+1643302723760,2364,Login-page,200,OK,CDI-J&J 1-325,text,true,,38951,132,296,296,https://staging.jnjonc2022.com/login,2105,0,181
+1643302726060,100,Home,502,Bad Gateway,CDI-J&J 1-332,text,false,,300,847,296,296,https://staging.jnjonc2022.com/login,100,0,0
+1643302726058,103,Home,502,Bad Gateway,CDI-J&J 1-354,text,false,,300,841,295,295,https://staging.jnjonc2022.com/login,103,0,0
+1643302724246,1917,Home,419,unknown status,CDI-J&J 1-97,text,false,,52223,265,294,294,https://staging.jnjonc2022.com/login,1722,0,0
+1643302720681,5481,Login-page,200,OK,CDI-J&J 1-5,text,true,,38939,132,294,294,https://staging.jnjonc2022.com/login,5340,0,3297
+1643302726026,140,Home,502,Bad Gateway,CDI-J&J 1-470,text,false,,300,265,293,293,https://staging.jnjonc2022.com/login,140,0,0
+1643302724151,2013,Login-page,200,OK,CDI-J&J 1-364,text,true,,38940,132,293,293,https://staging.jnjonc2022.com/login,1914,0,312
+1643302723409,2757,Login-page,200,OK,CDI-J&J 1-283,text,true,,38946,132,292,292,https://staging.jnjonc2022.com/login,1117,0,494
+1643302726026,145,Home,502,Bad Gateway,CDI-J&J 1-399,text,false,,300,265,292,292,https://staging.jnjonc2022.com/login,145,0,0
+1643302726033,138,Home,502,Bad Gateway,CDI-J&J 1-498,text,false,,300,265,292,292,https://staging.jnjonc2022.com/login,138,0,0
+1643302726037,140,Home,502,Bad Gateway,CDI-J&J 1-273,text,false,,300,839,290,290,https://staging.jnjonc2022.com/login,140,0,0
+1643302726090,92,Home,502,Bad Gateway,CDI-J&J 1-349,text,false,,300,843,289,289,https://staging.jnjonc2022.com/login,92,0,0
+1643302724041,2147,Login-page,200,OK,CDI-J&J 1-353,text,true,,38932,132,288,288,https://staging.jnjonc2022.com/login,2006,0,288
+1643302724368,1823,Home,419,unknown status,CDI-J&J 1-357,text,false,,52228,265,288,288,https://staging.jnjonc2022.com/login,1639,0,0
+1643302726055,139,Home,502,Bad Gateway,CDI-J&J 1-101,text,false,,300,849,287,287,https://staging.jnjonc2022.com/login,139,0,0
+1643302725110,1089,Login-page,502,Bad Gateway,CDI-J&J 1-460,text,false,,300,132,286,286,https://staging.jnjonc2022.com/login,1089,0,949
+1643302724334,1865,Home,502,Bad Gateway,CDI-J&J 1-36,text,false,,1749,1515,286,286,https://staging.jnjonc2022.com,1725,0,0
+1643302724334,1725,Home-0,302,Found,CDI-J&J 1-36,text,true,,1449,847,286,286,https://staging.jnjonc2022.com/login,1725,0,0
+1643302726061,138,Home-1,502,Bad Gateway,CDI-J&J 1-36,text,false,,300,668,286,286,https://staging.jnjonc2022.com,138,0,0
+1643302722370,3839,Login-page,200,OK,CDI-J&J 1-185,text,true,,38950,132,285,285,https://staging.jnjonc2022.com/login,1972,0,1531
+1643302721441,4769,Login-page,200,OK,CDI-J&J 1-93,text,true,,38941,132,285,285,https://staging.jnjonc2022.com/login,4005,0,2548
+1643302726095,135,Home,502,Bad Gateway,CDI-J&J 1-343,text,false,,300,837,285,285,https://staging.jnjonc2022.com/login,135,0,0
+1643302724651,1579,Login-page,502,Bad Gateway,CDI-J&J 1-414,text,false,,300,132,285,285,https://staging.jnjonc2022.com/login,1579,0,1446
+1643302723825,2405,Login-page,200,OK,CDI-J&J 1-327,text,true,,38953,132,285,285,https://staging.jnjonc2022.com/login,2149,0,155
+1643302724128,2103,Login-page,200,OK,CDI-J&J 1-361,text,true,,38950,132,284,284,https://staging.jnjonc2022.com/login,2000,0,242
+1643302726102,135,Home,502,Bad Gateway,CDI-J&J 1-40,text,false,,300,841,284,284,https://staging.jnjonc2022.com/login,135,0,0
+1643302726102,140,Home,502,Bad Gateway,CDI-J&J 1-15,text,false,,300,841,283,283,https://staging.jnjonc2022.com/login,140,0,0
+1643302724370,1876,Home,419,unknown status,CDI-J&J 1-347,text,false,,52240,265,282,282,https://staging.jnjonc2022.com/login,1685,0,0
+1643302724380,1879,Home,419,unknown status,CDI-J&J 1-352,text,false,,52244,265,281,281,https://staging.jnjonc2022.com/login,1694,0,0
+1643302726166,103,Home,502,Bad Gateway,CDI-J&J 1-364,text,false,,300,839,280,280,https://staging.jnjonc2022.com/login,103,0,0
+1643302724230,2045,Login-page,200,OK,CDI-J&J 1-372,text,true,,38947,132,279,279,https://staging.jnjonc2022.com/login,1960,0,361
+1643302723867,2413,Login-page,200,OK,CDI-J&J 1-334,text,true,,38954,132,279,279,https://staging.jnjonc2022.com/login,2145,0,171
+1643302724170,2112,Login-page,200,OK,CDI-J&J 1-366,text,true,,38975,132,279,279,https://staging.jnjonc2022.com/login,1956,0,319
+1643302721150,5136,Login-page,200,OK,CDI-J&J 1-64,text,true,,38943,132,279,279,https://staging.jnjonc2022.com/login,4871,0,2830
+1643302722030,4260,Login-page,200,OK,CDI-J&J 1-152,text,true,,38940,132,279,279,https://staging.jnjonc2022.com/login,4004,0,1915
+1643302724244,2058,Home,419,unknown status,CDI-J&J 1-313,text,false,,52219,265,279,279,https://staging.jnjonc2022.com/login,1801,0,0
+1643302724179,2125,Login-page,200,OK,CDI-J&J 1-367,text,true,,38947,132,278,278,https://staging.jnjonc2022.com/login,1968,0,324
+1643302726169,138,Home,502,Bad Gateway,CDI-J&J 1-283,text,false,,300,843,278,278,https://staging.jnjonc2022.com/login,138,0,0
+1643302726233,80,Home,502,Bad Gateway,CDI-J&J 1-361,text,false,,300,845,277,277,https://staging.jnjonc2022.com/login,80,0,0
+1643302726199,127,Home,502,Bad Gateway,CDI-J&J 1-460,text,false,,300,265,276,276,https://staging.jnjonc2022.com/login,127,0,0
+1643302723202,3125,Login-page,200,OK,CDI-J&J 1-246,text,true,,38944,132,275,275,https://staging.jnjonc2022.com/login,2870,0,777
+1643302725290,1039,Login-page,502,Bad Gateway,CDI-J&J 1-478,text,false,,300,132,275,275,https://staging.jnjonc2022.com/login,1039,0,914
+1643302724334,1998,Home,502,Bad Gateway,CDI-J&J 1-270,text,false,,1751,1509,275,275,https://staging.jnjonc2022.com,1870,0,0
+1643302724334,1870,Home-0,302,Found,CDI-J&J 1-270,text,true,,1451,839,275,275,https://staging.jnjonc2022.com/login,1870,0,0
+1643302726204,128,Home-1,502,Bad Gateway,CDI-J&J 1-270,text,false,,300,670,275,275,https://staging.jnjonc2022.com,128,0,0
+1643302724799,1535,Login-page,502,Bad Gateway,CDI-J&J 1-429,text,false,,300,132,274,274,https://staging.jnjonc2022.com/login,1535,0,1410
+1643302722129,4206,Login-page,200,OK,CDI-J&J 1-162,text,true,,38952,132,274,274,https://staging.jnjonc2022.com/login,4083,0,1851
+1643302726211,127,Home,502,Bad Gateway,CDI-J&J 1-185,text,false,,300,845,274,274,https://staging.jnjonc2022.com/login,127,0,0
+1643302726212,127,Home,502,Bad Gateway,CDI-J&J 1-93,text,false,,300,839,273,273,https://staging.jnjonc2022.com/login,127,0,0
+1643302724309,2036,Login-page,200,OK,CDI-J&J 1-380,text,true,,38933,132,272,272,https://staging.jnjonc2022.com/login,1962,0,365
+1643302723702,2644,Login-page,200,OK,CDI-J&J 1-318,text,true,,38952,132,272,272,https://staging.jnjonc2022.com/login,2481,0,822
+1643302726285,66,Home,502,Bad Gateway,CDI-J&J 1-366,text,false,,300,849,272,272,https://staging.jnjonc2022.com/login,66,0,0
+1643302724255,2097,Login-page,200,OK,CDI-J&J 1-374,text,true,,38964,132,272,272,https://staging.jnjonc2022.com/login,2030,0,394
+1643302724199,2156,Login-page,200,OK,CDI-J&J 1-369,text,true,,38939,132,271,271,https://staging.jnjonc2022.com/login,2089,0,373
+1643302726306,51,Home,502,Bad Gateway,CDI-J&J 1-367,text,false,,300,841,271,271,https://staging.jnjonc2022.com/login,51,0,0
+1643302721492,4866,Login-page,200,OK,CDI-J&J 1-98,text,true,,38936,132,270,270,https://staging.jnjonc2022.com/login,4087,0,2488
+1643302726232,128,Home,502,Bad Gateway,CDI-J&J 1-327,text,false,,300,843,270,270,https://staging.jnjonc2022.com/login,128,0,0
+1643302726231,129,Home,502,Bad Gateway,CDI-J&J 1-414,text,false,,300,265,270,270,https://staging.jnjonc2022.com/login,129,0,0
+1643302724010,2359,Login-page,200,OK,CDI-J&J 1-350,text,true,,38964,132,268,268,https://staging.jnjonc2022.com/login,2249,0,309
+1643302725880,501,Home,502,Bad Gateway,CDI-J&J 1-443,text,false,,300,265,268,268,https://staging.jnjonc2022.com/login,501,0,0
+1643302725872,509,Home,502,Bad Gateway,CDI-J&J 1-247,text,false,,300,849,268,268,https://staging.jnjonc2022.com/login,509,0,0
+1643302722315,4076,Login-page,200,OK,CDI-J&J 1-180,text,true,,38943,132,266,266,https://staging.jnjonc2022.com/login,3685,0,1664
+1643302723706,2691,Login-page,200,OK,CDI-J&J 1-315,text,true,,38955,132,266,266,https://staging.jnjonc2022.com/login,2561,0,939
+1643302722179,4221,Login-page,200,OK,CDI-J&J 1-167,text,true,,38947,132,266,266,https://staging.jnjonc2022.com/login,3684,0,1766
+1643302723497,2903,Login-page,200,OK,CDI-J&J 1-298,text,true,,38951,132,266,266,https://staging.jnjonc2022.com/login,2777,0,444
+1643302726346,57,Home,502,Bad Gateway,CDI-J&J 1-380,text,false,,300,839,266,266,https://staging.jnjonc2022.com/login,57,0,0
+1643302726357,50,Home,502,Bad Gateway,CDI-J&J 1-369,text,false,,300,841,265,265,https://staging.jnjonc2022.com/login,50,0,0
+1643302720892,5517,Login-page,200,OK,CDI-J&J 1-38,text,true,,38923,132,264,264,https://staging.jnjonc2022.com/login,5116,0,3087
+1643302724450,1961,Login-page,200,OK,CDI-J&J 1-394,text,true,,38953,132,264,264,https://staging.jnjonc2022.com/login,1911,0,308
+1643302724321,2104,Home,502,Bad Gateway,CDI-J&J 1-274,text,false,,1747,1507,264,264,https://staging.jnjonc2022.com,1961,0,0
+1643302724321,1961,Home-0,302,Found,CDI-J&J 1-274,text,true,,1447,841,264,264,https://staging.jnjonc2022.com/login,1961,0,0
+1643302726283,142,Home-1,502,Bad Gateway,CDI-J&J 1-274,text,false,,300,666,264,264,https://staging.jnjonc2022.com,142,0,0
+1643302726288,141,Home,502,Bad Gateway,CDI-J&J 1-64,text,false,,300,841,263,263,https://staging.jnjonc2022.com/login,141,0,0
+1643302726291,138,Home,502,Bad Gateway,CDI-J&J 1-152,text,false,,300,839,263,263,https://staging.jnjonc2022.com/login,138,0,0
+1643302721670,4761,Login-page,200,OK,CDI-J&J 1-116,text,true,,38943,132,261,261,https://staging.jnjonc2022.com/login,3741,0,2323
+1643302723365,3070,Login-page,200,OK,CDI-J&J 1-256,text,true,,38967,132,261,261,https://staging.jnjonc2022.com/login,2828,0,601
+1643302723036,3409,Login-page,200,OK,CDI-J&J 1-189,text,true,,38958,132,261,261,https://staging.jnjonc2022.com/login,3328,0,973
+1643302724414,2033,Login-page,200,OK,CDI-J&J 1-390,text,true,,38930,132,261,261,https://staging.jnjonc2022.com/login,1974,0,340
+1643302724372,2079,Login-page,502,Bad Gateway,CDI-J&J 1-386,text,false,,300,132,261,261,https://staging.jnjonc2022.com/login,2079,0,1935
+1643302726412,41,Home,502,Bad Gateway,CDI-J&J 1-394,text,false,,300,845,261,261,https://staging.jnjonc2022.com/login,41,0,0
+1643302723408,3045,Login-page,200,OK,CDI-J&J 1-285,text,true,,38967,132,261,261,https://staging.jnjonc2022.com/login,2390,0,533
+1643302726328,150,Home,502,Bad Gateway,CDI-J&J 1-246,text,false,,300,843,260,260,https://staging.jnjonc2022.com/login,150,0,0
+1643302726330,148,Home,502,Bad Gateway,CDI-J&J 1-478,text,false,,300,265,260,260,https://staging.jnjonc2022.com/login,148,0,0
+1643302724339,2141,Login-page,200,OK,CDI-J&J 1-383,text,true,,38948,132,258,258,https://staging.jnjonc2022.com/login,2074,0,393
+1643302726337,144,Home,502,Bad Gateway,CDI-J&J 1-162,text,false,,300,843,258,258,https://staging.jnjonc2022.com/login,144,0,0
+1643302726446,36,Home,502,Bad Gateway,CDI-J&J 1-189,text,false,,300,847,258,258,https://staging.jnjonc2022.com/login,36,0,0
+1643302726448,35,Home,502,Bad Gateway,CDI-J&J 1-390,text,false,,300,837,258,258,https://staging.jnjonc2022.com/login,35,0,0
+1643302721800,4683,Login-page,200,OK,CDI-J&J 1-129,text,true,,38953,132,256,256,https://staging.jnjonc2022.com/login,4293,0,2141
+1643302724262,2223,Login-page,200,OK,CDI-J&J 1-375,text,true,,38946,132,255,255,https://staging.jnjonc2022.com/login,2172,0,412
+1643302724391,2097,Login-page,200,OK,CDI-J&J 1-388,text,true,,38937,132,255,255,https://staging.jnjonc2022.com/login,2061,0,363
+1643302726482,32,Home,502,Bad Gateway,CDI-J&J 1-383,text,false,,300,845,255,255,https://staging.jnjonc2022.com/login,32,0,0
+1643302724480,2035,Login-page,200,OK,CDI-J&J 1-397,text,true,,38950,132,254,254,https://staging.jnjonc2022.com/login,2005,0,343
+1643302726489,30,Home,502,Bad Gateway,CDI-J&J 1-388,text,false,,300,841,254,254,https://staging.jnjonc2022.com/login,30,0,0
+1643302721779,4743,Login-page,200,OK,CDI-J&J 1-127,text,true,,38942,132,253,253,https://staging.jnjonc2022.com/login,3175,0,2162
+1643302723347,3179,Login-page,200,OK,CDI-J&J 1-198,text,true,,38945,132,253,253,https://staging.jnjonc2022.com/login,2930,0,619
+1643302726066,483,Home,502,Bad Gateway,CDI-J&J 1-225,text,false,,300,843,253,253,https://staging.jnjonc2022.com/login,483,0,0
+1643302724511,2039,Login-page,200,OK,CDI-J&J 1-400,text,true,,38940,132,252,252,https://staging.jnjonc2022.com/login,1983,0,315
+1643302723749,2819,Login-page,200,OK,CDI-J&J 1-321,text,true,,38937,132,252,252,https://staging.jnjonc2022.com/login,2685,0,217
+1643302723741,2828,Login-page,200,OK,CDI-J&J 1-323,text,true,,38957,132,252,252,https://staging.jnjonc2022.com/login,2571,0,251
+1643302726437,142,Home,502,Bad Gateway,CDI-J&J 1-256,text,false,,300,847,252,252,https://staging.jnjonc2022.com/login,142,0,0
+1643302724540,2042,Login-page,200,OK,CDI-J&J 1-403,text,true,,38932,132,251,251,https://staging.jnjonc2022.com/login,1998,0,308
+1643302726452,135,Home,502,Bad Gateway,CDI-J&J 1-386,text,false,,300,265,251,251,https://staging.jnjonc2022.com/login,135,0,0
+1643302725041,1546,Login-page,502,Bad Gateway,CDI-J&J 1-453,text,false,,300,132,251,251,https://staging.jnjonc2022.com/login,1546,0,1409
+1643302724542,2045,Home,502,Bad Gateway,CDI-J&J 1-252,text,false,,1745,1507,251,251,https://staging.jnjonc2022.com,1916,0,0
+1643302724542,1916,Home-0,302,Found,CDI-J&J 1-252,text,true,,1445,843,251,251,https://staging.jnjonc2022.com/login,1916,0,0
+1643302726459,128,Home-1,502,Bad Gateway,CDI-J&J 1-252,text,false,,300,664,251,251,https://staging.jnjonc2022.com,128,0,0
+1643302724422,2166,Home,502,Bad Gateway,CDI-J&J 1-221,text,false,,1741,1505,251,251,https://staging.jnjonc2022.com,2036,0,0
+1643302724422,2036,Home-0,302,Found,CDI-J&J 1-221,text,true,,1441,845,251,251,https://staging.jnjonc2022.com/login,2036,0,0
+1643302726459,129,Home-1,502,Bad Gateway,CDI-J&J 1-221,text,false,,300,660,251,251,https://staging.jnjonc2022.com,129,0,0
+1643302721700,4887,Login-page,200,OK,CDI-J&J 1-119,text,true,,38960,132,251,251,https://staging.jnjonc2022.com/login,4881,0,2241
+1643302721560,5028,Login-page,200,OK,CDI-J&J 1-105,text,true,,38958,132,248,248,https://staging.jnjonc2022.com/login,3782,0,2366
+1643302726553,46,Home,502,Bad Gateway,CDI-J&J 1-400,text,false,,300,841,248,248,https://staging.jnjonc2022.com/login,45,0,0
+1643302720681,5917,Login-page,200,OK,CDI-J&J 1-2,text,true,,38937,132,248,248,https://staging.jnjonc2022.com/login,5800,0,3297
+1643302724404,2197,Home,502,Bad Gateway,CDI-J&J 1-284,text,false,,1743,1507,247,247,https://staging.jnjonc2022.com,2074,0,0
+1643302724404,2074,Home-0,302,Found,CDI-J&J 1-284,text,true,,1443,845,247,247,https://staging.jnjonc2022.com/login,2074,0,0
+1643302726479,122,Home-1,502,Bad Gateway,CDI-J&J 1-284,text,false,,300,662,247,247,https://staging.jnjonc2022.com,122,0,0
+1643302722199,4403,Login-page,200,OK,CDI-J&J 1-169,text,true,,38938,132,246,246,https://staging.jnjonc2022.com/login,4155,0,1812
+1643302725059,1548,Login-page,502,Bad Gateway,CDI-J&J 1-455,text,false,,300,132,246,246,https://staging.jnjonc2022.com/login,1548,0,1423
+1643302721230,5378,Login-page,200,OK,CDI-J&J 1-72,text,true,,38941,132,246,246,https://staging.jnjonc2022.com/login,5259,0,2696
+1643302724620,1989,Login-page,200,OK,CDI-J&J 1-411,text,true,,38969,132,246,246,https://staging.jnjonc2022.com/login,1961,0,254
+1643302726486,127,Home,502,Bad Gateway,CDI-J&J 1-129,text,false,,300,843,246,246,https://staging.jnjonc2022.com/login,127,0,0
+1643302725865,748,Home,502,Bad Gateway,CDI-J&J 1-231,text,false,,300,837,246,246,https://staging.jnjonc2022.com/login,748,0,0
+1643302721340,5277,Login-page,200,OK,CDI-J&J 1-83,text,true,,38944,132,244,244,https://staging.jnjonc2022.com/login,4766,0,2626
+1643302724529,2089,Login-page,200,OK,CDI-J&J 1-402,text,true,,38959,132,244,244,https://staging.jnjonc2022.com/login,2055,0,308
+1643302726586,34,Home,502,Bad Gateway,CDI-J&J 1-403,text,false,,300,841,244,244,https://staging.jnjonc2022.com/login,34,0,0
+1643302724296,2324,Login-page,200,OK,CDI-J&J 1-377,text,true,,38919,132,244,244,https://staging.jnjonc2022.com/login,2289,0,432
+1643302722141,4481,Login-page,200,OK,CDI-J&J 1-163,text,true,,38937,132,243,243,https://staging.jnjonc2022.com/login,3521,0,1761
+1643302721691,4935,Login-page,200,OK,CDI-J&J 1-118,text,true,,38934,132,243,243,https://staging.jnjonc2022.com/login,3890,0,2288
+1643302724590,2039,Login-page,200,OK,CDI-J&J 1-408,text,true,,38944,132,243,243,https://staging.jnjonc2022.com/login,2011,0,281
+1643302724639,1993,Login-page,200,OK,CDI-J&J 1-413,text,true,,38963,132,243,243,https://staging.jnjonc2022.com/login,1964,0,235
+1643302726610,28,Home,502,Bad Gateway,CDI-J&J 1-411,text,false,,300,849,243,243,https://staging.jnjonc2022.com/login,28,0,0
+1643302723890,2750,Login-page,200,OK,CDI-J&J 1-338,text,true,,38944,132,242,242,https://staging.jnjonc2022.com/login,1948,0,194
+1643302721040,5601,Login-page,200,OK,CDI-J&J 1-53,text,true,,38947,132,242,242,https://staging.jnjonc2022.com/login,5049,0,2910
+1643302726619,32,Home,502,Bad Gateway,CDI-J&J 1-402,text,false,,300,847,242,242,https://staging.jnjonc2022.com/login,32,0,0
+1643302726622,30,Home,502,Bad Gateway,CDI-J&J 1-377,text,false,,300,839,241,241,https://staging.jnjonc2022.com/login,30,0,0
+1643302724990,1662,Login-page,502,Bad Gateway,CDI-J&J 1-448,text,false,,300,132,241,241,https://staging.jnjonc2022.com/login,1662,0,1559
+1643302726524,128,Home,502,Bad Gateway,CDI-J&J 1-127,text,false,,300,841,241,241,https://staging.jnjonc2022.com/login,128,0,0
+1643302720681,5969,Login-page,200,OK,CDI-J&J 1-3,text,true,,38935,132,241,241,https://staging.jnjonc2022.com/login,5557,0,3244
+1643302724514,2142,Home,502,Bad Gateway,CDI-J&J 1-132,text,false,,1743,1499,239,239,https://staging.jnjonc2022.com,2023,0,0
+1643302724514,2023,Home-0,302,Found,CDI-J&J 1-132,text,true,,1443,837,239,239,https://staging.jnjonc2022.com/login,2023,0,0
+1643302726537,119,Home-1,502,Bad Gateway,CDI-J&J 1-132,text,false,,300,662,239,239,https://staging.jnjonc2022.com,119,0,0
+1643302720990,5667,Login-page,200,OK,CDI-J&J 1-48,text,true,,38931,132,238,238,https://staging.jnjonc2022.com/login,4599,0,2990
+1643302720750,5907,Login-page,200,OK,CDI-J&J 1-24,text,true,,38946,132,238,238,https://staging.jnjonc2022.com/login,5904,0,3217
+1643302726634,31,Home,502,Bad Gateway,CDI-J&J 1-413,text,false,,300,847,238,238,https://staging.jnjonc2022.com/login,31,0,0
+1643302726630,35,Home,502,Bad Gateway,CDI-J&J 1-408,text,false,,300,843,238,238,https://staging.jnjonc2022.com/login,35,0,0
+1643302720681,5988,Login-page,200,OK,CDI-J&J 1-6,text,true,,38934,132,236,236,https://staging.jnjonc2022.com/login,4787,0,3307
+1643302720699,5976,Login-page,200,OK,CDI-J&J 1-19,text,true,,38930,132,236,236,https://staging.jnjonc2022.com/login,5592,0,3242
+1643302724600,2088,Login-page,502,Bad Gateway,CDI-J&J 1-409,text,false,,300,132,236,236,https://staging.jnjonc2022.com/login,2088,0,1979
+1643302726571,117,Home,502,Bad Gateway,CDI-J&J 1-323,text,false,,300,847,236,236,https://staging.jnjonc2022.com/login,117,0,0
+1643302725139,1549,Login-page,502,Bad Gateway,CDI-J&J 1-463,text,false,,300,132,236,236,https://staging.jnjonc2022.com/login,1549,0,1440
+1643302724580,2108,Login-page,502,Bad Gateway,CDI-J&J 1-407,text,false,,300,132,236,236,https://staging.jnjonc2022.com/login,2108,0,1999
+1643302725567,1124,Home,502,Bad Gateway,CDI-J&J 1-183,text,false,,300,841,235,235,https://staging.jnjonc2022.com/login,1124,0,0
+1643302726590,102,Home,502,Bad Gateway,CDI-J&J 1-105,text,false,,300,847,234,234,https://staging.jnjonc2022.com/login,102,0,0
+1643302726587,105,Home,502,Bad Gateway,CDI-J&J 1-453,text,false,,300,265,234,234,https://staging.jnjonc2022.com/login,105,0,0
+1643302726589,108,Home,502,Bad Gateway,CDI-J&J 1-119,text,false,,300,849,232,232,https://staging.jnjonc2022.com/login,108,0,0
+1643302726602,104,Home,502,Bad Gateway,CDI-J&J 1-2,text,false,,300,843,231,231,https://staging.jnjonc2022.com/login,104,0,0
+1643302726607,102,Home,502,Bad Gateway,CDI-J&J 1-455,text,false,,300,265,230,230,https://staging.jnjonc2022.com/login,102,0,0
+1643302724510,2206,Home,502,Bad Gateway,CDI-J&J 1-50,text,false,,1749,1511,229,229,https://staging.jnjonc2022.com,2098,0,0
+1643302726610,106,Home,502,Bad Gateway,CDI-J&J 1-72,text,false,,300,841,229,229,https://staging.jnjonc2022.com/login,106,0,0
+1643302724510,2098,Home-0,302,Found,CDI-J&J 1-50,text,true,,1449,843,229,229,https://staging.jnjonc2022.com/login,2098,0,0
+1643302726609,107,Home-1,502,Bad Gateway,CDI-J&J 1-50,text,false,,300,668,229,229,https://staging.jnjonc2022.com,107,0,0
+1643302726619,105,Home,502,Bad Gateway,CDI-J&J 1-83,text,false,,300,843,227,227,https://staging.jnjonc2022.com/login,105,0,0
+1643302724023,2702,Login-page,200,OK,CDI-J&J 1-351,text,true,,38946,132,226,226,https://staging.jnjonc2022.com/login,2594,0,306
+1643302726624,104,Home,502,Bad Gateway,CDI-J&J 1-163,text,false,,300,841,226,226,https://staging.jnjonc2022.com/login,104,0,0
+1643302726628,100,Home,502,Bad Gateway,CDI-J&J 1-118,text,false,,300,839,226,226,https://staging.jnjonc2022.com/login,100,0,0
+1643302724240,2489,Login-page,200,OK,CDI-J&J 1-373,text,true,,38925,132,224,224,https://staging.jnjonc2022.com/login,2136,0,409
+1643302725220,1517,Login-page,502,Bad Gateway,CDI-J&J 1-471,text,false,,300,132,224,224,https://staging.jnjonc2022.com/login,1517,0,1414
+1643302723929,2810,Login-page,200,OK,CDI-J&J 1-342,text,true,,38920,132,224,224,https://staging.jnjonc2022.com/login,2709,0,182
+1643302726642,110,Home,502,Bad Gateway,CDI-J&J 1-338,text,false,,300,845,224,224,https://staging.jnjonc2022.com/login,110,0,0
+1643302726653,99,Home,502,Bad Gateway,CDI-J&J 1-448,text,false,,300,265,224,224,https://staging.jnjonc2022.com/login,99,0,0
+1643302724760,1992,Home,502,Bad Gateway,CDI-J&J 1-160,text,false,,1751,1513,224,224,https://staging.jnjonc2022.com,1890,0,0
+1643302724760,1890,Home-0,302,Found,CDI-J&J 1-160,text,true,,1451,843,224,224,https://staging.jnjonc2022.com/login,1890,0,0
+1643302726651,101,Home-1,502,Bad Gateway,CDI-J&J 1-160,text,false,,300,670,224,224,https://staging.jnjonc2022.com,101,0,0
+1643302726654,104,Home,502,Bad Gateway,CDI-J&J 1-3,text,false,,300,841,221,221,https://staging.jnjonc2022.com/login,104,0,0
+1643302726658,100,Home,502,Bad Gateway,CDI-J&J 1-48,text,false,,300,839,221,221,https://staging.jnjonc2022.com/login,100,0,0
+1643302726658,100,Home,502,Bad Gateway,CDI-J&J 1-24,text,false,,300,845,221,221,https://staging.jnjonc2022.com/login,100,0,0
+1643302724405,2358,Login-page,200,OK,CDI-J&J 1-389,text,true,,38972,132,218,218,https://staging.jnjonc2022.com/login,2260,0,463
+1643302726676,90,Home,502,Bad Gateway,CDI-J&J 1-19,text,false,,300,837,218,218,https://staging.jnjonc2022.com/login,90,0,0
+1643302725272,1494,Login-page,502,Bad Gateway,CDI-J&J 1-476,text,false,,300,132,218,218,https://staging.jnjonc2022.com/login,1494,0,1395
+1643302726672,94,Home,502,Bad Gateway,CDI-J&J 1-6,text,false,,300,839,218,218,https://staging.jnjonc2022.com/login,94,0,0
+1643302723372,3395,Login-page,200,OK,CDI-J&J 1-276,text,true,,38930,132,217,217,https://staging.jnjonc2022.com/login,2292,0,617
+1643302724379,2389,Login-page,200,OK,CDI-J&J 1-387,text,true,,38955,132,217,217,https://staging.jnjonc2022.com/login,2297,0,418
+1643302721291,5479,Login-page,200,OK,CDI-J&J 1-78,text,true,,38936,132,216,216,https://staging.jnjonc2022.com/login,5120,0,2659
+1643302724276,2506,Home,502,Bad Gateway,CDI-J&J 1-4,text,false,,1745,1503,216,216,https://staging.jnjonc2022.com,2412,0,0
+1643302726689,93,Home,502,Bad Gateway,CDI-J&J 1-409,text,false,,300,265,216,216,https://staging.jnjonc2022.com/login,93,0,0
+1643302726689,93,Home,502,Bad Gateway,CDI-J&J 1-463,text,false,,300,265,216,216,https://staging.jnjonc2022.com/login,93,0,0
+1643302724276,2412,Home-0,302,Found,CDI-J&J 1-4,text,true,,1445,839,216,216,https://staging.jnjonc2022.com/login,2412,0,0
+1643302726688,94,Home-1,502,Bad Gateway,CDI-J&J 1-4,text,false,,300,664,216,216,https://staging.jnjonc2022.com,94,0,0
+1643302726689,93,Home,502,Bad Gateway,CDI-J&J 1-407,text,false,,300,265,216,216,https://staging.jnjonc2022.com/login,93,0,0
+1643302721999,4785,Login-page,200,OK,CDI-J&J 1-149,text,true,,38956,132,215,215,https://staging.jnjonc2022.com/login,2724,0,1927
+1643302721770,5014,Login-page,200,OK,CDI-J&J 1-126,text,true,,38949,132,215,215,https://staging.jnjonc2022.com/login,4579,0,2171
+1643302724679,2108,Login-page,502,Bad Gateway,CDI-J&J 1-417,text,false,,300,132,213,213,https://staging.jnjonc2022.com/login,2108,0,2026
+1643302724779,2009,Login-page,502,Bad Gateway,CDI-J&J 1-427,text,false,,300,132,212,212,https://staging.jnjonc2022.com/login,2009,0,1922
+1643302724760,2035,Login-page,200,OK,CDI-J&J 1-425,text,true,,38972,132,212,212,https://staging.jnjonc2022.com/login,1995,0,153
+1643302725299,1502,Login-page,502,Bad Gateway,CDI-J&J 1-479,text,false,,300,132,212,212,https://staging.jnjonc2022.com/login,1502,0,1406
+1643302724296,2514,Login-page,200,OK,CDI-J&J 1-378,text,true,,38971,132,212,212,https://staging.jnjonc2022.com/login,2217,0,462
+1643302724559,2258,Login-page,200,OK,CDI-J&J 1-405,text,true,,38945,132,212,212,https://staging.jnjonc2022.com/login,2223,0,308
+1643302726737,84,Home,502,Bad Gateway,CDI-J&J 1-471,text,false,,300,265,212,212,https://staging.jnjonc2022.com/login,84,0,0
+1643302724703,2119,Login-page,200,OK,CDI-J&J 1-419,text,true,,38940,132,211,211,https://staging.jnjonc2022.com/login,2086,0,171
+1643302722866,3956,Login-page,200,OK,CDI-J&J 1-217,text,true,,38943,132,211,211,https://staging.jnjonc2022.com/login,3596,0,1126
+1643302724790,2033,Login-page,200,OK,CDI-J&J 1-428,text,true,,38946,132,211,211,https://staging.jnjonc2022.com/login,2005,0,128
+1643302724672,2155,Login-page,200,OK,CDI-J&J 1-416,text,true,,38939,132,211,211,https://staging.jnjonc2022.com/login,2122,0,202
+1643302724690,2140,Login-page,200,OK,CDI-J&J 1-418,text,true,,38941,132,211,211,https://staging.jnjonc2022.com/login,2108,0,197
+1643302724809,2026,Login-page,200,OK,CDI-J&J 1-430,text,true,,38950,132,211,211,https://staging.jnjonc2022.com/login,1995,0,127
+1643302726770,77,Home,502,Bad Gateway,CDI-J&J 1-387,text,false,,300,847,211,211,https://staging.jnjonc2022.com/login,77,0,0
+1643302726771,76,Home,502,Bad Gateway,CDI-J&J 1-78,text,false,,300,839,211,211,https://staging.jnjonc2022.com/login,76,0,0
+1643302725390,1457,Login-page,502,Bad Gateway,CDI-J&J 1-488,text,false,,300,132,211,211,https://staging.jnjonc2022.com/login,1457,0,1371
+1643302726769,78,Home,502,Bad Gateway,CDI-J&J 1-276,text,false,,300,837,211,211,https://staging.jnjonc2022.com/login,78,0,0
+1643302726797,51,Home,502,Bad Gateway,CDI-J&J 1-425,text,false,,300,853,210,210,https://staging.jnjonc2022.com/login,51,0,0
+1643302724722,2135,Login-page,200,OK,CDI-J&J 1-421,text,true,,38928,132,207,207,https://staging.jnjonc2022.com/login,2100,0,164
+1643302723847,3010,Login-page,200,OK,CDI-J&J 1-330,text,true,,38943,132,207,207,https://staging.jnjonc2022.com/login,2974,0,1112
+1643302726787,74,Home,502,Bad Gateway,CDI-J&J 1-126,text,false,,300,843,207,207,https://staging.jnjonc2022.com/login,74,0,0
+1643302726824,38,Home,502,Bad Gateway,CDI-J&J 1-428,text,false,,300,843,206,206,https://staging.jnjonc2022.com/login,38,0,0
+1643302726820,42,Home,502,Bad Gateway,CDI-J&J 1-405,text,false,,300,841,206,206,https://staging.jnjonc2022.com/login,42,0,0
+1643302726823,39,Home,502,Bad Gateway,CDI-J&J 1-419,text,false,,300,841,206,206,https://staging.jnjonc2022.com/login,39,0,0
+1643302721590,5272,Login-page,200,OK,CDI-J&J 1-108,text,true,,38948,132,206,206,https://staging.jnjonc2022.com/login,4897,0,2402
+1643302726828,36,Home,502,Bad Gateway,CDI-J&J 1-416,text,false,,300,841,203,203,https://staging.jnjonc2022.com/login,36,0,0
+1643302723275,3591,Login-page,200,OK,CDI-J&J 1-208,text,true,,38946,132,202,202,https://staging.jnjonc2022.com/login,3513,0,667
+1643302725421,1450,Login-page,502,Bad Gateway,CDI-J&J 1-491,text,false,,300,132,202,202,https://staging.jnjonc2022.com/login,1450,0,1367
+1643302726787,84,Home,502,Bad Gateway,CDI-J&J 1-417,text,false,,300,265,202,202,https://staging.jnjonc2022.com/login,84,0,0
+1643302724630,2242,Login-page,502,Bad Gateway,CDI-J&J 1-412,text,false,,300,132,202,202,https://staging.jnjonc2022.com/login,2242,0,2175
+1643302726811,61,Home,502,Bad Gateway,CDI-J&J 1-378,text,false,,300,849,202,202,https://staging.jnjonc2022.com/login,61,0,0
+1643302726823,55,Home,502,Bad Gateway,CDI-J&J 1-217,text,false,,300,841,200,200,https://staging.jnjonc2022.com/login,55,0,0
+1643302721620,5259,Login-page,200,OK,CDI-J&J 1-111,text,true,,38938,132,199,199,https://staging.jnjonc2022.com/login,4841,0,2372
+1643302724429,2457,Login-page,200,OK,CDI-J&J 1-391,text,true,,38958,132,199,199,https://staging.jnjonc2022.com/login,2423,0,329
+1643302722731,4161,Login-page,200,OK,CDI-J&J 1-204,text,true,,38953,132,199,199,https://staging.jnjonc2022.com/login,3270,0,1248
+1643302726858,34,Home,502,Bad Gateway,CDI-J&J 1-421,text,false,,300,837,199,199,https://staging.jnjonc2022.com/login,34,0,0
+1643302726858,35,Home,502,Bad Gateway,CDI-J&J 1-330,text,false,,300,841,198,198,https://staging.jnjonc2022.com/login,35,0,0
+1643302724470,2427,Login-page,200,OK,CDI-J&J 1-396,text,true,,38951,132,197,197,https://staging.jnjonc2022.com/login,2386,0,424
+1643302725191,1710,Login-page,502,Bad Gateway,CDI-J&J 1-468,text,false,,300,132,197,197,https://staging.jnjonc2022.com/login,1710,0,1662
+1643302721750,5151,Login-page,200,OK,CDI-J&J 1-124,text,true,,38937,132,197,197,https://staging.jnjonc2022.com/login,3228,0,2191
+1643302726847,57,Home,502,Bad Gateway,CDI-J&J 1-488,text,false,,300,265,197,197,https://staging.jnjonc2022.com/login,57,0,0
+1643302724210,2694,Login-page,502,Bad Gateway,CDI-J&J 1-370,text,false,,300,132,197,197,https://staging.jnjonc2022.com/login,2694,0,2643
+1643302724821,2084,Login-page,200,OK,CDI-J&J 1-431,text,true,,38953,132,196,196,https://staging.jnjonc2022.com/login,2045,0,135
+1643302721259,5647,Login-page,200,OK,CDI-J&J 1-75,text,true,,38940,132,196,196,https://staging.jnjonc2022.com/login,5351,0,2733
+1643302722863,4044,Login-page,200,OK,CDI-J&J 1-218,text,true,,38975,132,196,196,https://staging.jnjonc2022.com/login,3856,0,1103
+1643302724359,2549,Login-page,200,OK,CDI-J&J 1-385,text,true,,38939,132,196,196,https://staging.jnjonc2022.com/login,2493,0,573
+1643302724141,2771,Login-page,502,Bad Gateway,CDI-J&J 1-363,text,false,,300,132,196,196,https://staging.jnjonc2022.com/login,2771,0,2720
+1643302726888,30,Home,502,Bad Gateway,CDI-J&J 1-391,text,false,,300,847,196,196,https://staging.jnjonc2022.com/login,30,0,0
+1643302724221,2698,Login-page,502,Bad Gateway,CDI-J&J 1-371,text,false,,300,132,195,195,https://staging.jnjonc2022.com/login,2698,0,2650
+1643302724929,1990,Login-page,502,Bad Gateway,CDI-J&J 1-442,text,false,,300,132,195,195,https://staging.jnjonc2022.com/login,1990,0,1942
+1643302723342,3576,Login-page,200,OK,CDI-J&J 1-195,text,true,,38944,132,196,196,https://staging.jnjonc2022.com/login,3548,0,1637
+1643302724160,2759,Login-page,502,Bad Gateway,CDI-J&J 1-365,text,false,,300,132,195,195,https://staging.jnjonc2022.com/login,2759,0,2711
+1643302726868,52,Home,502,Bad Gateway,CDI-J&J 1-208,text,false,,300,841,195,195,https://staging.jnjonc2022.com/login,52,0,0
+1643302726872,48,Home,502,Bad Gateway,CDI-J&J 1-491,text,false,,300,265,195,195,https://staging.jnjonc2022.com/login,48,0,0
+1643302726864,55,Home,502,Bad Gateway,CDI-J&J 1-108,text,false,,300,843,195,195,https://staging.jnjonc2022.com/login,55,0,0
+1643302726872,49,Home,502,Bad Gateway,CDI-J&J 1-412,text,false,,300,265,195,195,https://staging.jnjonc2022.com/login,49,0,0
+1643302724371,2554,Home,419,unknown status,CDI-J&J 1-348,text,false,,52220,265,191,191,https://staging.jnjonc2022.com/login,2372,0,0
+1643302726893,49,Home,502,Bad Gateway,CDI-J&J 1-204,text,false,,300,847,190,190,https://staging.jnjonc2022.com/login,49,0,0
+1643302726909,35,Home,502,Bad Gateway,CDI-J&J 1-385,text,false,,300,839,189,189,https://staging.jnjonc2022.com/login,35,0,0
+1643302726907,37,Home,502,Bad Gateway,CDI-J&J 1-431,text,false,,300,843,189,189,https://staging.jnjonc2022.com/login,37,0,0
+1643302726903,51,Home,502,Bad Gateway,CDI-J&J 1-124,text,false,,300,841,187,187,https://staging.jnjonc2022.com/login,51,0,0
+1643302726920,34,Home,502,Bad Gateway,CDI-J&J 1-195,text,false,,300,841,187,187,https://staging.jnjonc2022.com/login,34,0,0
+1643302726905,49,Home,502,Bad Gateway,CDI-J&J 1-370,text,false,,300,265,187,187,https://staging.jnjonc2022.com/login,49,0,0
+1643302726907,47,Home,502,Bad Gateway,CDI-J&J 1-75,text,false,,300,841,187,187,https://staging.jnjonc2022.com/login,47,0,0
+1643302723635,3320,Login-page,200,OK,CDI-J&J 1-312,text,true,,38945,132,183,183,https://staging.jnjonc2022.com/login,3077,0,306
+1643302726920,36,Home,502,Bad Gateway,CDI-J&J 1-371,text,false,,300,265,183,183,https://staging.jnjonc2022.com/login,36,0,0
+1643302726920,36,Home,502,Bad Gateway,CDI-J&J 1-442,text,false,,300,265,183,183,https://staging.jnjonc2022.com/login,36,0,0
+1643302726920,36,Home,502,Bad Gateway,CDI-J&J 1-365,text,false,,300,265,183,183,https://staging.jnjonc2022.com/login,36,0,0
+1643302724094,2863,Login-page,200,OK,CDI-J&J 1-358,text,true,,38937,132,180,180,https://staging.jnjonc2022.com/login,2711,0,395
+1643302726912,51,Home,502,Bad Gateway,CDI-J&J 1-363,text,false,,300,265,180,180,https://staging.jnjonc2022.com/login,51,0,0
+1643302724740,2224,Login-page,200,OK,CDI-J&J 1-423,text,true,,38951,132,179,179,https://staging.jnjonc2022.com/login,2189,0,172
+1643302723133,3833,Login-page,200,OK,CDI-J&J 1-210,text,true,,38942,132,179,179,https://staging.jnjonc2022.com/login,3754,0,846
+1643302721420,5565,Login-page,200,OK,CDI-J&J 1-91,text,true,,38938,132,179,179,https://staging.jnjonc2022.com/login,5432,0,2486
+1643302726969,50,Home,502,Bad Gateway,CDI-J&J 1-210,text,false,,300,841,179,179,https://staging.jnjonc2022.com/login,46,0,0
+1643302726956,64,Home,502,Bad Gateway,CDI-J&J 1-312,text,false,,300,841,179,179,https://staging.jnjonc2022.com/login,64,0,0
+1643302724855,2165,Home,502,Bad Gateway,CDI-J&J 1-232,text,false,,1745,1509,179,179,https://staging.jnjonc2022.com,2101,0,0
+1643302724855,2101,Home-0,302,Found,CDI-J&J 1-232,text,true,,1445,845,179,179,https://staging.jnjonc2022.com/login,2101,0,0
+1643302726957,63,Home-1,502,Bad Gateway,CDI-J&J 1-232,text,false,,300,664,179,179,https://staging.jnjonc2022.com,62,0,0
+1643302726965,55,Home,502,Bad Gateway,CDI-J&J 1-423,text,false,,300,845,179,179,https://staging.jnjonc2022.com/login,55,0,0
+1643302723231,3789,Login-page,200,OK,CDI-J&J 1-212,text,true,,38940,132,179,179,https://staging.jnjonc2022.com/login,3488,0,714
+1643302725019,2003,Home,419,unknown status,CDI-J&J 1-436,text,false,,52218,265,176,176,https://staging.jnjonc2022.com/login,1929,0,0
+1643302721169,5852,Login-page,200,OK,CDI-J&J 1-66,text,true,,38929,132,176,176,https://staging.jnjonc2022.com/login,5808,0,2798
+1643302724900,2129,Login-page,200,OK,CDI-J&J 1-439,text,true,,38957,132,174,174,https://staging.jnjonc2022.com/login,2066,0,118
+1643302725037,1998,Home,419,unknown status,CDI-J&J 1-382,text,false,,52228,265,174,174,https://staging.jnjonc2022.com/login,1895,0,0
+1643302723343,3693,Login-page,200,OK,CDI-J&J 1-249,text,true,,38959,132,174,174,https://staging.jnjonc2022.com/login,3533,0,598
+1643302724950,2090,Login-page,200,OK,CDI-J&J 1-444,text,true,,38940,132,173,173,https://staging.jnjonc2022.com/login,2078,0,139
+1643302721500,5544,Login-page,200,OK,CDI-J&J 1-99,text,true,,38939,132,173,173,https://staging.jnjonc2022.com/login,5527,0,2492
+1643302727021,36,Home,502,Bad Gateway,CDI-J&J 1-212,text,false,,300,839,173,173,https://staging.jnjonc2022.com/login,36,0,0
+1643302727041,27,Home,502,Bad Gateway,CDI-J&J 1-444,text,false,,300,841,172,172,https://staging.jnjonc2022.com/login,27,0,0
+1643302727031,37,Home,502,Bad Gateway,CDI-J&J 1-439,text,false,,300,845,172,172,https://staging.jnjonc2022.com/login,37,0,0
+1643302727038,39,Home,502,Bad Gateway,CDI-J&J 1-249,text,false,,300,847,170,170,https://staging.jnjonc2022.com/login,39,0,0
+1643302727045,32,Home,502,Bad Gateway,CDI-J&J 1-99,text,false,,300,839,170,170,https://staging.jnjonc2022.com/login,32,0,0
+1643302723961,3124,Login-page,200,OK,CDI-J&J 1-345,text,true,,38940,132,168,168,https://staging.jnjonc2022.com/login,3007,0,223
+1643302724111,2979,Login-page,200,OK,CDI-J&J 1-360,text,true,,38944,132,168,168,https://staging.jnjonc2022.com/login,2923,0,1002
+1643302723101,3992,Login-page,200,OK,CDI-J&J 1-205,text,true,,38931,132,168,168,https://staging.jnjonc2022.com/login,3857,0,878
+1643302720682,6422,Login-page,200,OK,CDI-J&J 1-14,text,true,,38932,132,168,168,https://staging.jnjonc2022.com/login,6323,0,3259
+1643302721409,5718,Login-page,200,OK,CDI-J&J 1-90,text,true,,38972,132,168,168,https://staging.jnjonc2022.com/login,5568,0,2518
+1643302724429,2701,Login-page,502,Bad Gateway,CDI-J&J 1-392,text,false,,300,132,168,168,https://staging.jnjonc2022.com/login,2701,0,2676
+1643302727129,41,Home,502,Bad Gateway,CDI-J&J 1-90,text,false,,300,851,168,168,https://staging.jnjonc2022.com/login,41,0,0
+1643302727130,41,Home,502,Bad Gateway,CDI-J&J 1-392,text,false,,300,265,167,167,https://staging.jnjonc2022.com/login,41,0,0
+1643302721090,6080,Login-page,200,OK,CDI-J&J 1-58,text,true,,38947,132,168,168,https://staging.jnjonc2022.com/login,6005,0,2851
+1643302725133,2038,Home,419,unknown status,CDI-J&J 1-404,text,false,,52214,265,167,167,https://staging.jnjonc2022.com/login,1947,0,0
+1643302721630,5542,Login-page,200,OK,CDI-J&J 1-112,text,true,,38970,132,165,165,https://staging.jnjonc2022.com/login,5480,0,2453
+1643302727173,45,Home,502,Bad Gateway,CDI-J&J 1-112,text,false,,300,849,165,165,https://staging.jnjonc2022.com/login,45,0,0
+1643302727171,47,Home,502,Bad Gateway,CDI-J&J 1-58,text,false,,300,841,165,165,https://staging.jnjonc2022.com/login,47,0,0
+1643302724970,2251,Login-page,200,OK,CDI-J&J 1-446,text,true,,38937,132,163,163,https://staging.jnjonc2022.com/login,2201,0,171
+1643302727222,46,Home,502,Bad Gateway,CDI-J&J 1-446,text,false,,300,839,163,163,https://staging.jnjonc2022.com/login,46,0,0
+1643302721919,5410,Login-page,200,OK,CDI-J&J 1-141,text,true,,38953,132,162,162,https://staging.jnjonc2022.com/login,4092,0,1983
+1643302724254,3092,Home,419,unknown status,CDI-J&J 1-277,text,false,,52235,265,162,162,https://staging.jnjonc2022.com/login,3038,0,0
+1643302724459,2889,Login-page,200,OK,CDI-J&J 1-395,text,true,,38939,132,161,161,https://staging.jnjonc2022.com/login,2840,0,811
+1643302725030,2326,Login-page,200,OK,CDI-J&J 1-452,text,true,,38945,132,161,161,https://staging.jnjonc2022.com/login,2273,0,236
+1643302725267,2090,Home,419,unknown status,CDI-J&J 1-449,text,false,,52243,265,161,161,https://staging.jnjonc2022.com/login,2033,0,0
+1643302723702,3700,Login-page,200,OK,CDI-J&J 1-314,text,true,,38931,132,160,160,https://staging.jnjonc2022.com/login,3570,0,287
+1643302725050,2439,Login-page,200,OK,CDI-J&J 1-454,text,true,,38952,132,160,160,https://staging.jnjonc2022.com/login,2407,0,303
+1643302724859,2630,Login-page,200,OK,CDI-J&J 1-435,text,true,,38954,132,160,160,https://staging.jnjonc2022.com/login,2596,0,414
+1643302723200,4435,Login-page,200,OK,CDI-J&J 1-242,text,true,,38970,132,160,160,https://staging.jnjonc2022.com/login,1294,0,742
+1643302725090,2601,Login-page,200,OK,CDI-J&J 1-458,text,true,,38934,132,160,160,https://staging.jnjonc2022.com/login,2557,0,301
+1643302725009,2714,Login-page,200,OK,CDI-J&J 1-450,text,true,,38926,132,160,160,https://staging.jnjonc2022.com/login,2683,0,400
+1643302723432,4292,Login-page,200,OK,CDI-J&J 1-291,text,true,,38953,132,160,160,https://staging.jnjonc2022.com/login,1044,0,510
+1643302725121,2630,Login-page,200,OK,CDI-J&J 1-461,text,true,,38950,132,160,160,https://staging.jnjonc2022.com/login,2605,0,304
+1643302725325,2442,Home,502,Bad Gateway,CDI-J&J 1-296,text,false,,1749,1521,160,160,https://staging.jnjonc2022.com,2415,0,0
+1643302725325,2415,Home-0,302,Found,CDI-J&J 1-296,text,true,,1449,853,160,160,https://staging.jnjonc2022.com/login,2415,0,0
+1643302727740,27,Home-1,502,Bad Gateway,CDI-J&J 1-296,text,false,,300,668,160,160,https://staging.jnjonc2022.com,27,0,0
+1643302725099,2688,Login-page,200,OK,CDI-J&J 1-459,text,true,,38930,132,159,159,https://staging.jnjonc2022.com/login,2657,0,301
+1643302727753,36,Home,502,Bad Gateway,CDI-J&J 1-461,text,false,,300,843,159,159,https://staging.jnjonc2022.com/login,36,0,0
+1643302725368,2433,Home,502,Bad Gateway,CDI-J&J 1-181,text,false,,1743,1507,158,158,https://staging.jnjonc2022.com,2406,0,0
+1643302725368,2406,Home-0,302,Found,CDI-J&J 1-181,text,true,,1443,845,158,158,https://staging.jnjonc2022.com/login,2406,0,0
+1643302727774,27,Home-1,502,Bad Gateway,CDI-J&J 1-181,text,false,,300,662,158,158,https://staging.jnjonc2022.com,27,0,0
+1643302727788,26,Home,502,Bad Gateway,CDI-J&J 1-459,text,false,,300,837,157,157,https://staging.jnjonc2022.com/login,26,0,0
+1643302725150,2686,Login-page,200,OK,CDI-J&J 1-464,text,true,,38949,132,156,156,https://staging.jnjonc2022.com/login,2657,0,294
+1643302725512,2424,Home,419,unknown status,CDI-J&J 1-474,text,false,,52227,265,156,156,https://staging.jnjonc2022.com/login,2353,0,0
+1643302725500,2440,Home,419,unknown status,CDI-J&J 1-466,text,false,,52225,265,155,155,https://staging.jnjonc2022.com/login,2370,0,0
+1643302725512,2448,Home,419,unknown status,CDI-J&J 1-472,text,false,,52218,265,154,154,https://staging.jnjonc2022.com/login,2393,0,0
+1643302725560,2444,Home,419,unknown status,CDI-J&J 1-477,text,false,,52221,265,153,153,https://staging.jnjonc2022.com/login,2381,0,0
+1643302725581,2445,Home,419,unknown status,CDI-J&J 1-483,text,false,,52231,265,152,152,https://staging.jnjonc2022.com/login,2385,0,0
+1643302725449,2605,Login-page,200,OK,CDI-J&J 1-494,text,true,,38940,132,151,151,https://staging.jnjonc2022.com/login,2580,0,170
+1643302724769,3373,Login-page,200,OK,CDI-J&J 1-426,text,true,,38934,132,151,151,https://staging.jnjonc2022.com/login,3345,0,834
+1643302725480,2662,Login-page,200,OK,CDI-J&J 1-497,text,true,,38940,132,151,151,https://staging.jnjonc2022.com/login,2633,0,182
+1643302724839,3402,Login-page,200,OK,CDI-J&J 1-433,text,true,,38924,132,151,151,https://staging.jnjonc2022.com/login,3376,0,118
+1643302724300,3954,Login-page,200,OK,CDI-J&J 1-379,text,true,,38932,132,151,151,https://staging.jnjonc2022.com/login,3904,0,1442
+1643302724350,3953,Login-page,200,OK,CDI-J&J 1-384,text,true,,38956,132,151,151,https://staging.jnjonc2022.com/login,3922,0,1446
+1643302725653,2653,Home,419,unknown status,CDI-J&J 1-492,text,false,,52221,265,151,151,https://staging.jnjonc2022.com/login,2581,0,0
+1643302724322,3992,Login-page,200,OK,CDI-J&J 1-381,text,true,,38926,132,150,150,https://staging.jnjonc2022.com/login,3936,0,1423
+1643302725409,2934,Login-page,200,OK,CDI-J&J 1-490,text,true,,38954,132,150,150,https://staging.jnjonc2022.com/login,2908,0,422
+1643302724610,3784,Login-page,200,OK,CDI-J&J 1-410,text,true,,38943,132,150,150,https://staging.jnjonc2022.com/login,3754,0,264
+1643302724134,4280,Login-page,200,OK,CDI-J&J 1-362,text,true,,38933,132,150,150,https://staging.jnjonc2022.com/login,4214,0,1696
+1643302724271,4183,Login-page,200,OK,CDI-J&J 1-376,text,true,,38951,132,150,150,https://staging.jnjonc2022.com/login,4129,0,1559
+1643302725506,3061,Login-page,200,OK,CDI-J&J 1-499,text,true,,38955,132,150,150,https://staging.jnjonc2022.com/login,3030,0,435
+1643302724493,4077,Login-page,200,OK,CDI-J&J 1-398,text,true,,38966,132,150,150,https://staging.jnjonc2022.com/login,4048,0,1401
+1643302724920,3717,Login-page,200,OK,CDI-J&J 1-441,text,true,,38948,132,150,150,https://staging.jnjonc2022.com/login,3680,0,107
+1643302725631,3016,Home,419,unknown status,CDI-J&J 1-489,text,false,,52219,265,150,150,https://staging.jnjonc2022.com/login,2950,0,0
+1643302725658,2992,Home,419,unknown status,CDI-J&J 1-406,text,false,,52224,265,149,149,https://staging.jnjonc2022.com/login,2893,0,0
+1643302724520,4169,Login-page,200,OK,CDI-J&J 1-401,text,true,,38943,132,148,148,https://staging.jnjonc2022.com/login,4132,0,429
+1643302725965,2792,Home,419,unknown status,CDI-J&J 1-432,text,false,,52221,265,148,148,https://staging.jnjonc2022.com/login,2711,0,0
+1643302726026,2750,Home,419,unknown status,CDI-J&J 1-496,text,false,,52231,265,147,147,https://staging.jnjonc2022.com/login,2693,0,0
+1643302725980,2872,Home,419,unknown status,CDI-J&J 1-440,text,false,,52235,265,146,146,https://staging.jnjonc2022.com/login,2792,0,0
+1643302724084,4785,Login-page,200,OK,CDI-J&J 1-356,text,true,,38967,132,145,145,https://staging.jnjonc2022.com/login,4734,0,2061
+1643302725161,3726,Login-page,200,OK,CDI-J&J 1-465,text,true,,38939,132,145,145,https://staging.jnjonc2022.com/login,3674,0,1004
+1643302724979,3924,Login-page,200,OK,CDI-J&J 1-447,text,true,,38938,132,145,145,https://staging.jnjonc2022.com/login,3894,0,174
+1643302725440,3565,Login-page,200,OK,CDI-J&J 1-493,text,true,,38962,132,145,145,https://staging.jnjonc2022.com/login,3508,0,934
+1643302726335,2776,Home,419,unknown status,CDI-J&J 1-429,text,false,,52225,265,145,145,https://staging.jnjonc2022.com/login,2707,0,0
+1643302725321,3804,Login-page,200,OK,CDI-J&J 1-481,text,true,,38935,132,144,144,https://staging.jnjonc2022.com/login,3747,0,1013
+1643302724751,4666,Login-page,200,OK,CDI-J&J 1-424,text,true,,38960,132,144,144,https://staging.jnjonc2022.com/login,4616,0,688
+1643302724459,4957,Home,200,OK,CDI-J&J 1-113,text,true,,89760,1521,144,144,https://staging.jnjonc2022.com,1973,0,0
+1643302724459,1973,Home-0,302,Found,CDI-J&J 1-113,text,true,,1453,849,144,144,https://staging.jnjonc2022.com/login,1973,0,0
+1643302726435,2981,Home-1,200,OK,CDI-J&J 1-113,text,true,,88307,672,144,144,https://staging.jnjonc2022.com,2856,0,0
+1643302725081,4357,Login-page,200,OK,CDI-J&J 1-457,text,true,,38942,132,143,143,https://staging.jnjonc2022.com/login,4326,0,1416
+1643302724469,5002,Home,200,OK,CDI-J&J 1-238,text,true,,89748,1517,143,143,https://staging.jnjonc2022.com,1963,0,0
+1643302724469,1963,Home-0,302,Found,CDI-J&J 1-238,text,true,,1455,843,143,143,https://staging.jnjonc2022.com/login,1963,0,0
+1643302726433,3038,Home-1,200,OK,CDI-J&J 1-238,text,true,,88293,674,143,143,https://staging.jnjonc2022.com,2871,0,0
+1643302725071,4404,Login-page,200,OK,CDI-J&J 1-456,text,true,,38938,132,142,142,https://staging.jnjonc2022.com/login,4375,0,283
+1643302724710,4806,Login-page,200,OK,CDI-J&J 1-420,text,true,,38938,132,142,142,https://staging.jnjonc2022.com/login,4716,0,1725
+1643302725371,4164,Login-page,200,OK,CDI-J&J 1-486,text,true,,38937,132,142,142,https://staging.jnjonc2022.com/login,4132,0,1370
+1643302725130,4415,Login-page,200,OK,CDI-J&J 1-462,text,true,,38961,132,142,142,https://staging.jnjonc2022.com/login,4388,0,1419
+1643302724732,4903,Login-page,200,OK,CDI-J&J 1-422,text,true,,38950,132,142,142,https://staging.jnjonc2022.com/login,4811,0,1772
+1643302724879,4861,Login-page,200,OK,CDI-J&J 1-437,text,true,,38945,132,142,142,https://staging.jnjonc2022.com/login,4709,0,1862
+1643302725499,4263,Home,419,unknown status,CDI-J&J 1-469,text,false,,52232,265,142,142,https://staging.jnjonc2022.com/login,4177,0,0
+1643302725350,4418,Login-page,200,OK,CDI-J&J 1-484,text,true,,38951,132,141,141,https://staging.jnjonc2022.com/login,4389,0,1391
+1643302724660,5130,Login-page,200,OK,CDI-J&J 1-415,text,true,,38961,132,141,141,https://staging.jnjonc2022.com/login,5077,0,932
+1643302726767,3057,Home,419,unknown status,CDI-J&J 1-476,text,false,,52227,265,141,141,https://staging.jnjonc2022.com/login,2981,0,0
+1643302726788,3042,Home,419,unknown status,CDI-J&J 1-427,text,false,,52221,265,140,140,https://staging.jnjonc2022.com/login,2970,0,0
+1643302724440,5471,Login-page,200,OK,CDI-J&J 1-393,text,true,,38953,132,139,139,https://staging.jnjonc2022.com/login,5394,0,2500
+1643302726902,3038,Home,419,unknown status,CDI-J&J 1-468,text,false,,52211,265,139,139,https://staging.jnjonc2022.com/login,2948,0,0
+1643302724660,5405,Home,200,OK,CDI-J&J 1-110,text,true,,89718,1511,138,138,https://staging.jnjonc2022.com,2275,0,0
+1643302724660,2275,Home-0,302,Found,CDI-J&J 1-110,text,true,,1451,841,138,138,https://staging.jnjonc2022.com/login,2275,0,0
+1643302726936,3129,Home-1,200,OK,CDI-J&J 1-110,text,true,,88267,670,138,138,https://staging.jnjonc2022.com,3006,0,0
+1643302724829,5237,Home,200,OK,CDI-J&J 1-85,text,true,,89740,1507,138,138,https://staging.jnjonc2022.com,2125,0,0
+1643302724829,2125,Home-0,302,Found,CDI-J&J 1-85,text,true,,1449,839,138,138,https://staging.jnjonc2022.com/login,2125,0,0
+1643302726955,3111,Home-1,200,OK,CDI-J&J 1-85,text,true,,88291,668,138,138,https://staging.jnjonc2022.com,2982,0,0
+1643302724959,5230,Login-page,200,OK,CDI-J&J 1-445,text,true,,38951,132,136,136,https://staging.jnjonc2022.com/login,5176,0,2351
+1643302724873,5363,Home,200,OK,CDI-J&J 1-67,text,true,,89725,1505,136,136,https://staging.jnjonc2022.com,2222,0,0
+1643302724873,2222,Home-0,302,Found,CDI-J&J 1-67,text,true,,1445,841,136,136,https://staging.jnjonc2022.com/login,2222,0,0
+1643302727096,3140,Home-1,200,OK,CDI-J&J 1-67,text,true,,88280,664,136,136,https://staging.jnjonc2022.com,2971,0,0
+1643302724955,5331,Home,200,OK,CDI-J&J 1-94,text,true,,89694,1503,135,135,https://staging.jnjonc2022.com,2066,0,0
+1643302724955,2066,Home-0,302,Found,CDI-J&J 1-94,text,true,,1447,837,135,135,https://staging.jnjonc2022.com/login,2066,0,0
+1643302727022,3264,Home-1,200,OK,CDI-J&J 1-94,text,true,,88247,666,135,135,https://staging.jnjonc2022.com,3146,0,0
+1643302724993,5326,Home,200,OK,CDI-J&J 1-81,text,true,,89720,1515,134,134,https://staging.jnjonc2022.com,2353,0,0
+1643302724993,2353,Home-0,302,Found,CDI-J&J 1-81,text,true,,1451,845,134,134,https://staging.jnjonc2022.com/login,2353,0,0
+1643302727347,2972,Home-1,200,OK,CDI-J&J 1-81,text,true,,88269,670,134,134,https://staging.jnjonc2022.com,2810,0,0
+1643302725022,5302,Home,200,OK,CDI-J&J 1-213,text,true,,89695,1505,133,133,https://staging.jnjonc2022.com,2291,0,0
+1643302725022,2291,Home-0,302,Found,CDI-J&J 1-213,text,true,,1445,841,133,133,https://staging.jnjonc2022.com/login,2291,0,0
+1643302727314,3010,Home-1,200,OK,CDI-J&J 1-213,text,true,,88250,664,133,133,https://staging.jnjonc2022.com,2900,0,0
+1643302725106,5247,Home,200,OK,CDI-J&J 1-23,text,true,,89714,1505,132,132,https://staging.jnjonc2022.com,2250,0,0
+1643302725106,2251,Home-0,302,Found,CDI-J&J 1-23,text,true,,1445,841,132,132,https://staging.jnjonc2022.com/login,2250,0,0
+1643302727357,2996,Home-1,200,OK,CDI-J&J 1-23,text,true,,88269,664,132,132,https://staging.jnjonc2022.com,2889,0,0
+1643302725108,5410,Home,200,OK,CDI-J&J 1-117,text,true,,89702,1511,131,131,https://staging.jnjonc2022.com,2314,0,0
+1643302725108,2314,Home-0,302,Found,CDI-J&J 1-117,text,true,,1443,849,131,131,https://staging.jnjonc2022.com/login,2314,0,0
+1643302727423,3095,Home-1,200,OK,CDI-J&J 1-117,text,true,,88259,662,131,131,https://staging.jnjonc2022.com,2968,0,0
+1643302725136,5432,Home,200,OK,CDI-J&J 1-253,text,true,,89719,1505,130,130,https://staging.jnjonc2022.com,2337,0,0
+1643302725136,2337,Home-0,302,Found,CDI-J&J 1-253,text,true,,1445,841,130,130,https://staging.jnjonc2022.com/login,2337,0,0
+1643302727473,3095,Home-1,200,OK,CDI-J&J 1-253,text,true,,88274,664,130,130,https://staging.jnjonc2022.com,2948,0,0
+1643302725172,5451,Home,200,OK,CDI-J&J 1-176,text,true,,89733,1511,129,129,https://staging.jnjonc2022.com,2377,0,0
+1643302725172,2377,Home-0,302,Found,CDI-J&J 1-176,text,true,,1445,847,129,129,https://staging.jnjonc2022.com/login,2377,0,0
+1643302727550,3073,Home-1,200,OK,CDI-J&J 1-176,text,true,,88288,664,129,129,https://staging.jnjonc2022.com,2923,0,0
+1643302725005,5631,Home,200,OK,CDI-J&J 1-267,text,true,,89680,1501,128,128,https://staging.jnjonc2022.com,2442,0,0
+1643302725005,2442,Home-0,302,Found,CDI-J&J 1-267,text,true,,1443,839,128,128,https://staging.jnjonc2022.com/login,2442,0,0
+1643302727448,3188,Home-1,200,OK,CDI-J&J 1-267,text,true,,88237,662,128,128,https://staging.jnjonc2022.com,2954,0,0
+1643302725149,5519,Home,200,OK,CDI-J&J 1-13,text,true,,89661,1505,127,127,https://staging.jnjonc2022.com,2330,0,0
+1643302725149,2330,Home-0,302,Found,CDI-J&J 1-13,text,true,,1445,841,127,127,https://staging.jnjonc2022.com/login,2330,0,0
+1643302727479,3189,Home-1,200,OK,CDI-J&J 1-13,text,true,,88216,664,127,127,https://staging.jnjonc2022.com,3042,0,0
+1643302725142,5553,Home,200,OK,CDI-J&J 1-214,text,true,,89686,1511,126,126,https://staging.jnjonc2022.com,2330,0,0
+1643302725142,2330,Home-0,302,Found,CDI-J&J 1-214,text,true,,1443,849,126,126,https://staging.jnjonc2022.com/login,2330,0,0
+1643302727473,3222,Home-1,200,OK,CDI-J&J 1-214,text,true,,88243,662,126,126,https://staging.jnjonc2022.com,3000,0,0
+1643302725263,5440,Home,200,OK,CDI-J&J 1-207,text,true,,89731,1511,125,125,https://staging.jnjonc2022.com,2182,0,0
+1643302725263,2182,Home-0,302,Found,CDI-J&J 1-207,text,true,,1449,843,125,125,https://staging.jnjonc2022.com/login,2182,0,0
+1643302727446,3257,Home-1,200,OK,CDI-J&J 1-207,text,true,,88282,668,125,125,https://staging.jnjonc2022.com,3055,0,0
+1643302725271,5457,Home,200,OK,CDI-J&J 1-16,text,true,,89669,1505,124,124,https://staging.jnjonc2022.com,2340,0,0
+1643302725271,2340,Home-0,302,Found,CDI-J&J 1-16,text,true,,1443,843,124,124,https://staging.jnjonc2022.com/login,2340,0,0
+1643302727611,3117,Home-1,200,OK,CDI-J&J 1-16,text,true,,88226,662,124,124,https://staging.jnjonc2022.com,2964,0,0
+1643302725204,5551,Home,200,OK,CDI-J&J 1-109,text,true,,89679,1503,123,123,https://staging.jnjonc2022.com,2356,0,0
+1643302725204,2356,Home-0,302,Found,CDI-J&J 1-109,text,true,,1445,839,123,123,https://staging.jnjonc2022.com/login,2356,0,0
+1643302727560,3195,Home-1,200,OK,CDI-J&J 1-109,text,true,,88234,664,123,123,https://staging.jnjonc2022.com,3061,0,0
+1643302725241,5529,Login-page,200,OK,CDI-J&J 1-473,text,true,,38943,132,122,122,https://staging.jnjonc2022.com/login,5461,0,1052
+1643302725116,5718,Home,200,OK,CDI-J&J 1-57,text,true,,89707,1509,122,122,https://staging.jnjonc2022.com,2358,0,0
+1643302725116,2358,Home-0,302,Found,CDI-J&J 1-57,text,true,,1449,841,122,122,https://staging.jnjonc2022.com/login,2358,0,0
+1643302727474,3360,Home-1,200,OK,CDI-J&J 1-57,text,true,,88258,668,122,122,https://staging.jnjonc2022.com,3046,0,0
+1643302725306,5537,Home,200,OK,CDI-J&J 1-52,text,true,,89712,1517,121,121,https://staging.jnjonc2022.com,2355,0,0
+1643302725306,2355,Home-0,302,Found,CDI-J&J 1-52,text,true,,1451,847,121,121,https://staging.jnjonc2022.com/login,2355,0,0
+1643302727661,3182,Home-1,200,OK,CDI-J&J 1-52,text,true,,88261,670,121,121,https://staging.jnjonc2022.com,3049,0,0
+1643302724624,6233,Home,200,OK,CDI-J&J 1-182,text,true,,89719,1507,120,120,https://staging.jnjonc2022.com,3272,0,0
+1643302724624,3272,Home-0,302,Found,CDI-J&J 1-182,text,true,,1443,845,120,120,https://staging.jnjonc2022.com/login,3272,0,0
+1643302727897,2960,Home-1,200,OK,CDI-J&J 1-182,text,true,,88276,662,120,120,https://staging.jnjonc2022.com,2838,0,0
+1643302725397,5542,Home,200,OK,CDI-J&J 1-245,text,true,,89719,1507,119,119,https://staging.jnjonc2022.com,2607,0,0
+1643302725397,2607,Home-0,302,Found,CDI-J&J 1-245,text,true,,1449,839,119,119,https://staging.jnjonc2022.com/login,2607,0,0
+1643302728005,2934,Home-1,200,OK,CDI-J&J 1-245,text,true,,88270,668,119,119,https://staging.jnjonc2022.com,2821,0,0
+1643302725383,5609,Home,200,OK,CDI-J&J 1-266,text,true,,89675,1505,118,118,https://staging.jnjonc2022.com,2593,0,0
+1643302725383,2593,Home-0,302,Found,CDI-J&J 1-266,text,true,,1447,839,118,118,https://staging.jnjonc2022.com/login,2593,0,0
+1643302727976,3016,Home-1,200,OK,CDI-J&J 1-266,text,true,,88228,666,118,118,https://staging.jnjonc2022.com,2865,0,0
+1643302725378,5630,Home,200,OK,CDI-J&J 1-293,text,true,,89713,1511,117,117,https://staging.jnjonc2022.com,2594,0,0
+1643302725378,2594,Home-0,302,Found,CDI-J&J 1-293,text,true,,1445,847,117,117,https://staging.jnjonc2022.com/login,2594,0,0
+1643302727972,3036,Home-1,200,OK,CDI-J&J 1-293,text,true,,88268,664,117,117,https://staging.jnjonc2022.com,2871,0,0
+1643302725385,5673,Home,200,OK,CDI-J&J 1-74,text,true,,89735,1501,116,116,https://staging.jnjonc2022.com,2588,0,0
+1643302725385,2588,Home-0,302,Found,CDI-J&J 1-74,text,true,,1443,839,116,116,https://staging.jnjonc2022.com/login,2588,0,0
+1643302727973,3085,Home-1,200,OK,CDI-J&J 1-74,text,true,,88292,662,116,116,https://staging.jnjonc2022.com,2953,0,0
+1643302725412,5681,Home,200,OK,CDI-J&J 1-43,text,true,,89714,1509,115,115,https://staging.jnjonc2022.com,2689,0,0
+1643302725412,2689,Home-0,302,Found,CDI-J&J 1-43,text,true,,1445,845,115,115,https://staging.jnjonc2022.com/login,2689,0,0
+1643302728102,2991,Home-1,200,OK,CDI-J&J 1-43,text,true,,88269,664,115,115,https://staging.jnjonc2022.com,2854,0,0
+1643302725390,5732,Home,200,OK,CDI-J&J 1-136,text,true,,89712,1521,114,114,https://staging.jnjonc2022.com,2707,0,0
+1643302725390,2707,Home-0,302,Found,CDI-J&J 1-136,text,true,,1453,849,114,114,https://staging.jnjonc2022.com/login,2707,0,0
+1643302728098,3024,Home-1,200,OK,CDI-J&J 1-136,text,true,,88259,672,114,114,https://staging.jnjonc2022.com,2845,0,0
+1643302725441,5717,Home,200,OK,CDI-J&J 1-159,text,true,,89755,1515,113,113,https://staging.jnjonc2022.com,2818,0,0
+1643302725441,2818,Home-0,302,Found,CDI-J&J 1-159,text,true,,1453,843,113,113,https://staging.jnjonc2022.com/login,2818,0,0
+1643302728260,2898,Home-1,200,OK,CDI-J&J 1-159,text,true,,88302,672,113,113,https://staging.jnjonc2022.com,2763,0,0
+1643302725433,5730,Home,200,OK,CDI-J&J 1-151,text,true,,89717,1501,112,112,https://staging.jnjonc2022.com,2908,0,0
+1643302725433,2908,Home-0,302,Found,CDI-J&J 1-151,text,true,,1443,839,112,112,https://staging.jnjonc2022.com/login,2908,0,0
+1643302728341,2822,Home-1,200,OK,CDI-J&J 1-151,text,true,,88274,662,112,112,https://staging.jnjonc2022.com,2673,0,0
+1643302724192,6999,Login-page,200,OK,CDI-J&J 1-368,text,true,,38975,132,111,111,https://staging.jnjonc2022.com/login,6944,0,4330
+1643302725459,5959,Home,200,OK,CDI-J&J 1-139,text,true,,89723,1505,111,111,https://staging.jnjonc2022.com,2895,0,0
+1643302725459,2895,Home-0,302,Found,CDI-J&J 1-139,text,true,,1447,839,111,111,https://staging.jnjonc2022.com/login,2895,0,0
+1643302728354,3064,Home-1,200,OK,CDI-J&J 1-139,text,true,,88276,666,111,111,https://staging.jnjonc2022.com,2780,0,0
+1643302725773,5705,Home,200,OK,CDI-J&J 1-263,text,true,,89741,1513,110,110,https://staging.jnjonc2022.com,2740,0,0
+1643302725773,2740,Home-0,302,Found,CDI-J&J 1-263,text,true,,1451,843,110,110,https://staging.jnjonc2022.com/login,2740,0,0
+1643302728514,2964,Home-1,200,OK,CDI-J&J 1-263,text,true,,88290,670,110,110,https://staging.jnjonc2022.com,2741,0,0
+1643302726802,4918,Home,419,unknown status,CDI-J&J 1-479,text,false,,52224,265,109,109,https://staging.jnjonc2022.com/login,4784,0,0
+1643302725675,6066,Home,200,OK,CDI-J&J 1-243,text,true,,89704,1511,108,108,https://staging.jnjonc2022.com,2826,0,0
+1643302725675,2826,Home-0,302,Found,CDI-J&J 1-243,text,true,,1445,847,108,108,https://staging.jnjonc2022.com/login,2826,0,0
+1643302728502,3239,Home-1,200,OK,CDI-J&J 1-243,text,true,,88259,664,108,108,https://staging.jnjonc2022.com,2804,0,0
+1643302725502,6242,Home,200,OK,CDI-J&J 1-86,text,true,,89717,1507,107,107,https://staging.jnjonc2022.com,3053,0,0
+1643302725502,3053,Home-0,302,Found,CDI-J&J 1-86,text,true,,1447,841,107,107,https://staging.jnjonc2022.com/login,3053,0,0
+1643302728555,3189,Home-1,200,OK,CDI-J&J 1-86,text,true,,88270,666,107,107,https://staging.jnjonc2022.com,2795,0,0
+1643302725792,6010,Home,200,OK,CDI-J&J 1-261,text,true,,89694,1509,106,106,https://staging.jnjonc2022.com,2889,0,0
+1643302725792,2889,Home-0,302,Found,CDI-J&J 1-261,text,true,,1443,847,106,106,https://staging.jnjonc2022.com/login,2889,0,0
+1643302728683,3119,Home-1,200,OK,CDI-J&J 1-261,text,true,,88251,662,106,106,https://staging.jnjonc2022.com,2832,0,0
+1643302725620,6195,Home,200,OK,CDI-J&J 1-82,text,true,,89732,1507,105,105,https://staging.jnjonc2022.com,3001,0,0
+1643302725620,3001,Home-0,302,Found,CDI-J&J 1-82,text,true,,1447,841,105,105,https://staging.jnjonc2022.com/login,3001,0,0
+1643302728622,3193,Home-1,200,OK,CDI-J&J 1-82,text,true,,88285,666,105,105,https://staging.jnjonc2022.com,2817,0,0
+1643302725659,6180,Home,200,OK,CDI-J&J 1-133,text,true,,89718,1507,104,104,https://staging.jnjonc2022.com,2937,0,0
+1643302725659,2937,Home-0,302,Found,CDI-J&J 1-133,text,true,,1445,843,104,104,https://staging.jnjonc2022.com/login,2937,0,0
+1643302728597,3242,Home-1,200,OK,CDI-J&J 1-133,text,true,,88273,664,104,104,https://staging.jnjonc2022.com,3110,0,0
+1643302725737,6103,Home,200,OK,CDI-J&J 1-187,text,true,,89689,1509,104,104,https://staging.jnjonc2022.com,2822,0,0
+1643302725737,2822,Home-0,302,Found,CDI-J&J 1-187,text,true,,1449,841,104,104,https://staging.jnjonc2022.com/login,2822,0,0
+1643302728559,3281,Home-1,200,OK,CDI-J&J 1-187,text,true,,88240,668,104,104,https://staging.jnjonc2022.com,3028,0,0
+1643302725838,6022,Home,200,OK,CDI-J&J 1-328,text,true,,89734,1501,102,102,https://staging.jnjonc2022.com,2927,0,0
+1643302725838,2927,Home-0,302,Found,CDI-J&J 1-328,text,true,,1445,837,102,102,https://staging.jnjonc2022.com/login,2927,0,0
+1643302728766,3094,Home-1,200,OK,CDI-J&J 1-328,text,true,,88289,664,102,102,https://staging.jnjonc2022.com,2954,0,0
+1643302725841,6052,Home,200,OK,CDI-J&J 1-21,text,true,,89700,1507,101,101,https://staging.jnjonc2022.com,3016,0,0
+1643302725841,3016,Home-0,302,Found,CDI-J&J 1-21,text,true,,1447,841,101,101,https://staging.jnjonc2022.com/login,3016,0,0
+1643302728857,3036,Home-1,200,OK,CDI-J&J 1-21,text,true,,88253,666,101,101,https://staging.jnjonc2022.com,2848,0,0
+1643302725817,6097,Home,200,OK,CDI-J&J 1-251,text,true,,89773,1509,100,100,https://staging.jnjonc2022.com,2966,0,0
+1643302725817,2967,Home-0,302,Found,CDI-J&J 1-251,text,true,,1447,843,100,100,https://staging.jnjonc2022.com/login,2966,0,0
+1643302728784,3130,Home-1,200,OK,CDI-J&J 1-251,text,true,,88326,666,100,100,https://staging.jnjonc2022.com,2944,0,0
+1643302725948,5986,Home,200,OK,CDI-J&J 1-339,text,true,,89726,1505,99,99,https://staging.jnjonc2022.com,3000,0,0
+1643302725948,3001,Home-0,302,Found,CDI-J&J 1-339,text,true,,1447,839,99,99,https://staging.jnjonc2022.com/login,3000,0,0
+1643302728949,2985,Home-1,200,OK,CDI-J&J 1-339,text,true,,88279,666,99,99,https://staging.jnjonc2022.com,2815,0,0
+1643302725833,6105,Home,200,OK,CDI-J&J 1-241,text,true,,89734,1507,98,98,https://staging.jnjonc2022.com,3052,0,0
+1643302725833,3052,Home-0,302,Found,CDI-J&J 1-241,text,true,,1449,839,98,98,https://staging.jnjonc2022.com/login,3052,0,0
+1643302728885,3053,Home-1,200,OK,CDI-J&J 1-241,text,true,,88285,668,98,98,https://staging.jnjonc2022.com,2799,0,0
+1643302725888,6058,Home,200,OK,CDI-J&J 1-157,text,true,,89721,1515,97,97,https://staging.jnjonc2022.com,2908,0,0
+1643302725888,2908,Home-0,302,Found,CDI-J&J 1-157,text,true,,1451,845,97,97,https://staging.jnjonc2022.com/login,2908,0,0
+1643302728797,3149,Home-1,200,OK,CDI-J&J 1-157,text,true,,88270,670,97,97,https://staging.jnjonc2022.com,2850,0,0
+1643302725749,6254,Home,200,OK,CDI-J&J 1-60,text,true,,89741,1511,96,96,https://staging.jnjonc2022.com,2834,0,0
+1643302725749,2834,Home-0,302,Found,CDI-J&J 1-60,text,true,,1451,841,96,96,https://staging.jnjonc2022.com/login,2834,0,0
+1643302728584,3419,Home-1,200,OK,CDI-J&J 1-60,text,true,,88290,670,96,96,https://staging.jnjonc2022.com,2845,0,0
+1643302725962,6048,Home,200,OK,CDI-J&J 1-344,text,true,,89691,1505,95,95,https://staging.jnjonc2022.com,3101,0,0
+1643302725962,3101,Home-0,302,Found,CDI-J&J 1-344,text,true,,1447,839,95,95,https://staging.jnjonc2022.com/login,3101,0,0
+1643302729063,2947,Home-1,200,OK,CDI-J&J 1-344,text,true,,88244,666,95,95,https://staging.jnjonc2022.com,2789,0,0
+1643302726277,5781,Home,200,OK,CDI-J&J 1-372,text,true,,89728,1507,94,94,https://staging.jnjonc2022.com,3044,0,0
+1643302726277,3044,Home-0,302,Found,CDI-J&J 1-372,text,true,,1447,841,94,94,https://staging.jnjonc2022.com/login,3044,0,0
+1643302729321,2737,Home-1,200,OK,CDI-J&J 1-372,text,true,,88281,666,94,94,https://staging.jnjonc2022.com,2598,0,0
+1643302725863,6205,Home,200,OK,CDI-J&J 1-324,text,true,,89649,1503,93,93,https://staging.jnjonc2022.com,2923,0,0
+1643302725863,2923,Home-0,302,Found,CDI-J&J 1-324,text,true,,1443,841,93,93,https://staging.jnjonc2022.com/login,2923,0,0
+1643302728786,3282,Home-1,200,OK,CDI-J&J 1-324,text,true,,88206,662,93,93,https://staging.jnjonc2022.com,3093,0,0
+1643302726079,6013,Home,200,OK,CDI-J&J 1-10,text,true,,89714,1509,92,92,https://staging.jnjonc2022.com,3139,0,0
+1643302726079,3139,Home-0,302,Found,CDI-J&J 1-10,text,true,,1447,843,92,92,https://staging.jnjonc2022.com/login,3139,0,0
+1643302729218,2874,Home-1,200,OK,CDI-J&J 1-10,text,true,,88267,666,92,92,https://staging.jnjonc2022.com,2605,0,0
+1643302726055,6044,Home,200,OK,CDI-J&J 1-154,text,true,,89697,1505,91,91,https://staging.jnjonc2022.com,3145,0,0
+1643302726055,3145,Home-0,302,Found,CDI-J&J 1-154,text,true,,1445,841,91,91,https://staging.jnjonc2022.com/login,3145,0,0
+1643302729201,2898,Home-1,200,OK,CDI-J&J 1-154,text,true,,88252,664,91,91,https://staging.jnjonc2022.com,2602,0,0
+1643302725872,6227,Home,200,OK,CDI-J&J 1-42,text,true,,89696,1505,91,91,https://staging.jnjonc2022.com,2994,0,0
+1643302725872,2994,Home-0,302,Found,CDI-J&J 1-42,text,true,,1443,843,91,91,https://staging.jnjonc2022.com/login,2994,0,0
+1643302728867,3232,Home-1,200,OK,CDI-J&J 1-42,text,true,,88253,662,91,91,https://staging.jnjonc2022.com,2897,0,0
+1643302726348,5768,Home,200,OK,CDI-J&J 1-318,text,true,,89691,1507,89,89,https://staging.jnjonc2022.com,2991,0,0
+1643302726348,2991,Home-0,302,Found,CDI-J&J 1-318,text,true,,1445,843,89,89,https://staging.jnjonc2022.com/login,2991,0,0
+1643302729339,2777,Home-1,200,OK,CDI-J&J 1-318,text,true,,88246,664,89,89,https://staging.jnjonc2022.com,2609,0,0
+1643302726354,5846,Home,200,OK,CDI-J&J 1-374,text,true,,89733,1519,88,88,https://staging.jnjonc2022.com,3081,0,0
+1643302726354,3081,Home-0,302,Found,CDI-J&J 1-374,text,true,,1451,849,88,88,https://staging.jnjonc2022.com/login,3081,0,0
+1643302729436,2764,Home-1,200,OK,CDI-J&J 1-374,text,true,,88282,670,88,88,https://staging.jnjonc2022.com,2645,0,0
+1643302725992,6251,Home,200,OK,CDI-J&J 1-26,text,true,,89719,1507,87,87,https://staging.jnjonc2022.com,3065,0,0
+1643302725992,3065,Home-0,302,Found,CDI-J&J 1-26,text,true,,1447,841,87,87,https://staging.jnjonc2022.com/login,3065,0,0
+1643302729058,3185,Home-1,200,OK,CDI-J&J 1-26,text,true,,88272,666,87,87,https://staging.jnjonc2022.com,2742,0,0
+1643302726165,6096,Home,200,OK,CDI-J&J 1-5,text,true,,89659,1505,86,86,https://staging.jnjonc2022.com,3071,0,0
+1643302726165,3071,Home-0,302,Found,CDI-J&J 1-5,text,true,,1445,841,86,86,https://staging.jnjonc2022.com/login,3071,0,0
+1643302729237,3024,Home-1,200,OK,CDI-J&J 1-5,text,true,,88214,664,86,86,https://staging.jnjonc2022.com,2693,0,0
+1643302726392,5952,Home,200,OK,CDI-J&J 1-180,text,true,,89714,1511,85,85,https://staging.jnjonc2022.com,3104,0,0
+1643302726392,3104,Home-0,302,Found,CDI-J&J 1-180,text,true,,1447,845,85,85,https://staging.jnjonc2022.com/login,3104,0,0
+1643302729496,2848,Home-1,200,OK,CDI-J&J 1-180,text,true,,88267,666,85,85,https://staging.jnjonc2022.com,2496,0,0
+1643302725976,6386,Home,200,OK,CDI-J&J 1-37,text,true,,89775,1513,84,84,https://staging.jnjonc2022.com,3162,0,0
+1643302725976,3162,Home-0,302,Found,CDI-J&J 1-37,text,true,,1453,841,84,84,https://staging.jnjonc2022.com/login,3162,0,0
+1643302729138,3224,Home-1,200,OK,CDI-J&J 1-37,text,true,,88322,672,84,84,https://staging.jnjonc2022.com,2712,0,0
+1643302726399,5972,Home,200,OK,CDI-J&J 1-315,text,true,,89686,1511,83,83,https://staging.jnjonc2022.com,3279,0,0
+1643302726399,3279,Home-0,302,Found,CDI-J&J 1-315,text,true,,1447,845,83,83,https://staging.jnjonc2022.com/login,3279,0,0
+1643302729679,2692,Home-1,200,OK,CDI-J&J 1-315,text,true,,88239,666,83,83,https://staging.jnjonc2022.com,2533,0,0
+1643302726125,6265,Home,200,OK,CDI-J&J 1-325,text,true,,89723,1511,82,82,https://staging.jnjonc2022.com,3187,0,0
+1643302726125,3187,Home-0,302,Found,CDI-J&J 1-325,text,true,,1445,847,82,82,https://staging.jnjonc2022.com/login,3187,0,0
+1643302729313,3077,Home-1,200,OK,CDI-J&J 1-325,text,true,,88278,664,82,82,https://staging.jnjonc2022.com,2733,0,0
+1643302726487,5927,Home,200,OK,CDI-J&J 1-375,text,true,,89661,1507,81,81,https://staging.jnjonc2022.com,3180,0,0
+1643302726487,3180,Home-0,302,Found,CDI-J&J 1-375,text,true,,1445,843,81,81,https://staging.jnjonc2022.com/login,3180,0,0
+1643302729668,2746,Home-1,200,OK,CDI-J&J 1-375,text,true,,88216,664,81,81,https://staging.jnjonc2022.com,2625,0,0
+1643302726282,6146,Home,200,OK,CDI-J&J 1-334,text,true,,89735,1517,80,80,https://staging.jnjonc2022.com,3096,0,0
+1643302726282,3096,Home-0,302,Found,CDI-J&J 1-334,text,true,,1451,847,80,80,https://staging.jnjonc2022.com/login,3096,0,0
+1643302729378,3050,Home-1,200,OK,CDI-J&J 1-334,text,true,,88284,670,80,80,https://staging.jnjonc2022.com,2707,0,0
+1643302726517,5974,Home,200,OK,CDI-J&J 1-397,text,true,,89707,1503,79,79,https://staging.jnjonc2022.com,3407,0,0
+1643302726517,3407,Home-0,302,Found,CDI-J&J 1-397,text,true,,1443,841,79,79,https://staging.jnjonc2022.com/login,3407,0,0
+1643302729924,2567,Home-1,200,OK,CDI-J&J 1-397,text,true,,88264,662,79,79,https://staging.jnjonc2022.com,2451,0,0
+1643302726095,6410,Home,200,OK,CDI-J&J 1-295,text,true,,89715,1507,78,78,https://staging.jnjonc2022.com,3039,0,0
+1643302726095,3040,Home-0,302,Found,CDI-J&J 1-295,text,true,,1449,839,78,78,https://staging.jnjonc2022.com/login,3039,0,0
+1643302729135,3370,Home-1,200,OK,CDI-J&J 1-295,text,true,,88266,668,78,78,https://staging.jnjonc2022.com,2811,0,0
+1643302726837,5737,Home,200,OK,CDI-J&J 1-430,text,true,,89715,1515,77,77,https://staging.jnjonc2022.com,3255,0,0
+1643302726837,3255,Home-0,302,Found,CDI-J&J 1-430,text,true,,1453,843,77,77,https://staging.jnjonc2022.com/login,3255,0,0
+1643302730092,2482,Home-1,200,OK,CDI-J&J 1-430,text,true,,88262,672,77,77,https://staging.jnjonc2022.com,2375,0,0
+1643302726832,5765,Home,200,OK,CDI-J&J 1-418,text,true,,89702,1503,76,76,https://staging.jnjonc2022.com,3250,0,0
+1643302726832,3250,Home-0,302,Found,CDI-J&J 1-418,text,true,,1443,841,76,76,https://staging.jnjonc2022.com/login,3250,0,0
+1643302730083,2514,Home-1,200,OK,CDI-J&J 1-418,text,true,,88259,662,76,76,https://staging.jnjonc2022.com,2381,0,0
+1643302726403,6248,Home,200,OK,CDI-J&J 1-298,text,true,,89730,1507,75,75,https://staging.jnjonc2022.com,3098,0,0
+1643302726403,3098,Home-0,302,Found,CDI-J&J 1-298,text,true,,1443,845,75,75,https://staging.jnjonc2022.com/login,3098,0,0
+1643302729502,3149,Home-1,200,OK,CDI-J&J 1-298,text,true,,88287,662,75,75,https://staging.jnjonc2022.com,2723,0,0
+1643302726604,6129,Home,200,OK,CDI-J&J 1-169,text,true,,89695,1507,74,74,https://staging.jnjonc2022.com,3166,0,0
+1643302726604,3166,Home-0,302,Found,CDI-J&J 1-169,text,true,,1447,841,74,74,https://staging.jnjonc2022.com/login,3166,0,0
+1643302729771,2962,Home-1,200,OK,CDI-J&J 1-169,text,true,,88248,666,74,74,https://staging.jnjonc2022.com,2535,0,0
+1643302725379,7384,Home,200,OK,CDI-J&J 1-215,text,true,,89719,1515,73,73,https://staging.jnjonc2022.com,2597,0,0
+1643302725379,2597,Home-0,302,Found,CDI-J&J 1-215,text,true,,1447,849,73,73,https://staging.jnjonc2022.com/login,2597,0,0
+1643302727976,4787,Home-1,200,OK,CDI-J&J 1-215,text,true,,88272,666,73,73,https://staging.jnjonc2022.com,4658,0,0
+1643302726360,6452,Home,200,OK,CDI-J&J 1-98,text,true,,89681,1507,72,72,https://staging.jnjonc2022.com,3061,0,0
+1643302726360,3061,Home-0,302,Found,CDI-J&J 1-98,text,true,,1449,839,72,72,https://staging.jnjonc2022.com/login,3061,0,0
+1643302729421,3391,Home-1,200,OK,CDI-J&J 1-98,text,true,,88232,668,72,72,https://staging.jnjonc2022.com,2699,0,0
+1643302727357,5507,Home,200,OK,CDI-J&J 1-452,text,true,,89736,1513,71,71,https://staging.jnjonc2022.com,3200,0,0
+1643302727357,3200,Home-0,302,Found,CDI-J&J 1-452,text,true,,1449,845,71,71,https://staging.jnjonc2022.com/login,3200,0,0
+1643302730557,2307,Home-1,200,OK,CDI-J&J 1-452,text,true,,88287,668,71,71,https://staging.jnjonc2022.com,2157,0,0
+1643302727490,5412,Home,200,OK,CDI-J&J 1-454,text,true,,89748,1515,70,70,https://staging.jnjonc2022.com,3408,0,0
+1643302727490,3408,Home-0,302,Found,CDI-J&J 1-454,text,true,,1451,845,70,70,https://staging.jnjonc2022.com/login,3408,0,0
+1643302730898,2004,Home-1,200,OK,CDI-J&J 1-454,text,true,,88297,670,70,70,https://staging.jnjonc2022.com,1872,0,0
+1643302727692,5213,Home,200,OK,CDI-J&J 1-458,text,true,,89737,1511,69,69,https://staging.jnjonc2022.com,3315,0,0
+1643302727692,3315,Home-0,302,Found,CDI-J&J 1-458,text,true,,1451,841,69,69,https://staging.jnjonc2022.com/login,3315,0,0
+1643302731008,1897,Home-1,200,OK,CDI-J&J 1-458,text,true,,88286,670,69,69,https://staging.jnjonc2022.com,1775,0,0
+1643302727349,5557,Home,200,OK,CDI-J&J 1-395,text,true,,89759,1511,69,69,https://staging.jnjonc2022.com,3328,0,0
+1643302727349,3328,Home-0,302,Found,CDI-J&J 1-395,text,true,,1451,841,69,69,https://staging.jnjonc2022.com/login,3328,0,0
+1643302730678,2228,Home-1,200,OK,CDI-J&J 1-395,text,true,,88308,670,69,69,https://staging.jnjonc2022.com,2064,0,0
+1643302726411,6580,Home,200,OK,CDI-J&J 1-38,text,true,,89639,1499,67,67,https://staging.jnjonc2022.com,3238,0,0
+1643302726411,3238,Home-0,302,Found,CDI-J&J 1-38,text,true,,1443,837,67,67,https://staging.jnjonc2022.com/login,3238,0,0
+1643302729650,3341,Home-1,200,OK,CDI-J&J 1-38,text,true,,88196,662,67,67,https://staging.jnjonc2022.com,2626,0,0
+1643302727837,5159,Home,200,OK,CDI-J&J 1-464,text,true,,89704,1509,66,66,https://staging.jnjonc2022.com,3159,0,0
+1643302727837,3159,Home-0,302,Found,CDI-J&J 1-464,text,true,,1445,845,66,66,https://staging.jnjonc2022.com/login,3159,0,0
+1643302730997,1999,Home-1,200,OK,CDI-J&J 1-464,text,true,,88259,664,66,66,https://staging.jnjonc2022.com,1865,0,0
+1643302728242,4844,Home,200,OK,CDI-J&J 1-433,text,true,,89689,1499,65,65,https://staging.jnjonc2022.com,2993,0,0
+1643302728242,2994,Home-0,302,Found,CDI-J&J 1-433,text,true,,1443,837,65,65,https://staging.jnjonc2022.com/login,2993,0,0
+1643302731236,1850,Home-1,200,OK,CDI-J&J 1-433,text,true,,88246,662,65,65,https://staging.jnjonc2022.com,1671,0,0
+1643302726731,6377,Home,200,OK,CDI-J&J 1-373,text,true,,89684,1505,64,64,https://staging.jnjonc2022.com,3247,0,0
+1643302726731,3247,Home-0,302,Found,CDI-J&J 1-373,text,true,,1447,839,64,64,https://staging.jnjonc2022.com/login,3247,0,0
+1643302729978,3130,Home-1,200,OK,CDI-J&J 1-373,text,true,,88237,666,64,64,https://staging.jnjonc2022.com,2539,0,0
+1643302726899,6232,Home,200,OK,CDI-J&J 1-396,text,true,,89718,1507,63,63,https://staging.jnjonc2022.com,3257,0,0
+1643302726899,3257,Home-0,302,Found,CDI-J&J 1-396,text,true,,1443,845,63,63,https://staging.jnjonc2022.com/login,3257,0,0
+1643302730157,2974,Home-1,200,OK,CDI-J&J 1-396,text,true,,88275,662,63,63,https://staging.jnjonc2022.com,2469,0,0
+1643302726570,6592,Home,200,OK,CDI-J&J 1-321,text,true,,89711,1505,62,62,https://staging.jnjonc2022.com,3427,0,0
+1643302726570,3428,Home-0,302,Found,CDI-J&J 1-321,text,true,,1445,841,62,62,https://staging.jnjonc2022.com/login,3427,0,0
+1643302729998,3164,Home-1,200,OK,CDI-J&J 1-321,text,true,,88266,664,62,62,https://staging.jnjonc2022.com,2545,0,0
+1643302726125,7052,Home,200,OK,CDI-J&J 1-301,text,true,,89750,1515,61,61,https://staging.jnjonc2022.com,3082,0,0
+1643302726125,3083,Home-0,302,Found,CDI-J&J 1-301,text,true,,1449,847,61,61,https://staging.jnjonc2022.com/login,3082,0,0
+1643302729208,3969,Home-1,200,OK,CDI-J&J 1-301,text,true,,88301,668,61,61,https://staging.jnjonc2022.com,2976,0,0
+1643302726527,6657,Home,200,OK,CDI-J&J 1-198,text,true,,89674,1505,60,60,https://staging.jnjonc2022.com,3398,0,0
+1643302726527,3398,Home-0,302,Found,CDI-J&J 1-198,text,true,,1443,843,60,60,https://staging.jnjonc2022.com/login,3398,0,0
+1643302729925,3259,Home-1,200,OK,CDI-J&J 1-198,text,true,,88231,662,60,60,https://staging.jnjonc2022.com,2564,0,0
+1643302726433,6864,Home,200,OK,CDI-J&J 1-116,text,true,,89675,1509,59,59,https://staging.jnjonc2022.com,3224,0,0
+1643302726433,3224,Home-0,302,Found,CDI-J&J 1-116,text,true,,1449,841,59,59,https://staging.jnjonc2022.com/login,3224,0,0
+1643302729657,3640,Home-1,200,OK,CDI-J&J 1-116,text,true,,88226,668,59,59,https://staging.jnjonc2022.com,2657,0,0
+1643302728638,4805,Home,200,OK,CDI-J&J 1-441,text,true,,89750,1507,58,58,https://staging.jnjonc2022.com,3080,0,0
+1643302728638,3080,Home-0,302,Found,CDI-J&J 1-441,text,true,,1445,843,58,58,https://staging.jnjonc2022.com/login,3080,0,0
+1643302731719,1724,Home-1,200,OK,CDI-J&J 1-441,text,true,,88305,664,58,58,https://staging.jnjonc2022.com,1329,0,0
+1643302726765,6707,Home,200,OK,CDI-J&J 1-389,text,true,,89735,1517,57,57,https://staging.jnjonc2022.com,3408,0,0
+1643302726765,3408,Home-0,302,Found,CDI-J&J 1-389,text,true,,1449,849,57,57,https://staging.jnjonc2022.com/login,3408,0,0
+1643302730173,3299,Home-1,200,OK,CDI-J&J 1-389,text,true,,88286,668,57,57,https://staging.jnjonc2022.com,2500,0,0
+1643302726726,6751,Home,200,OK,CDI-J&J 1-351,text,true,,89682,1507,56,56,https://staging.jnjonc2022.com,3120,0,0
+1643302726726,3120,Home-0,302,Found,CDI-J&J 1-351,text,true,,1445,843,56,56,https://staging.jnjonc2022.com/login,3120,0,0
+1643302729848,3629,Home-1,200,OK,CDI-J&J 1-351,text,true,,88237,664,56,56,https://staging.jnjonc2022.com,2598,0,0
+1643302727027,6489,Home,200,OK,CDI-J&J 1-66,text,true,,89687,1505,55,55,https://staging.jnjonc2022.com,3295,0,0
+1643302727027,3295,Home-0,302,Found,CDI-J&J 1-66,text,true,,1447,839,55,55,https://staging.jnjonc2022.com/login,3295,0,0
+1643302730322,3194,Home-1,200,OK,CDI-J&J 1-66,text,true,,88240,666,55,55,https://staging.jnjonc2022.com,2511,0,0
+1643302728143,5477,Home,200,OK,CDI-J&J 1-497,text,true,,89704,1507,54,54,https://staging.jnjonc2022.com,3166,0,0
+1643302728143,3166,Home-0,302,Found,CDI-J&J 1-497,text,true,,1447,841,54,54,https://staging.jnjonc2022.com/login,3166,0,0
+1643302731309,2311,Home-1,200,OK,CDI-J&J 1-497,text,true,,88257,666,54,54,https://staging.jnjonc2022.com,1965,0,0
+1643302728055,5590,Home,200,OK,CDI-J&J 1-494,text,true,,89683,1511,53,53,https://staging.jnjonc2022.com,3219,0,0
+1643302728055,3220,Home-0,302,Found,CDI-J&J 1-494,text,true,,1451,841,53,53,https://staging.jnjonc2022.com/login,3219,0,0
+1643302731275,2370,Home-1,200,OK,CDI-J&J 1-494,text,true,,88232,670,53,53,https://staging.jnjonc2022.com,2079,0,0
+1643302728904,4775,Home,200,OK,CDI-J&J 1-447,text,true,,89711,1513,52,52,https://staging.jnjonc2022.com,3097,0,0
+1643302728904,3097,Home-0,302,Found,CDI-J&J 1-447,text,true,,1453,841,52,52,https://staging.jnjonc2022.com/login,3097,0,0
+1643302732001,1678,Home-1,200,OK,CDI-J&J 1-447,text,true,,88258,672,52,52,https://staging.jnjonc2022.com,1487,0,0
+1643302729476,4225,Home,200,OK,CDI-J&J 1-456,text,true,,89710,1511,51,51,https://staging.jnjonc2022.com,2862,0,0
+1643302729476,2862,Home-0,302,Found,CDI-J&J 1-456,text,true,,1449,843,51,51,https://staging.jnjonc2022.com/login,2862,0,0
+1643302732338,1363,Home-1,200,OK,CDI-J&J 1-456,text,true,,88261,668,51,51,https://staging.jnjonc2022.com,1177,0,0
+1643302726642,7083,Home,200,OK,CDI-J&J 1-53,text,true,,89688,1509,50,50,https://staging.jnjonc2022.com,3306,0,0
+1643302726642,3306,Home-0,302,Found,CDI-J&J 1-53,text,true,,1445,845,50,50,https://staging.jnjonc2022.com/login,3306,0,0
+1643302729949,3776,Home-1,200,OK,CDI-J&J 1-53,text,true,,88243,664,50,50,https://staging.jnjonc2022.com,2517,0,0
+1643302728396,5355,Home,200,OK,CDI-J&J 1-410,text,true,,89687,1507,49,49,https://staging.jnjonc2022.com,3281,0,0
+1643302728396,3281,Home-0,302,Found,CDI-J&J 1-410,text,true,,1447,841,49,49,https://staging.jnjonc2022.com/login,3281,0,0
+1643302731678,2073,Home-1,200,OK,CDI-J&J 1-410,text,true,,88240,666,49,49,https://staging.jnjonc2022.com,1593,0,0
+1643302726740,7355,Home,200,OK,CDI-J&J 1-342,text,true,,89660,1499,48,48,https://staging.jnjonc2022.com,3840,0,0
+1643302726740,3840,Home-0,302,Found,CDI-J&J 1-342,text,true,,1443,837,48,48,https://staging.jnjonc2022.com/login,3840,0,0
+1643302730581,3514,Home-1,200,OK,CDI-J&J 1-342,text,true,,88217,662,48,48,https://staging.jnjonc2022.com,2419,0,0
+1643302727490,6858,Home,200,OK,CDI-J&J 1-435,text,true,,89666,1511,47,47,https://staging.jnjonc2022.com,3374,0,0
+1643302727490,3374,Home-0,302,Found,CDI-J&J 1-435,text,true,,1447,845,47,47,https://staging.jnjonc2022.com/login,3374,0,0
+1643302730865,3483,Home-1,200,OK,CDI-J&J 1-435,text,true,,88219,666,47,47,https://staging.jnjonc2022.com,2807,0,0
+1643302729546,4862,Home,200,OK,CDI-J&J 1-462,text,true,,89739,1517,46,46,https://staging.jnjonc2022.com,3010,0,0
+1643302729546,3010,Home-0,302,Found,CDI-J&J 1-462,text,true,,1449,849,46,46,https://staging.jnjonc2022.com/login,3010,0,0
+1643302732557,1851,Home-1,200,OK,CDI-J&J 1-462,text,true,,88290,668,46,46,https://staging.jnjonc2022.com,1222,0,0
+1643302728870,5595,Home,200,OK,CDI-J&J 1-356,text,true,,89678,1515,45,45,https://staging.jnjonc2022.com,3190,0,0
+1643302728870,3190,Home-0,302,Found,CDI-J&J 1-356,text,true,,1445,851,45,45,https://staging.jnjonc2022.com/login,3190,0,0
+1643302732060,2405,Home-1,200,OK,CDI-J&J 1-356,text,true,,88233,664,45,45,https://staging.jnjonc2022.com,1352,0,0
+1643302728416,6071,Home,200,OK,CDI-J&J 1-362,text,true,,89657,1503,44,44,https://staging.jnjonc2022.com,3314,0,0
+1643302728416,3314,Home-0,302,Found,CDI-J&J 1-362,text,true,,1445,839,44,44,https://staging.jnjonc2022.com/login,3314,0,0
+1643302731730,2757,Home-1,200,OK,CDI-J&J 1-362,text,true,,88212,664,44,44,https://staging.jnjonc2022.com,1831,0,0
+1643302727725,6772,Home,200,OK,CDI-J&J 1-291,text,true,,89720,1507,43,43,https://staging.jnjonc2022.com,3375,0,0
+1643302727725,3375,Home-0,302,Found,CDI-J&J 1-291,text,true,,1445,843,43,43,https://staging.jnjonc2022.com/login,3375,0,0
+1643302731101,3396,Home-1,200,OK,CDI-J&J 1-291,text,true,,88275,664,43,43,https://staging.jnjonc2022.com,2177,0,0
+1643302726786,7716,Home,200,OK,CDI-J&J 1-149,text,true,,89679,1509,42,42,https://staging.jnjonc2022.com,3301,0,0
+1643302726786,3301,Home-0,302,Found,CDI-J&J 1-149,text,true,,1445,845,42,42,https://staging.jnjonc2022.com/login,3301,0,0
+1643302730087,4415,Home-1,200,OK,CDI-J&J 1-149,text,true,,88234,664,42,42,https://staging.jnjonc2022.com,2731,0,0
+1643302730771,3751,Home,200,OK,CDI-J&J 1-473,text,true,,89701,1509,41,41,https://staging.jnjonc2022.com,2400,0,0
+1643302730771,2400,Home-0,302,Found,CDI-J&J 1-473,text,true,,1447,843,41,41,https://staging.jnjonc2022.com/login,2400,0,0
+1643302733172,1350,Home-1,200,OK,CDI-J&J 1-473,text,true,,88254,666,41,41,https://staging.jnjonc2022.com,443,0,0
+1643302726454,8114,Home,200,OK,CDI-J&J 1-285,text,true,,89678,1507,40,40,https://staging.jnjonc2022.com,3181,0,0
+1643302726454,3181,Home-0,302,Found,CDI-J&J 1-285,text,true,,1441,847,40,40,https://staging.jnjonc2022.com/login,3181,0,0
+1643302729635,4933,Home-1,200,OK,CDI-J&J 1-285,text,true,,88237,660,40,40,https://staging.jnjonc2022.com,2631,0,0
+1643302729126,5448,Home,200,OK,CDI-J&J 1-481,text,true,,89697,1505,39,39,https://staging.jnjonc2022.com,3125,0,0
+1643302729126,3125,Home-0,302,Found,CDI-J&J 1-481,text,true,,1447,839,39,39,https://staging.jnjonc2022.com/login,3125,0,0
+1643302732252,2322,Home-1,200,OK,CDI-J&J 1-481,text,true,,88250,666,39,39,https://staging.jnjonc2022.com,1440,0,0
+1643302729791,4799,Home,200,OK,CDI-J&J 1-415,text,true,,89703,1513,38,38,https://staging.jnjonc2022.com,2950,0,0
+1643302729791,2950,Home-0,302,Found,CDI-J&J 1-415,text,true,,1447,847,38,38,https://staging.jnjonc2022.com/login,2950,0,0
+1643302732742,1848,Home-1,200,OK,CDI-J&J 1-415,text,true,,88256,666,38,38,https://staging.jnjonc2022.com,848,0,0
+1643302726190,8410,Home,200,OK,CDI-J&J 1-353,text,true,,89722,1515,37,37,https://staging.jnjonc2022.com,4916,0,0
+1643302726190,4916,Home-0,302,Found,CDI-J&J 1-353,text,true,,1457,839,37,37,https://staging.jnjonc2022.com/login,4916,0,0
+1643302731106,3494,Home-1,200,OK,CDI-J&J 1-353,text,true,,88265,676,37,37,https://staging.jnjonc2022.com,1837,0,0
+1643302729439,5213,Home,200,OK,CDI-J&J 1-457,text,true,,89760,1507,36,36,https://staging.jnjonc2022.com,4073,0,0
+1643302729439,4073,Home-0,302,Found,CDI-J&J 1-457,text,true,,1445,843,36,36,https://staging.jnjonc2022.com/login,4073,0,0
+1643302733512,1140,Home-1,200,OK,CDI-J&J 1-457,text,true,,88315,664,36,36,https://staging.jnjonc2022.com,261,0,0
+1643302726958,7700,Home,200,OK,CDI-J&J 1-358,text,true,,89680,1499,35,35,https://staging.jnjonc2022.com,3328,0,0
+1643302726958,3328,Home-0,302,Found,CDI-J&J 1-358,text,true,,1441,839,35,35,https://staging.jnjonc2022.com/login,3328,0,0
+1643302730286,4372,Home-1,200,OK,CDI-J&J 1-358,text,true,,88239,660,35,35,https://staging.jnjonc2022.com,2496,0,0
+1643302726371,8296,Home,200,OK,CDI-J&J 1-350,text,true,,89660,1507,34,34,https://staging.jnjonc2022.com,4810,0,0
+1643302726371,4810,Home-0,302,Found,CDI-J&J 1-350,text,true,,1441,847,34,34,https://staging.jnjonc2022.com/login,4810,0,0
+1643302731181,3486,Home-1,200,OK,CDI-J&J 1-350,text,true,,88219,660,34,34,https://staging.jnjonc2022.com,1957,0,0
+1643302728569,6120,Home,200,OK,CDI-J&J 1-499,text,true,,89718,1509,33,33,https://staging.jnjonc2022.com,3021,0,0
+1643302728569,3021,Home-0,302,Found,CDI-J&J 1-499,text,true,,1445,845,33,33,https://staging.jnjonc2022.com/login,3021,0,0
+1643302731590,3099,Home-1,200,OK,CDI-J&J 1-499,text,true,,88273,664,33,33,https://staging.jnjonc2022.com,1583,0,0
+1643302729006,5719,Home,200,OK,CDI-J&J 1-493,text,true,,89719,1509,32,32,https://staging.jnjonc2022.com,3007,0,0
+1643302729006,3007,Home-0,302,Found,CDI-J&J 1-493,text,true,,1443,847,32,32,https://staging.jnjonc2022.com/login,3007,0,0
+1643302732013,2712,Home-1,200,OK,CDI-J&J 1-493,text,true,,88276,662,32,32,https://staging.jnjonc2022.com,1298,0,0
+1643302728143,6594,Home,200,OK,CDI-J&J 1-426,text,true,,89715,1505,31,31,https://staging.jnjonc2022.com,3132,0,0
+1643302728143,3132,Home-0,302,Found,CDI-J&J 1-426,text,true,,1445,841,31,31,https://staging.jnjonc2022.com/login,3132,0,0
+1643302731275,3462,Home-1,200,OK,CDI-J&J 1-426,text,true,,88270,664,31,31,https://staging.jnjonc2022.com,1886,0,0
+1643302727724,7017,Home,200,OK,CDI-J&J 1-450,text,true,,89704,1503,30,30,https://staging.jnjonc2022.com,3333,0,0
+1643302727724,3333,Home-0,302,Found,CDI-J&J 1-450,text,true,,1445,839,30,30,https://staging.jnjonc2022.com/login,3333,0,0
+1643302731058,3683,Home-1,200,OK,CDI-J&J 1-450,text,true,,88259,664,30,30,https://staging.jnjonc2022.com,2576,0,0
+1643302728345,6418,Home,200,OK,CDI-J&J 1-490,text,true,,89727,1509,29,29,https://staging.jnjonc2022.com,3166,0,0
+1643302728345,3166,Home-0,302,Found,CDI-J&J 1-490,text,true,,1447,843,29,29,https://staging.jnjonc2022.com/login,3166,0,0
+1643302731511,3252,Home-1,200,OK,CDI-J&J 1-490,text,true,,88280,666,29,29,https://staging.jnjonc2022.com,2043,0,0
+1643302728456,6371,Home,200,OK,CDI-J&J 1-376,text,true,,89673,1505,28,28,https://staging.jnjonc2022.com,3134,0,0
+1643302728456,3134,Home-0,302,Found,CDI-J&J 1-376,text,true,,1443,843,28,28,https://staging.jnjonc2022.com/login,3134,0,0
+1643302731590,3237,Home-1,200,OK,CDI-J&J 1-376,text,true,,88230,662,28,28,https://staging.jnjonc2022.com,1681,0,0
+1643302726908,7922,Home,200,OK,CDI-J&J 1-218,text,true,,89750,1515,28,28,https://staging.jnjonc2022.com,5234,0,0
+1643302726908,5234,Home-0,302,Found,CDI-J&J 1-218,text,true,,1447,849,28,28,https://staging.jnjonc2022.com/login,5234,0,0
+1643302732142,2688,Home-1,200,OK,CDI-J&J 1-218,text,true,,88303,666,28,28,https://staging.jnjonc2022.com,1629,0,0
+1643302729536,5309,Home,200,OK,CDI-J&J 1-486,text,true,,89792,1519,26,26,https://staging.jnjonc2022.com,2878,0,0
+1643302728571,6274,Home,200,OK,CDI-J&J 1-398,text,true,,89667,1515,26,26,https://staging.jnjonc2022.com,3214,0,0
+1643302729536,2878,Home-0,302,Found,CDI-J&J 1-486,text,true,,1457,843,26,26,https://staging.jnjonc2022.com/login,2878,0,0
+1643302728571,3214,Home-0,302,Found,CDI-J&J 1-398,text,true,,1445,851,26,26,https://staging.jnjonc2022.com/login,3214,0,0
+1643302732415,2430,Home-1,200,OK,CDI-J&J 1-486,text,true,,88335,676,26,26,https://staging.jnjonc2022.com,1201,0,0
+1643302731785,3060,Home-1,200,OK,CDI-J&J 1-398,text,true,,88222,664,26,26,https://staging.jnjonc2022.com,2000,0,0
+1643302728888,5968,Home,200,OK,CDI-J&J 1-465,text,true,,89686,1503,24,24,https://staging.jnjonc2022.com,3223,0,0
+1643302728888,3223,Home-0,302,Found,CDI-J&J 1-465,text,true,,1443,841,24,24,https://staging.jnjonc2022.com/login,3223,0,0
+1643302732111,2745,Home-1,200,OK,CDI-J&J 1-465,text,true,,88243,662,24,24,https://staging.jnjonc2022.com,1363,0,0
+1643302728317,6573,Home,200,OK,CDI-J&J 1-381,text,true,,89675,1499,23,23,https://staging.jnjonc2022.com,3266,0,0
+1643302728317,3266,Home-0,302,Found,CDI-J&J 1-381,text,true,,1441,839,23,23,https://staging.jnjonc2022.com/login,3266,0,0
+1643302731583,3307,Home-1,200,OK,CDI-J&J 1-381,text,true,,88234,660,23,23,https://staging.jnjonc2022.com,1784,0,0
+1643302729770,5129,Home,200,OK,CDI-J&J 1-484,text,true,,89688,1509,22,22,https://staging.jnjonc2022.com,2846,0,0
+1643302729770,2846,Home-0,302,Found,CDI-J&J 1-484,text,true,,1447,843,22,22,https://staging.jnjonc2022.com/login,2846,0,0
+1643302732616,2283,Home-1,200,OK,CDI-J&J 1-484,text,true,,88241,666,22,22,https://staging.jnjonc2022.com,1316,0,0
+1643302728690,6223,Home,200,OK,CDI-J&J 1-401,text,true,,89711,1513,21,21,https://staging.jnjonc2022.com,3028,0,0
+1643302728690,3028,Home-0,302,Found,CDI-J&J 1-401,text,true,,1451,843,21,21,https://staging.jnjonc2022.com/login,3028,0,0
+1643302731719,3194,Home-1,200,OK,CDI-J&J 1-401,text,true,,88260,670,21,21,https://staging.jnjonc2022.com,1635,0,0
+1643302727087,7872,Home,200,OK,CDI-J&J 1-345,text,true,,89765,1511,20,20,https://staging.jnjonc2022.com,3199,0,0
+1643302727087,3199,Home-0,302,Found,CDI-J&J 1-345,text,true,,1451,841,20,20,https://staging.jnjonc2022.com/login,3199,0,0
+1643302730286,4673,Home-1,200,OK,CDI-J&J 1-345,text,true,,88314,670,20,20,https://staging.jnjonc2022.com,2957,0,0
+1643302729637,5351,Home,200,OK,CDI-J&J 1-422,text,true,,89730,1511,19,19,https://staging.jnjonc2022.com,2916,0,0
+1643302727105,7883,Home,200,OK,CDI-J&J 1-14,text,true,,89674,1503,19,19,https://staging.jnjonc2022.com,3414,0,0
+1643302729637,2916,Home-0,302,Found,CDI-J&J 1-422,text,true,,1449,843,19,19,https://staging.jnjonc2022.com/login,2916,0,0
+1643302727105,3414,Home-0,302,Found,CDI-J&J 1-14,text,true,,1445,839,19,19,https://staging.jnjonc2022.com/login,3414,0,0
+1643302732553,2435,Home-1,200,OK,CDI-J&J 1-422,text,true,,88281,668,19,19,https://staging.jnjonc2022.com,1504,0,0
+1643302730519,4469,Home-1,200,OK,CDI-J&J 1-14,text,true,,88229,664,19,19,https://staging.jnjonc2022.com,2473,0,0
+1643302726987,8014,Home,200,OK,CDI-J&J 1-91,text,true,,89729,1509,17,17,https://staging.jnjonc2022.com,3331,0,0
+1643302726987,3332,Home-0,302,Found,CDI-J&J 1-91,text,true,,1449,841,17,17,https://staging.jnjonc2022.com/login,3331,0,0
+1643302730319,4682,Home-1,200,OK,CDI-J&J 1-91,text,true,,88280,668,17,17,https://staging.jnjonc2022.com,2624,0,0
+1643302728255,6783,Home,200,OK,CDI-J&J 1-379,text,true,,89663,1503,16,16,https://staging.jnjonc2022.com,3149,0,0
+1643302728255,3149,Home-0,302,Found,CDI-J&J 1-379,text,true,,1445,839,16,16,https://staging.jnjonc2022.com/login,3149,0,0
+1643302731404,3634,Home-1,200,OK,CDI-J&J 1-379,text,true,,88218,664,16,16,https://staging.jnjonc2022.com,1931,0,0
+1643302727403,7654,Home,200,OK,CDI-J&J 1-314,text,true,,89624,1499,15,15,https://staging.jnjonc2022.com,3263,0,0
+1643302726881,8177,Home,200,OK,CDI-J&J 1-111,text,true,,89686,1505,15,15,https://staging.jnjonc2022.com,3238,0,0
+1643302727403,3263,Home-0,302,Found,CDI-J&J 1-314,text,true,,1443,837,15,15,https://staging.jnjonc2022.com/login,3263,0,0
+1643302726881,3238,Home-0,302,Found,CDI-J&J 1-111,text,true,,1445,841,15,15,https://staging.jnjonc2022.com/login,3238,0,0
+1643302730667,4390,Home-1,200,OK,CDI-J&J 1-314,text,true,,88181,662,15,15,https://staging.jnjonc2022.com,2928,0,0
+1643302730120,4938,Home-1,200,OK,CDI-J&J 1-111,text,true,,88241,664,15,15,https://staging.jnjonc2022.com,2604,0,0
+1643302729418,5641,Home,200,OK,CDI-J&J 1-424,text,true,,89701,1517,15,15,https://staging.jnjonc2022.com,3000,0,0
+1643302729418,3000,Home-0,302,Found,CDI-J&J 1-424,text,true,,1449,849,15,15,https://staging.jnjonc2022.com/login,3000,0,0
+1643302732418,2641,Home-1,200,OK,CDI-J&J 1-424,text,true,,88252,668,15,15,https://staging.jnjonc2022.com,1198,0,0
+1643302727094,7973,Home,200,OK,CDI-J&J 1-205,text,true,,89721,1501,12,12,https://staging.jnjonc2022.com,3453,0,0
+1643302727094,3453,Home-0,302,Found,CDI-J&J 1-205,text,true,,1445,837,12,12,https://staging.jnjonc2022.com/login,3453,0,0
+1643302730548,4519,Home-1,200,OK,CDI-J&J 1-205,text,true,,88276,664,12,12,https://staging.jnjonc2022.com,2901,0,0
+1643302728304,6786,Home,200,OK,CDI-J&J 1-384,text,true,,89681,1511,11,11,https://staging.jnjonc2022.com,3286,0,0
+1643302728304,3286,Home-0,302,Found,CDI-J&J 1-384,text,true,,1447,845,11,11,https://staging.jnjonc2022.com/login,3286,0,0
+1643302731590,3500,Home-1,200,OK,CDI-J&J 1-384,text,true,,88234,666,11,11,https://staging.jnjonc2022.com,2165,0,0
+1643302729741,5351,Home,200,OK,CDI-J&J 1-437,text,true,,89709,1507,11,11,https://staging.jnjonc2022.com,3015,0,0
+1643302729741,3015,Home-0,302,Found,CDI-J&J 1-437,text,true,,1447,841,11,11,https://staging.jnjonc2022.com/login,3015,0,0
+1643302732756,2336,Home-1,200,OK,CDI-J&J 1-437,text,true,,88262,666,11,11,https://staging.jnjonc2022.com,967,0,0
+1643302725241,9855,Home,200,OK,CDI-J&J 1-32,text,true,,89702,1509,9,9,https://staging.jnjonc2022.com,2480,0,0
+1643302725241,2480,Home-0,302,Found,CDI-J&J 1-32,text,true,,1449,841,9,9,https://staging.jnjonc2022.com/login,2480,0,0
+1643302727721,7375,Home-1,200,OK,CDI-J&J 1-32,text,true,,88253,668,9,9,https://staging.jnjonc2022.com,5272,0,0
+1643302731192,3944,Home,200,OK,CDI-J&J 1-368,text,true,,89773,1525,8,8,https://staging.jnjonc2022.com,3005,0,0
+1643302731192,3005,Home-0,302,Found,CDI-J&J 1-368,text,true,,1453,853,8,8,https://staging.jnjonc2022.com/login,3005,0,0
+1643302734197,939,Home-1,200,OK,CDI-J&J 1-368,text,true,,88320,672,8,8,https://staging.jnjonc2022.com,542,0,0
+1643302727091,8088,Home,200,OK,CDI-J&J 1-360,text,true,,89706,1511,7,7,https://staging.jnjonc2022.com,5011,0,0
+1643302727091,5011,Home-0,302,Found,CDI-J&J 1-360,text,true,,1447,845,7,7,https://staging.jnjonc2022.com/login,5011,0,0
+1643302732102,3077,Home-1,200,OK,CDI-J&J 1-360,text,true,,88259,666,7,7,https://staging.jnjonc2022.com,2514,0,0
+1643302729913,5269,Home,200,OK,CDI-J&J 1-393,text,true,,89722,1511,6,6,https://staging.jnjonc2022.com,2754,0,0
+1643302729913,2754,Home-0,302,Found,CDI-J&J 1-393,text,true,,1447,845,6,6,https://staging.jnjonc2022.com/login,2754,0,0
+1643302732667,2515,Home-1,200,OK,CDI-J&J 1-393,text,true,,88275,666,6,6,https://staging.jnjonc2022.com,1917,0,0
+1643302730190,5001,Home,200,OK,CDI-J&J 1-445,text,true,,89708,1507,5,5,https://staging.jnjonc2022.com,2798,0,0
+1643302730190,2798,Home-0,302,Found,CDI-J&J 1-445,text,true,,1443,845,5,5,https://staging.jnjonc2022.com/login,2798,0,0
+1643302732989,2202,Home-1,200,OK,CDI-J&J 1-445,text,true,,88265,662,5,5,https://staging.jnjonc2022.com,1225,0,0
+1643302726402,8790,Home,200,OK,CDI-J&J 1-167,text,true,,89726,1505,5,5,https://staging.jnjonc2022.com,3569,0,0
+1643302726402,3569,Home-0,302,Found,CDI-J&J 1-167,text,true,,1443,843,5,5,https://staging.jnjonc2022.com/login,3569,0,0
+1643302729972,5220,Home-1,200,OK,CDI-J&J 1-167,text,true,,88283,662,5,5,https://staging.jnjonc2022.com,4611,0,0
+1643302727637,7579,Home,200,OK,CDI-J&J 1-242,text,true,,89721,1515,3,3,https://staging.jnjonc2022.com,3300,0,0
+1643302727637,3300,Home-0,302,Found,CDI-J&J 1-242,text,true,,1447,849,3,3,https://staging.jnjonc2022.com/login,3300,0,0
+1643302730938,4278,Home-1,200,OK,CDI-J&J 1-242,text,true,,88274,666,3,3,https://staging.jnjonc2022.com,3198,0,0
+1643302727331,7888,Home,200,OK,CDI-J&J 1-141,text,true,,89746,1511,2,2,https://staging.jnjonc2022.com,4995,0,0
+1643302727331,4995,Home-0,302,Found,CDI-J&J 1-141,text,true,,1447,845,2,2,https://staging.jnjonc2022.com/login,4995,0,0
+1643302732327,2892,Home-1,200,OK,CDI-J&J 1-141,text,true,,88299,666,2,2,https://staging.jnjonc2022.com,1659,0,0
+1643302729518,5941,Home,200,OK,CDI-J&J 1-420,text,true,,89749,1511,1,1,https://staging.jnjonc2022.com,2979,0,0
+1643302729518,2979,Home-0,302,Found,CDI-J&J 1-420,text,true,,1449,843,1,1,https://staging.jnjonc2022.com/login,2979,0,0
+1643302732498,2961,Home-1,200,OK,CDI-J&J 1-420,text,true,,88300,668,1,1,https://staging.jnjonc2022.com,1093,0,0
